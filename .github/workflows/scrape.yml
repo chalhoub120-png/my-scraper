@@ -1,98 +1,78 @@
 import os
 import re
-import sys
-import time
 import requests
 
-API_KEY = os.environ.get("FIRECRAWL_API_KEY")
-if not API_KEY:
-    sys.exit("Missing FIRECRAWL_API_KEY secret")
-
-BASE = "https://api.firecrawl.dev/v1"
-HEADERS = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json",
-}
 os.makedirs("content", exist_ok=True)
+LOG = []
 
 
-def slug(text):
-    return re.sub(r"[^a-zA-Z0-9]+", "-", text).strip("-")[:70] or "page"
+def log(msg):
+    print(msg)
+    LOG.append(str(msg))
 
 
-def save(name, markdown):
+def slug(t):
+    return re.sub(r"[^a-zA-Z0-9]+", "-", t).strip("-")[:60] or "page"
+
+
+def save(name, text):
     with open(f"content/{name}.md", "w", encoding="utf-8") as f:
-        f.write(markdown)
-    print("Saved:", name)
+        f.write(text)
+    log("OK saved: " + name)
 
 
-def call(method, path, **kw):
-    r = requests.request(method, BASE + path, headers=HEADERS, timeout=180, **kw)
+def post(path, body, key):
+    r = requests.post(
+        "https://api.firecrawl.dev/v1" + path,
+        headers={"Authorization": "Bearer " + key},
+        json=body,
+        timeout=180,
+    )
     if not r.ok:
-        print("ERROR", r.status_code, r.text[:300])
+        log(f"ERROR {r.status_code}: {r.text[:300]}")
         return None
     return r.json()
 
 
-def do_scrape(url):
-    d = call("POST", "/scrape", json={"url": url, "formats": ["markdown"]})
-    if d:
-        save(slug(url), d["data"].get("markdown", ""))
-
-
-def do_search(query):
-    d = call("POST", "/search", json={
-        "query": query,
-        "limit": 8,
-        "scrapeOptions": {"formats": ["markdown"]},
-    })
-    if not d:
+def main():
+    key = os.environ.get("FIRECRAWL_API_KEY", "").strip()
+    if not key:
+        log("ERROR: the secret FIRECRAWL_API_KEY is empty or missing")
         return
-    parts = []
-    for i, item in enumerate(d.get("data", []), 1):
-        parts.append(
-            f"## {i}. {item.get('title', '')}\n"
-            f"Source: {item.get('url', '')}\n\n"
-            f"{item.get('markdown') or item.get('description', '')}\n"
-        )
-    save("search-" + slug(query), "\n---\n\n".join(parts))
-
-
-def do_crawl(url):
-    d = call("POST", "/crawl", json={
-        "url": url,
-        "limit": 10,
-        "scrapeOptions": {"formats": ["markdown"]},
-    })
-    if not d:
+    if not os.path.exists("urls.txt"):
+        log("ERROR: urls.txt not found")
         return
-    job = d["id"]
-    for _ in range(40):
-        time.sleep(5)
-        s = call("GET", f"/crawl/{job}")
-        if s and s.get("status") == "completed":
-            parts = [
-                f"## {p['metadata'].get('title', '')}\n"
-                f"Source: {p['metadata'].get('sourceURL', '')}\n\n"
-                f"{p.get('markdown', '')}\n"
-                for p in s.get("data", [])
-            ]
-            save("crawl-" + slug(url), "\n---\n\n".join(parts))
-            return
-        if s and s.get("status") == "failed":
-            print("Crawl failed")
-            return
-    print("Crawl timed out")
+    with open("urls.txt", encoding="utf-8") as f:
+        lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+    if not lines:
+        log("ERROR: urls.txt is empty")
+        return
+    for line in lines:
+        log("Working on: " + line)
+        try:
+            if line.lower().startswith("search:"):
+                q = line[7:].strip()
+                d = post("/search", {"query": q, "limit": 8,
+                         "scrapeOptions": {"formats": ["markdown"]}}, key)
+                if d:
+                    parts = [
+                        f"## {i}. {x.get('title', '')}\nSource: {x.get('url', '')}\n\n"
+                        f"{x.get('markdown') or x.get('description', '')}\n"
+                        for i, x in enumerate(d.get("data", []), 1)
+                    ]
+                    save("search-" + slug(q), "\n---\n\n".join(parts))
+            else:
+                d = post("/scrape", {"url": line, "formats": ["markdown"]}, key)
+                if d:
+                    save(slug(line), d["data"].get("markdown", ""))
+        except Exception as e:
+            log("ERROR: " + repr(e))
 
 
-with open("urls.txt", encoding="utf-8") as f:
-    lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+try:
+    main()
+except Exception as e:
+    log("FATAL: " + repr(e))
 
-for line in lines:
-    print("Working on:", line)
-    if line.lower().startswith("search:"):
-        do_search(line[7:].strip())
-    elif line.lower().startswith("crawl:"):
-        do_crawl(line[6:].strip())
-    else:
-        do_scrape(line)
+with open("content/log.txt", "w", encoding="utf-8") as f:
+    f.write("\n".join(LOG))
