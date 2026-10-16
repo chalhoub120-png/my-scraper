@@ -1,31 +1,98 @@
-name: Scrape with Firecrawl
+import os
+import re
+import sys
+import time
+import requests
 
-on:
-  workflow_dispatch:
+API_KEY = os.environ.get("FIRECRAWL_API_KEY")
+if not API_KEY:
+    sys.exit("Missing FIRECRAWL_API_KEY secret")
 
-permissions:
-  contents: write
+BASE = "https://api.firecrawl.dev/v1"
+HEADERS = {
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json",
+}
+os.makedirs("content", exist_ok=True)
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+def slug(text):
+    return re.sub(r"[^a-zA-Z0-9]+", "-", text).strip("-")[:70] or "page"
 
-      - run: pip install requests
 
-      - run: python scrape.py
-        env:
-          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+def save(name, markdown):
+    with open(f"content/{name}.md", "w", encoding="utf-8") as f:
+        f.write(markdown)
+    print("Saved:", name)
 
-      - name: Commit results
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content
-          git diff --cached --quiet || git commit -m "Update scraped content"
-          git push
+
+def call(method, path, **kw):
+    r = requests.request(method, BASE + path, headers=HEADERS, timeout=180, **kw)
+    if not r.ok:
+        print("ERROR", r.status_code, r.text[:300])
+        return None
+    return r.json()
+
+
+def do_scrape(url):
+    d = call("POST", "/scrape", json={"url": url, "formats": ["markdown"]})
+    if d:
+        save(slug(url), d["data"].get("markdown", ""))
+
+
+def do_search(query):
+    d = call("POST", "/search", json={
+        "query": query,
+        "limit": 8,
+        "scrapeOptions": {"formats": ["markdown"]},
+    })
+    if not d:
+        return
+    parts = []
+    for i, item in enumerate(d.get("data", []), 1):
+        parts.append(
+            f"## {i}. {item.get('title', '')}\n"
+            f"Source: {item.get('url', '')}\n\n"
+            f"{item.get('markdown') or item.get('description', '')}\n"
+        )
+    save("search-" + slug(query), "\n---\n\n".join(parts))
+
+
+def do_crawl(url):
+    d = call("POST", "/crawl", json={
+        "url": url,
+        "limit": 10,
+        "scrapeOptions": {"formats": ["markdown"]},
+    })
+    if not d:
+        return
+    job = d["id"]
+    for _ in range(40):
+        time.sleep(5)
+        s = call("GET", f"/crawl/{job}")
+        if s and s.get("status") == "completed":
+            parts = [
+                f"## {p['metadata'].get('title', '')}\n"
+                f"Source: {p['metadata'].get('sourceURL', '')}\n\n"
+                f"{p.get('markdown', '')}\n"
+                for p in s.get("data", [])
+            ]
+            save("crawl-" + slug(url), "\n---\n\n".join(parts))
+            return
+        if s and s.get("status") == "failed":
+            print("Crawl failed")
+            return
+    print("Crawl timed out")
+
+
+with open("urls.txt", encoding="utf-8") as f:
+    lines = [l.strip() for l in f if l.strip() and not l.startswith("#")]
+
+for line in lines:
+    print("Working on:", line)
+    if line.lower().startswith("search:"):
+        do_search(line[7:].strip())
+    elif line.lower().startswith("crawl:"):
+        do_crawl(line[6:].strip())
+    else:
+        do_scrape(line)
