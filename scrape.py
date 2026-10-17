@@ -1,7 +1,7 @@
-import hashlib
 import os
 import re
 import time
+import hashlib
 import requests
 
 os.makedirs("content", exist_ok=True)
@@ -17,6 +17,7 @@ def log(msg):
 def slug(t):
     s = re.sub(r"[^a-zA-Z0-9]+", "-", t).strip("-")[:60]
     return s or "q-" + hashlib.md5(t.encode()).hexdigest()[:8]
+
 
 def save(name, text):
     with open(f"content/{name}.md", "w", encoding="utf-8") as f:
@@ -37,9 +38,10 @@ def post(path, body, key):
     return r.json()
 
 
-def get(path, key):
+def get(path_or_url, key):
+    url = path_or_url if path_or_url.startswith("http") else API + path_or_url
     r = requests.get(
-        API + path,
+        url,
         headers={"Authorization": "Bearer " + key},
         timeout=180,
     )
@@ -49,13 +51,15 @@ def get(path, key):
     return r.json()
 
 
-def crawl(url, key, limit=10, max_wait=300):
+def crawl(url, key, limit=10):
+    """Start a crawl, wait for it, and return all pages (follows pagination)."""
     d = post("/crawl", {"url": url, "limit": limit,
              "scrapeOptions": {"formats": ["markdown"]}}, key)
     if not d or not d.get("id"):
         return None
     job_id = d["id"]
     log("Crawl started: " + job_id)
+    max_wait = max(300, limit * 10)
     waited = 0
     while waited < max_wait:
         time.sleep(5)
@@ -65,12 +69,33 @@ def crawl(url, key, limit=10, max_wait=300):
             return None
         status = s.get("status")
         if status == "completed":
-            return s.get("data", [])
+            pages = list(s.get("data", []))
+            nxt = s.get("next")
+            while nxt:
+                s = get(nxt, key)
+                if not s:
+                    break
+                pages += s.get("data", [])
+                nxt = s.get("next")
+            return pages
         if status in ("failed", "cancelled"):
             log("ERROR: crawl " + status)
             return None
     log("ERROR: crawl timed out")
     return None
+
+
+def save_crawl(url, pages):
+    """One file per page, inside content/<crawl-name>/."""
+    folder = "crawl-" + slug(url)
+    os.makedirs(f"content/{folder}", exist_ok=True)
+    for i, p in enumerate(pages, 1):
+        meta = p.get("metadata", {})
+        src = meta.get("sourceURL", "")
+        title = meta.get("title", "")
+        name = f"{folder}/{i:04d}-{slug(src)[:50]}"
+        save(name, f"# {title}\nSource: {src}\n\n{p.get('markdown', '')}\n")
+    log(f"OK crawl pages: {len(pages)}")
 
 
 def main():
@@ -101,16 +126,18 @@ def main():
                     ]
                     save("search-" + slug(q), "\n---\n\n".join(parts))
             elif line.lower().startswith("crawl:"):
-                url = line[6:].strip()
-                pages = crawl(url, key)
+                # format:  crawl: https://site.com
+                #     or:  crawl: https://site.com | 200
+                body = line[6:].strip()
+                limit = 10
+                if "|" in body:
+                    body, lim = body.rsplit("|", 1)
+                    body = body.strip()
+                    if lim.strip().isdigit():
+                        limit = int(lim.strip())
+                pages = crawl(body, key, limit)
                 if pages is not None:
-                    parts = [
-                        f"## {i}. {p.get('metadata', {}).get('title', '')}\n"
-                        f"Source: {p.get('metadata', {}).get('sourceURL', '')}\n\n"
-                        f"{p.get('markdown', '')}\n"
-                        for i, p in enumerate(pages, 1)
-                    ]
-                    save("crawl-" + slug(url), "\n---\n\n".join(parts))
+                    save_crawl(body, pages)
             else:
                 d = post("/scrape", {"url": line, "formats": ["markdown"]}, key)
                 if d:
