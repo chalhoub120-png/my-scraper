@@ -1,43 +1,4 @@
-## 1. Login | HSTS Redirection Community
-Source: https://site.com/login?startURL=%2Fsitemap.xml
-
-![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
-
-0 Saved UsernamesEdit List
-
-SaveCancel
-
-Username
-
-![Log In with a Different Username](https://site.com/img/clear.png)
-
-Password
-
-![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
-
-Remember me
-
-[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
-
-To go to your company's login page, enter the custom domain name.
-
-Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
-
-Custom Domain
-
-https:// _domain_.my.salesforce.com
-
-BackContinue
-
-Log In with a Different Username
-
-Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
-
-Login
-
----
-
-## 2. Salesforce: The #1 AI CRM
+## 1. Salesforce: The #1 AI CRM
 Source: https://site.com
 
 [Skip to content](https://www.salesforce.com/#main-content)
@@ -667,6 +628,45 @@ ApplyCancel
 Save Settings
 
 Accept All Cookies
+
+---
+
+## 2. Login | HSTS Redirection Community
+Source: https://site.com/login?startURL=%2Fsitemap.xml
+
+![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
+
+0 Saved UsernamesEdit List
+
+SaveCancel
+
+Username
+
+![Log In with a Different Username](https://site.com/img/clear.png)
+
+Password
+
+![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
+
+Remember me
+
+[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
+
+To go to your company's login page, enter the custom domain name.
+
+Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
+
+Custom Domain
+
+https:// _domain_.my.salesforce.com
+
+BackContinue
+
+Log In with a Different Username
+
+Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
+
+Login
 
 ---
 
@@ -1675,7 +1675,203 @@ Accept All Cookies
 
 ---
 
-## 7. AI Agent Builder: Agentforce | Salesforce
+## 7. Why Choose Agentforce? | Salesforce
+Source: https://www.salesforce.com/agentforce/why/
+
+[Skip to content](https://www.salesforce.com/agentforce/why/#main-content)
+
+![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
+
+Agentforce
+
+[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
+Agentforce](https://www.salesforce.com/agentforce/)
+
+Why Agentforce
+
+![](https://play.vidyard.com/76KL6JE9mB5DChqxVXb7Di.jpg)
+
+[Talk to an expert](https://www.salesforce.com/form/agentforce/contact-us/?d=70130000000sUVbAAM&pr=https%3A%2F%2Fwww.salesforce.com%2Fagentforce%2Fwhy%2F&utm_agent_cohort=qualified)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/af-marquee-bg.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/Marquee-Background-Image-Mobile@2x.webp?w=731)
+
+Your browser does not support the video tag.
+
+
+Your browser does not support the video tag.
+
+
+Your browser does not support the video tag.
+
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_2_Ground_Agents.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_3_Operate_With_Governance.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_4a_Control_Agent_Behavior.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_5_Connect_Across_Channel.webp?w=1024)
+
+![Screen shot of Agentforce Builder](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/script-promo-img_2914c0.webp?w=1024)
+
+[Learn More](https://developer.salesforce.com/sample-apps/agent-script-recipes)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
+
+### Build agents fast.
+
+Take a closer look at how agent building works in our library.
+
+[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
+
+### Get expert guidance.
+
+Launch Agentforce with speed, confidence, and ROI you can measure.
+
+[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
+
+### Talk to a rep.
+
+Tell us about your business needs, and we’ll help you find answers.
+
+[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
+
+### What makes Agentforce unique?
+
+Agentforce empowers businesses with [autonomous AI agents](https://www.salesforce.com/agentforce/ai-agents/autonomous-agents/) that operate independently, adapt to real-time data, and seamlessly collaborate with human teams. Built on a low-code/no-code platform, Agentforce is adaptable to various industries and uses advanced [AI](https://www.salesforce.com/artificial-intelligence/what-is-ai/) capabilities to deliver accurate, efficient, and creative solutions.
+
+### Is Agentforce secure?
+
+Agentforce utilizes Salesforce's robust security infrastructure, including the Einstein Trust Layer. This ensures data privacy and limits access to authorized personnel. Advanced security measures, like data encryption and strict access controls, further safeguard sensitive information.
+
+Salesforce also conducts regular security audits and adheres to industry standards to maintain a high level of security for Agentforce and its users.
+
+### Do you need to know how to code to use Agentforce?
+
+No, you don't need to know how to code to use Agentforce. It's designed with a low-code/no-code approach, making it accessible to users with varying technical backgrounds. With its user-friendly interface, you can build and customize [AI agents](https://www.salesforce.com/agentforce/ai-agents/) without writing complex code. That gives you the power to quickly deploy agents and [use AI to automate tasks](https://www.salesforce.com/artificial-intelligence/ai-automation/) and improve efficiency.
+
+### What are the practical applications of Agentforce?
+
+There are so many ways you can use Agentforce to streamline operations, boost productivity, and improve customer experiences. Some [Agentforce use cases](https://www.salesforce.com/agentforce/use-cases/) include:
+
+- Automating customer support
+- Simplifying sales processes
+- Generating marketing content
+- Optimizing internal workflows
+
+### How much does Agentforce cost?
+
+Agentforce for Service and Agentforce are now generally available. Agentforce for Service pricing starts at $2 USD per conversation; standard volume discounts apply.
+
+### What's the difference between Agentforce and Copilot/chatbots?
+
+While copilots and chatbots are valuable tools, Agentforce offers a more advanced level of AI. It empowers agents with greater autonomy, enabling them to handle a wider range of tasks independently. With advanced AI capabilities, Agentforce agents can provide more accurate, efficient, and creative solutions, ultimately delivering greater value to businesses. Learn more about the differences between [AI agents vs. chatbots](https://www.salesforce.com/agentforce/ai-agent-vs-chatbot/).
+
+### Is Agentforce fully integrated with Salesforce?
+
+Agentforce is deeply integrated with the Salesforce Platform, allowing AI agents to seamlessly access and interact with data across various Salesforce applications. This integration enables agents to use customer data, trigger workflows, and update records, making them a powerful tool within the Salesforce ecosystem.
+
+[Call Us](tel:18006649073)
+
+a10681260716.cdn.optimizely.com
+
+# a10681260716.cdn.optimizely.com is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+
+This page has been blocked by an extension
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
+
+## Cookie Consent Manager
+
+## Cookie Consent Manager
+
+- ### General Information
+
+- ### Required Cookies
+
+- ### Functional Cookies
+
+- ### Advertising Cookies
+
+
+#### General Information
+
+We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
+
+
+[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
+
+#### Required Cookies
+
+Always Active
+
+Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
+
+Cookies Details
+
+#### Functional Cookies
+
+Functional Cookies
+
+Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
+
+Cookies Details
+
+#### Advertising Cookies
+
+Advertising Cookies
+
+Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Filter Button
+
+ConsentLeg.Interest
+
+checkbox labellabel
+
+checkbox labellabel
+
+checkbox labellabel
+
+Clear
+
+- checkbox labellabel
+
+
+ApplyCancel
+
+Save Settings
+
+Accept All Cookies
+
+---
+
+## 8. AI Agent Builder: Agentforce | Salesforce
 Source: https://www.salesforce.com/agentforce/agent-builder/
 
 [Skip to content](https://www.salesforce.com/agentforce/agent-builder/#main-content)
@@ -1850,202 +2046,6 @@ You can connect Agentforce agents to the Salesforce tools and data you already u
 ### Are there any pre-built AI agent templates?
 
 Yes. Agentforce comes with a library of prebuilt agent templates you can use right away, including the Service Agent, Employee Agent, Campaign Agent, Sales Development Rep, Sales Coach, Guided Shopping (B2B & D2C), Guided Shopping (B2C), and Setup Agent templates. Each can be customized with your own data, guardrails, and business logic to fit your exact needs. Learn more about [how to build an AI agent](https://www.salesforce.com/agentforce/agent-builder/how-to-build/).
-
-[Call Us](tel:18006649073)
-
-a10681260716.cdn.optimizely.com
-
-# a10681260716.cdn.optimizely.com is blocked
-
-This page has been blocked by an extension
-
-- Try disabling your extensions.
-
-ERR\_BLOCKED\_BY\_CLIENT
-
-Reload
-
-
-This page has been blocked by an extension
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
-
-![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
-
-## Cookie Consent Manager
-
-## Cookie Consent Manager
-
-- ### General Information
-
-- ### Required Cookies
-
-- ### Functional Cookies
-
-- ### Advertising Cookies
-
-
-#### General Information
-
-We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
-
-
-[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
-
-#### Required Cookies
-
-Always Active
-
-Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
-
-Cookies Details
-
-#### Functional Cookies
-
-Functional Cookies
-
-Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
-
-Cookies Details
-
-#### Advertising Cookies
-
-Advertising Cookies
-
-Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Filter Button
-
-ConsentLeg.Interest
-
-checkbox labellabel
-
-checkbox labellabel
-
-checkbox labellabel
-
-Clear
-
-- checkbox labellabel
-
-
-ApplyCancel
-
-Save Settings
-
-Accept All Cookies
-
----
-
-## 8. Why Choose Agentforce? | Salesforce
-Source: https://www.salesforce.com/agentforce/why/
-
-[Skip to content](https://www.salesforce.com/agentforce/why/#main-content)
-
-![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
-
-Agentforce
-
-[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
-Agentforce](https://www.salesforce.com/agentforce/)
-
-Why Agentforce
-
-![](https://play.vidyard.com/76KL6JE9mB5DChqxVXb7Di.jpg)
-
-[Talk to an expert](https://www.salesforce.com/form/agentforce/contact-us/?d=70130000000sUVbAAM&pr=https%3A%2F%2Fwww.salesforce.com%2Fagentforce%2Fwhy%2F&utm_agent_cohort=qualified)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/af-marquee-bg.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/Marquee-Background-Image-Mobile@2x.webp?w=731)
-
-Your browser does not support the video tag.
-
-
-Your browser does not support the video tag.
-
-
-Your browser does not support the video tag.
-
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_2_Ground_Agents.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_3_Operate_With_Governance.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_4a_Control_Agent_Behavior.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/Feature_5_Connect_Across_Channel.webp?w=1024)
-
-![Screen shot of Agentforce Builder](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/12/script-promo-img_2914c0.webp?w=1024)
-
-[Learn More](https://developer.salesforce.com/sample-apps/agent-script-recipes)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
-
-### Build agents fast.
-
-Take a closer look at how agent building works in our library.
-
-[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
-
-### Get expert guidance.
-
-Launch Agentforce with speed, confidence, and ROI you can measure.
-
-[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
-
-### Talk to a rep.
-
-Tell us about your business needs, and we’ll help you find answers.
-
-[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
-
-### What makes Agentforce unique?
-
-Agentforce empowers businesses with [autonomous AI agents](https://www.salesforce.com/agentforce/ai-agents/autonomous-agents/) that operate independently, adapt to real-time data, and seamlessly collaborate with human teams. Built on a low-code/no-code platform, Agentforce is adaptable to various industries and uses advanced [AI](https://www.salesforce.com/artificial-intelligence/what-is-ai/) capabilities to deliver accurate, efficient, and creative solutions.
-
-### Is Agentforce secure?
-
-Agentforce utilizes Salesforce's robust security infrastructure, including the Einstein Trust Layer. This ensures data privacy and limits access to authorized personnel. Advanced security measures, like data encryption and strict access controls, further safeguard sensitive information.
-
-Salesforce also conducts regular security audits and adheres to industry standards to maintain a high level of security for Agentforce and its users.
-
-### Do you need to know how to code to use Agentforce?
-
-No, you don't need to know how to code to use Agentforce. It's designed with a low-code/no-code approach, making it accessible to users with varying technical backgrounds. With its user-friendly interface, you can build and customize [AI agents](https://www.salesforce.com/agentforce/ai-agents/) without writing complex code. That gives you the power to quickly deploy agents and [use AI to automate tasks](https://www.salesforce.com/artificial-intelligence/ai-automation/) and improve efficiency.
-
-### What are the practical applications of Agentforce?
-
-There are so many ways you can use Agentforce to streamline operations, boost productivity, and improve customer experiences. Some [Agentforce use cases](https://www.salesforce.com/agentforce/use-cases/) include:
-
-- Automating customer support
-- Simplifying sales processes
-- Generating marketing content
-- Optimizing internal workflows
-
-### How much does Agentforce cost?
-
-Agentforce for Service and Agentforce are now generally available. Agentforce for Service pricing starts at $2 USD per conversation; standard volume discounts apply.
-
-### What's the difference between Agentforce and Copilot/chatbots?
-
-While copilots and chatbots are valuable tools, Agentforce offers a more advanced level of AI. It empowers agents with greater autonomy, enabling them to handle a wider range of tasks independently. With advanced AI capabilities, Agentforce agents can provide more accurate, efficient, and creative solutions, ultimately delivering greater value to businesses. Learn more about the differences between [AI agents vs. chatbots](https://www.salesforce.com/agentforce/ai-agent-vs-chatbot/).
-
-### Is Agentforce fully integrated with Salesforce?
-
-Agentforce is deeply integrated with the Salesforce Platform, allowing AI agents to seamlessly access and interact with data across various Salesforce applications. This integration enables agents to use customer data, trigger workflows, and update records, making them a powerful tool within the Salesforce ecosystem.
 
 [Call Us](tel:18006649073)
 

@@ -75,7 +75,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 5. Example Domain
-Source: https://example.com/?lang=placeholder
+Source: https://example.com/?rl=1790603124-K-28-4
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
@@ -94,7 +94,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 6. Example Domain
-Source: https://example.com/?rl=1790603124-K-28-4
+Source: https://example.com/?lang=placeholder
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
@@ -151,7 +151,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 9. Example Domain
-Source: https://example.com/?seenrelay_internal_benchmark=fleet-browser-layout-38211352447-1-1
+Source: https://example.com/?anon=1
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
@@ -170,7 +170,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 10. Example Domain
-Source: https://example.com/?anon=1
+Source: https://example.com/?seenrelay_internal_benchmark=fleet-browser-layout-38211352447-1-1
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
