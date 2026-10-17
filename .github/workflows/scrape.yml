@@ -1,19 +1,32 @@
+name: Scrape with Firecrawl
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
       - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - run: python scrape.py
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
 
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Use the workflow's branch name; replace 'main' if your default branch is different.
-          BRANCH="${{ github.ref_name || 'main' }}"
-
-          # Fetch and rebase onto the latest remote branch to avoid non-fast-forward pushes.
-          git fetch origin "$BRANCH"
-          git pull --rebase --autostash origin "$BRANCH" || true
-
           git add content
           git diff --cached --quiet || git commit -m "Update scraped content"
+          git pull --rebase
           git push
