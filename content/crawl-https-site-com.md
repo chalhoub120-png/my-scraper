@@ -1,4 +1,43 @@
-## 1. Salesforce: The #1 AI CRM
+## 1. Login | HSTS Redirection Community
+Source: https://site.com/login?startURL=%2Fsitemap.xml
+
+![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
+
+0 Saved UsernamesEdit List
+
+SaveCancel
+
+Username
+
+![Log In with a Different Username](https://site.com/img/clear.png)
+
+Password
+
+![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
+
+Remember me
+
+[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
+
+To go to your company's login page, enter the custom domain name.
+
+Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
+
+Custom Domain
+
+https:// _domain_.my.salesforce.com
+
+BackContinue
+
+Log In with a Different Username
+
+Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
+
+Login
+
+---
+
+## 2. Salesforce: The #1 AI CRM
 Source: https://site.com
 
 [Skip to content](https://www.salesforce.com/#main-content)
@@ -631,7 +670,7 @@ Accept All Cookies
 
 ---
 
-## 2. Login | HSTS Redirection Community
+## 3. Login | HSTS Redirection Community
 Source: https://site.com/login?startURL=%2Fsitemap_index.xml
 
 ![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
@@ -665,45 +704,6 @@ BackContinue
 Log In with a Different Username
 
 Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap_index.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
-
-Login
-
----
-
-## 3. Login | HSTS Redirection Community
-Source: https://site.com/login?startURL=%2Fsitemap.xml
-
-![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
-
-0 Saved UsernamesEdit List
-
-SaveCancel
-
-Username
-
-![Log In with a Different Username](https://site.com/img/clear.png)
-
-Password
-
-![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
-
-Remember me
-
-[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
-
-To go to your company's login page, enter the custom domain name.
-
-Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
-
-Custom Domain
-
-https:// _domain_.my.salesforce.com
-
-BackContinue
-
-Log In with a Different Username
-
-Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
 
 Login
 
@@ -1675,7 +1675,275 @@ Accept All Cookies
 
 ---
 
-## 7. Why Choose Agentforce? | Salesforce
+## 7. AI Agent Builder: Agentforce | Salesforce
+Source: https://www.salesforce.com/agentforce/agent-builder/
+
+[Skip to content](https://www.salesforce.com/agentforce/agent-builder/#main-content)
+
+![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
+
+Agentforce
+
+[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
+Agentforce](https://www.salesforce.com/agentforce/)
+
+How does Agentforce Builder Work
+
+![](https://play.vidyard.com/sRdge9DouRbpENbHbRA84A.jpg)
+
+[Talk to an expert](https://www.salesforce.com/form/agentforce/contact-us/?d=70130000000sUVbAAM&pr=https%3A%2F%2Fwww.salesforce.com%2Fagentforce%2Fagent-builder%2F&utm_agent_cohort=qualified)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Marquee-Background.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/blue-swoop-background-mobile.webp?w=731)
+
+This paragraph should be hidden.
+
+### Pre-Built Building Blocks
+
+Accelerate agent creation with out-of-the-box subagents, actions, and templates that cover common jobs to be done, like order management, reservation management, and general FAQs. Then, extend and refine with natural language instructions, determinism, and guardrails so every agent delivers consistent, reliable outcomes.
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+### Full Context with Any Data
+
+Give your agents the context they need to perform with accuracy and confidence. Seamlessly connect to Salesforce data, Flows, Apex, MuleSoft APIs, and knowledge articles — alongside external systems and sources. With rich context and business logic at their core, agents can respond accurately, act reliably, and scale to the most complex enterprise use cases.
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+### Multi-Channel Deployment
+
+Bring your agents to any channel that powers your business. Serve customers in chat and voice with instant answers, order updates, and appointment scheduling. Support employees in [Slack](https://www.salesforce.com/slack/), apps, and portals with guided workflows, knowledge, and task automation. Extend agents everywhere to accelerate service, reduce manual effort, and ensure your teams and customers get the help they need instantly.
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
+
+This paragraph should be hidden.
+
+### Natural Language
+
+Build agents in plain language on Canvas, a doc-style workspace where you write, edit, and validate in one flow. Describe what you want an agent to do, then use quick shortcuts to add logic like if-then conditionals and pull in resources such as subagents, actions, and variables. Add guardrails when you want more control, so your agents stay flexible and predictable.
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+### Easy Portability
+
+Building is now text-first, without buried settings or scattered text boxes. Write agents in clear, natural language right in the Canvas view, making them easy to copy, paste, and reuse. This portability means you can quickly share agents across teams or environments and build on proven patterns without starting from scratch.
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+### Agent Script
+
+[Agent Script](https://www.salesforce.com/agentforce/script) is the new language for building and powering agents in Agentforce Builder. Script combines the flexibility of natural language with the reliability of programmatic expressions. Define conditions, loops, and transitions. Set and compare variables. Build predictable, context-aware workflows that execute with precision. Write script your way: Chat with the integrated assistant, build in natural language on the Canvas view with expandable blocks, or toggle to view the scripting language with syntax highlighting and real-time validation. It combines the speed of low-code with the control of pro-code — so every team can build the way they need.
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
+
+This paragraph should be hidden.
+
+### Collaborative Building
+
+Work side by side with an AI agent that understands how agents are built. Talk through what you need in plain language, and Agent Optimizer turns each idea into working changes: building a starting point, testing each change for you, and handling the underlying script so you don't have to.
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+### Agentic Help When You Need It
+
+From new subagents and instructions to actions and guardrails, Agent Optimizer is always on hand to guide you. Ask about your agent's behavior, get a plain-language explanation of what's happening, and see the specific changes to make so your agents perform the way you expect.
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+### Conversational Development for the Whole Building Lifecycle
+
+Develop conversationally, from first idea to production. Rather than switching between tools to build, test, and deploy, you work through the entire lifecycle with Agent Optimizer, turning a rough concept into a production-ready agent without leaving the conversation.
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
+
+This paragraph should be hidden.
+
+### Granular Real-Time Visibility
+
+Preview agent behavior before going live. Send a message in the simulator and instantly see how your agent responds, with a detailed interaction summary, AI-generated overview, and clear visibility into key events. Hover over any step to reveal metadata and drill down into the exact moment things went right (or wrong).
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+### Tracing Reasoning and Logic Steps
+
+Understand exactly how your agent makes decisions. Dive into full-trace data that shows the subagents selected, the actions triggered, variable changes, and timing. Follow hyperlinks into detailed span views to pinpoint failures, explore logic branches, and get the context needed to refine your agent’s behavior with confidence.
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+### Batch Testing at Scale
+
+Move from one-off simulations to enterprise-grade testing. Generate reusable test cases from real interactions, run batch tests directly in the builder, and track results over time. With testing built into the building flow, teams can quickly validate fixes, increase coverage, and shorten the build-test-learn loop.
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
+
+### Build agents fast.
+
+Take a closer look at how agent building works in our library.
+
+[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
+
+### Get expert guidance.
+
+Launch Agentforce with speed, confidence, and ROI you can measure.
+
+[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
+
+### Talk to a rep.
+
+Tell us about your business needs, and we’ll help you find answers.
+
+[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
+
+### What is an AI agent builder?
+
+An AI agent builder is a tool that simplifies the creation and deployment of [AI agents](https://www.salesforce.com/agentforce/ai-agents/), like Salesforce‘s Agentforce Builder. It‘s a user-friendly, low-code and pro-code tool to manage data sources, create jobs to be done and actions, and monitor agent performance. Learn more about choosing [the best AI agent builder](https://www.salesforce.com/agentforce/agent-builder/best-ai-agent-builders/).
+
+### What is Agent Optimizer?
+
+Agent Optimizer is a new conversational agent in Agentforce that helps you create, build, test, and observe your AI agents. Working across the entire agent lifecycle, Agent Optimizer can spin up agents from your existing case and conversation data, refine how their actions work, and analyze session traces so you can improve how your agents perform, all through a single conversation.
+
+### How much does Agentforce Builder cost?
+
+Agentforce Builder does not cost anything and is included with the purchase of [Agentforce](https://www.salesforce.com/agentforce/). The AI assistance inside Agentforce Builder is included, and has no cost to use within the builder.
+
+### Who has access to Agentforce Builder?
+
+The Agentforce Builder is located inside Agentforce Studio in the App Launcher. Access is granted by admin permissions.
+
+### What can I connect to?
+
+You can connect Agentforce agents to the Salesforce tools and data you already use — like Flows, Apex, MuleSoft APIs, CRM data, and knowledge articles. Agents can also integrate with external systems, apps, and channels, giving them the context and actions they need to deliver accurate, end-to-end experiences.
+
+### Are there any pre-built AI agent templates?
+
+Yes. Agentforce comes with a library of prebuilt agent templates you can use right away, including the Service Agent, Employee Agent, Campaign Agent, Sales Development Rep, Sales Coach, Guided Shopping (B2B & D2C), Guided Shopping (B2C), and Setup Agent templates. Each can be customized with your own data, guardrails, and business logic to fit your exact needs. Learn more about [how to build an AI agent](https://www.salesforce.com/agentforce/agent-builder/how-to-build/).
+
+[Call Us](tel:18006649073)
+
+a10681260716.cdn.optimizely.com
+
+# a10681260716.cdn.optimizely.com is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+
+This page has been blocked by an extension
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
+
+## Cookie Consent Manager
+
+## Cookie Consent Manager
+
+- ### General Information
+
+- ### Required Cookies
+
+- ### Functional Cookies
+
+- ### Advertising Cookies
+
+
+#### General Information
+
+We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
+
+
+[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
+
+#### Required Cookies
+
+Always Active
+
+Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
+
+Cookies Details
+
+#### Functional Cookies
+
+Functional Cookies
+
+Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
+
+Cookies Details
+
+#### Advertising Cookies
+
+Advertising Cookies
+
+Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Filter Button
+
+ConsentLeg.Interest
+
+checkbox labellabel
+
+checkbox labellabel
+
+checkbox labellabel
+
+Clear
+
+- checkbox labellabel
+
+
+ApplyCancel
+
+Save Settings
+
+Accept All Cookies
+
+---
+
+## 8. Why Choose Agentforce? | Salesforce
 Source: https://www.salesforce.com/agentforce/why/
 
 [Skip to content](https://www.salesforce.com/agentforce/why/#main-content)
@@ -1871,7 +2139,7 @@ Accept All Cookies
 
 ---
 
-## 8. Agentforce Voice: AI Voice Agents For Every Channel | Salesforce
+## 9. Agentforce Voice: AI Voice Agents For Every Channel | Salesforce
 Source: https://www.salesforce.com/agentforce/voice/
 
 [Skip to content](https://www.salesforce.com/agentforce/voice/#main-content)
@@ -2032,274 +2300,6 @@ Voice AI agents act as a force multiplier in your [agentic enterprise](https://w
 ### What regions is Agentforce Voice supported in?
 
 Agentforce Voice is GA in all regions and available in English, French, Spanish, Italian, German, Portuguese, Japanese, and [many others](https://help.salesforce.com/s/articleView?id=ai.agentforce_voice_considerations.htm&type=5).
-
-[Call Us](tel:18006649073)
-
-a10681260716.cdn.optimizely.com
-
-# a10681260716.cdn.optimizely.com is blocked
-
-This page has been blocked by an extension
-
-- Try disabling your extensions.
-
-ERR\_BLOCKED\_BY\_CLIENT
-
-Reload
-
-
-This page has been blocked by an extension
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
-
-![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
-
-## Cookie Consent Manager
-
-## Cookie Consent Manager
-
-- ### General Information
-
-- ### Required Cookies
-
-- ### Functional Cookies
-
-- ### Advertising Cookies
-
-
-#### General Information
-
-We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
-
-
-[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
-
-#### Required Cookies
-
-Always Active
-
-Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
-
-Cookies Details
-
-#### Functional Cookies
-
-Functional Cookies
-
-Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
-
-Cookies Details
-
-#### Advertising Cookies
-
-Advertising Cookies
-
-Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Filter Button
-
-ConsentLeg.Interest
-
-checkbox labellabel
-
-checkbox labellabel
-
-checkbox labellabel
-
-Clear
-
-- checkbox labellabel
-
-
-ApplyCancel
-
-Save Settings
-
-Accept All Cookies
-
----
-
-## 9. AI Agent Builder: Agentforce | Salesforce
-Source: https://www.salesforce.com/agentforce/agent-builder/
-
-[Skip to content](https://www.salesforce.com/agentforce/agent-builder/#main-content)
-
-![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
-
-Agentforce
-
-[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
-Agentforce](https://www.salesforce.com/agentforce/)
-
-How does Agentforce Builder Work
-
-![](https://play.vidyard.com/sRdge9DouRbpENbHbRA84A.jpg)
-
-[Talk to an expert](https://www.salesforce.com/form/agentforce/contact-us/?d=70130000000sUVbAAM&pr=https%3A%2F%2Fwww.salesforce.com%2Fagentforce%2Fagent-builder%2F&utm_agent_cohort=qualified)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Marquee-Background.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/blue-swoop-background-mobile.webp?w=731)
-
-This paragraph should be hidden.
-
-### Pre-Built Building Blocks
-
-Accelerate agent creation with out-of-the-box subagents, actions, and templates that cover common jobs to be done, like order management, reservation management, and general FAQs. Then, extend and refine with natural language instructions, determinism, and guardrails so every agent delivers consistent, reliable outcomes.
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-### Full Context with Any Data
-
-Give your agents the context they need to perform with accuracy and confidence. Seamlessly connect to Salesforce data, Flows, Apex, MuleSoft APIs, and knowledge articles — alongside external systems and sources. With rich context and business logic at their core, agents can respond accurately, act reliably, and scale to the most complex enterprise use cases.
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-### Multi-Channel Deployment
-
-Bring your agents to any channel that powers your business. Serve customers in chat and voice with instant answers, order updates, and appointment scheduling. Support employees in [Slack](https://www.salesforce.com/slack/), apps, and portals with guided workflows, knowledge, and task automation. Extend agents everywhere to accelerate service, reduce manual effort, and ensure your teams and customers get the help they need instantly.
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-![A screenshot of the Agentforce Builder interface showing options to create a new AI agent, including templates for Service Agent, SDR Agent, Sales Coach, and Guided Shopping.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_2_2x.webp?w=1024)
-
-This paragraph should be hidden.
-
-### Natural Language
-
-Build agents in plain language on Canvas, a doc-style workspace where you write, edit, and validate in one flow. Describe what you want an agent to do, then use quick shortcuts to add logic like if-then conditionals and pull in resources such as subagents, actions, and variables. Add guardrails when you want more control, so your agents stay flexible and predictable.
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-### Easy Portability
-
-Building is now text-first, without buried settings or scattered text boxes. Write agents in clear, natural language right in the Canvas view, making them easy to copy, paste, and reuse. This portability means you can quickly share agents across teams or environments and build on proven patterns without starting from scratch.
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-### Agent Script
-
-[Agent Script](https://www.salesforce.com/agentforce/script) is the new language for building and powering agents in Agentforce Builder. Script combines the flexibility of natural language with the reliability of programmatic expressions. Define conditions, loops, and transitions. Set and compare variables. Build predictable, context-aware workflows that execute with precision. Write script your way: Chat with the integrated assistant, build in natural language on the Canvas view with expandable blocks, or toggle to view the scripting language with syntax highlighting and real-time validation. It combines the speed of low-code with the control of pro-code — so every team can build the way they need.
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-![Agentforce Builder's configuration screen showing the Global Instructions section, a list of Agent's Actions, Variables, and Topics.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_3_2x.webp?w=1024)
-
-This paragraph should be hidden.
-
-### Collaborative Building
-
-Work side by side with an AI agent that understands how agents are built. Talk through what you need in plain language, and Agent Optimizer turns each idea into working changes: building a starting point, testing each change for you, and handling the underlying script so you don't have to.
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-### Agentic Help When You Need It
-
-From new subagents and instructions to actions and guardrails, Agent Optimizer is always on hand to guide you. Ask about your agent's behavior, get a plain-language explanation of what's happening, and see the specific changes to make so your agents perform the way you expect.
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-### Conversational Development for the Whole Building Lifecycle
-
-Develop conversationally, from first idea to production. Rather than switching between tools to build, test, and deploy, you work through the entire lifecycle with Agent Optimizer, turning a rough concept into a production-ready agent without leaving the conversation.
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-![The Agentforce Builder interface showing the configuration for the Pre qualification questions topic, including detailed instructions and a list of actions like Get Remaining Questions and Recommend Open Jobs.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/09/nga_agent_builder_images_4_2x.webp?w=1024)
-
-This paragraph should be hidden.
-
-### Granular Real-Time Visibility
-
-Preview agent behavior before going live. Send a message in the simulator and instantly see how your agent responds, with a detailed interaction summary, AI-generated overview, and clear visibility into key events. Hover over any step to reveal metadata and drill down into the exact moment things went right (or wrong).
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-### Tracing Reasoning and Logic Steps
-
-Understand exactly how your agent makes decisions. Dive into full-trace data that shows the subagents selected, the actions triggered, variable changes, and timing. Follow hyperlinks into detailed span views to pinpoint failures, explore logic branches, and get the context needed to refine your agent’s behavior with confidence.
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-### Batch Testing at Scale
-
-Move from one-off simulations to enterprise-grade testing. Generate reusable test cases from real interactions, run batch tests directly in the builder, and track results over time. With testing built into the building flow, teams can quickly validate fixes, increase coverage, and shorten the build-test-learn loop.
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-![The Agentforce Builder interface in Simulate Mode, displaying a conversation with the Merchant Agent on the left and a center panel showing the Interaction Details like Topic, Action, and Output.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/10/Agent-Builder-Images-4-2.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
-
-### Build agents fast.
-
-Take a closer look at how agent building works in our library.
-
-[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
-
-### Get expert guidance.
-
-Launch Agentforce with speed, confidence, and ROI you can measure.
-
-[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
-
-### Talk to a rep.
-
-Tell us about your business needs, and we’ll help you find answers.
-
-[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
-
-### What is an AI agent builder?
-
-An AI agent builder is a tool that simplifies the creation and deployment of [AI agents](https://www.salesforce.com/agentforce/ai-agents/), like Salesforce‘s Agentforce Builder. It‘s a user-friendly, low-code and pro-code tool to manage data sources, create jobs to be done and actions, and monitor agent performance. Learn more about choosing [the best AI agent builder](https://www.salesforce.com/agentforce/agent-builder/best-ai-agent-builders/).
-
-### What is Agent Optimizer?
-
-Agent Optimizer is a new conversational agent in Agentforce that helps you create, build, test, and observe your AI agents. Working across the entire agent lifecycle, Agent Optimizer can spin up agents from your existing case and conversation data, refine how their actions work, and analyze session traces so you can improve how your agents perform, all through a single conversation.
-
-### How much does Agentforce Builder cost?
-
-Agentforce Builder does not cost anything and is included with the purchase of [Agentforce](https://www.salesforce.com/agentforce/). The AI assistance inside Agentforce Builder is included, and has no cost to use within the builder.
-
-### Who has access to Agentforce Builder?
-
-The Agentforce Builder is located inside Agentforce Studio in the App Launcher. Access is granted by admin permissions.
-
-### What can I connect to?
-
-You can connect Agentforce agents to the Salesforce tools and data you already use — like Flows, Apex, MuleSoft APIs, CRM data, and knowledge articles. Agents can also integrate with external systems, apps, and channels, giving them the context and actions they need to deliver accurate, end-to-end experiences.
-
-### Are there any pre-built AI agent templates?
-
-Yes. Agentforce comes with a library of prebuilt agent templates you can use right away, including the Service Agent, Employee Agent, Campaign Agent, Sales Development Rep, Sales Coach, Guided Shopping (B2B & D2C), Guided Shopping (B2C), and Setup Agent templates. Each can be customized with your own data, guardrails, and business logic to fit your exact needs. Learn more about [how to build an AI agent](https://www.salesforce.com/agentforce/agent-builder/how-to-build/).
 
 [Call Us](tel:18006649073)
 

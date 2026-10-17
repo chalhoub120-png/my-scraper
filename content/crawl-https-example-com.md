@@ -113,7 +113,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 7. Example Domain
-Source: https://example.com/?rl=1790603124-K-44-10
+Source: https://example.com/?rl=1790603124-J-7-5
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
@@ -132,7 +132,7 @@ Este dominio está destinado al uso en ejemplos de documentación sin necesidad 
 ---
 
 ## 8. Example Domain
-Source: https://example.com/?rl=1790603124-J-7-5
+Source: https://example.com/?rl=1790603124-K-44-10
 
 This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
 
