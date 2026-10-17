@@ -1,3 +1,4 @@
+import hashlib
 import os
 import re
 import time
@@ -14,8 +15,8 @@ def log(msg):
 
 
 def slug(t):
-    return re.sub(r"[^a-zA-Z0-9]+", "-", t).strip("-")[:60] or "page"
-
+    s = re.sub(r"[^a-zA-Z0-9]+", "-", t).strip("-")[:60]
+    return s or "q-" + hashlib.md5(t.encode()).hexdigest()[:8]
 
 def save(name, text):
     with open(f"content/{name}.md", "w", encoding="utf-8") as f:
