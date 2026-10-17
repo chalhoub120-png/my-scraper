@@ -1,0 +1,2143 @@
+## 1. كيف تتعلم البرمجة للمبتدئين ببساطة - YouTube
+Source: https://www.youtube.com/watch?v=KGjFu_2OLhk
+
+Error 401 (Bad Request)!!1
+
+**401.** That’s an error.
+
+The server cannot process the request because it is malformed. It should not be retried. That’s all we know.
+
+Back
+
+
+[![](https://www.youtube.com/watch?v=KGjFu_2OLhk)](https://www.youtube.com/ "YouTube Home")
+
+Skip navigation
+
+Search
+
+
+Search with your voice
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DKGjFu_2OLhk&hl=en&ec=65620)
+
+كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Tap to unmute
+
+2x
+
+## كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Professor X البروفيسور 175,278 views 3y ago
+
+Copy link
+
+Info
+
+Shopping
+
+![](https://i.ytimg.com/an/QzsxeC1MpDAKkM3rt1BZ1A/featured_channel.jpg?v=6649b8fa)
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+سنين كتير بنسمع عن البرمجة. وقدايه هي ضرورية ولا غنى عنها. فهل
+
+Up next
+
+Live
+
+Upcoming
+
+CancelPlay Now
+
+[Professor X البروفيسور](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A)
+
+Subscribe
+
+Subscribed
+
+Collaboration: ✅ profxcollab@gmail.com
+
+أهلاً بك يا صديقي البروف في رحلة مختلفة.. هنا مش مجرد قناة تقنية أو سياسية، هنا بنحكي "القصة الكاملة" اللي وراء الأحداث.
+
+في قناتي، بفكك لك أعقد المفاهيم في التكنولوجيا، الاقتصاد، الجيوسياسة، والهندسة، وبحولها لقصص سينمائية ممتعة تفهمها وتستمتع بيها. من أسرار صناعة أشباه الموصلات وحروب الـ AI، لكواليس الصراعات بين القوى العظمى، وحتى الأمن السيبراني اللي بيمس حياتك اليومية.
+
+أنا مش بقدم لك محاضرة مملة، أنا باخدك في رحلة بتبدأ بسؤال، وبتمر بمنعطفات غير متوقعة، وبتنتهي بإجابة دقيقة مبنية على مصادر علمية وتقارير موثوقة، بعيداً عن أي هبد أو خرافات.
+
+لو بتدور على محتوى يحترم عقلك، يجاوب على فضولك، ويخليك تشوف العالم بنظرة أعمق.. يبقى أنت في المكان الصح
+
+[الناس دي مجنونة! \- البروفيسور\\
+\\
+36:40](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+Hide
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+[Next (SHIFT+n)](https://www.youtube.com/watch?v=FMSOoWQR92I)
+
+0:00 / 19:17
+
+Live
+
+•Watch full video
+
+•
+
+•
+
+[3:27:40\\
+كورس لغة جافا من الصفر \| Java Courseاتعلم ببساطة529K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FwxbTGxTcVI) [21:09\\
+شرح كل مكونات اللابتوب وازاي تختار افضل لابتوبProfessor X البروفيسور360K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=Eonle3coX4I) [9:15\\
+How to Learn Any New Skill and Become a ProIfada bdarija \| إفادة بالدارجة179 • 1d agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=JJT3NKqRHy0) [3:41:09\\
+تعلم بايثون من الصفر للمبتدئين بالدارجة المغربية \| كورس البرمجة كامل 2026 \| أكاديمية الخبرةLkhibra Academy225K • 8mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=nDsr8xnJilY) [2:12:34\\
+كورس مقدمة عن أساسيات البرمجة للمبتدئين \|\| محو الأمية البرمجيةغريب الشيخ \|\| Ghareeb Elshaikh1.1M • 4y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=06h470AiBZ4) [8:37\\
+البرمجة من الصفر الدرس 1️⃣ من كورس اساسيات البرمجة : يعني إيه برمجة CodeWay\_كود واي37K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=vPvqySL1Y0s) [15:15\\
+دليلك لشراء لابتوب للبرمجة \- مع توصيات البرمجة للمبتدئينProfessor X البروفيسور129K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=ZT8DR9g9BmY) [36:53\\
+أخطر طائرة سرية للغاية \- البروفيسورProfessor X البروفيسور471K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=Gfjrxwi4Vp0) [36:48\\
+ازاى من شوية رمل نصنع معالج؟ \- البروفيسورProfessor X البروفيسور250K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=SwDIU70exnA) [37:07\\
+دليل تعلم البرمجة بالطريقة الصحيحة: خمس خطوات لتعلم البرمجة بالطريقة الصحيحه ستغير مجرى حياتكProgramming Advices1.9M • 7y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=LfkBOKwsTc0) [4:22\\
+What is programming and how to learn to code?OctuCode3.8M • 3y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=9ndH9Qo05F4) [9:06\\
+Programming languages and the difference between them: Learn programming for beginners 2OctuCode2M • 3y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FMSOoWQR92I)
+
+# كيف تتعلم البرمجة للمبتدئين ببساطة
+
+[![Professor X البروفيسور](https://yt3.ggpht.com/DFaqqqpQ-2ka22cFA3rolhUeB28TJWIAkJUZVlcq0YQhS3q2GtFtl4chaL5g2y9Rp7CxLPeR4ko=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@popprofx)
+
+[Professor X البروفيسور](https://www.youtube.com/@popprofx)
+
+
+Professor X البروفيسور
+
+
+229K subscribers
+
+Join
+
+Subscribe
+
+Subscribed
+
+8.9K
+
+Share
+
+Download
+
+Download
+
+Save
+
+175K views3y ago [#programming](https://www.youtube.com/hashtag/programming) [#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3) [#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+
+175,278 views • Oct 1, 2023 • #programming #البروفيسور\_اكس #البرمجة
+
+[#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3)[#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)[#programming](https://www.youtube.com/hashtag/programming)
+
+-الحقيقة الكاملة وراء تعلم البرمجة…more
+
+more
+
+Follow along using the transcript.
+
+Show transcript
+
+[Videos](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/videos)[About](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/about)[Facebook](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljR2hWdVNzTHQ0SjZiLXJJMElHaWpfcHxBSTVJdTVzcjY1X0s2Y1dxcVpfdnZFSjhTd3hEYmx4OHltQTAtTjFEeWdRVjVib3R0Q3FDaEVlRE9DRTF0OElZY2MyZlRMY1MtNUVOS1F1Q0VMb1JMV2p5RF85VmJXVmlpMUlu&q=https%3A%2F%2Fwww.facebook.com%2FPopProfX)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljSEtmUXNaNXZndGZkdFc4OHhUWThfbnxBSTVJdTV2LVZxV1EzNTRtbTVVY0Rpd3R5Yy1FNUNzRy1PX3hENUtoTG5MT2ZzNkltYkhha0drMGsxZnR4cC1RLU5kbHdVSjFUcUlGd3pUVWJkSkhxdHZPWjFtUWR6Z2IwbGZz&q=https%3A%2F%2Fwww.instagram.com%2FPopprofx%2F)[TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljRUZoN3Z1aHV2eGQ5TnQ5SDVxQTB2TnxBSTVJdTVzOHdYdjdBX1ZZRDNyTlRJeFpoa0tzNWstdXJ2S2tVbkdKd3NIUTQ5VHBEOUVzUXZ6U0JtM1gxc2tRVGF5VkgzZjZiMGxzVkNxV2ZsLTVXWXhNbmJMQkRWdHBwZTdf&q=https%3A%2F%2Fwww.tiktok.com%2F%40popprofx)
+
+[24:55\\
+\\
+24:55](https://www.youtube.com/watch?v=N7dmz435FxM)[بخطوات بسيطة كيف تغير حياتك بالكامل\\
+\\
+by Professor X البروفيسور](https://www.youtube.com/watch?v=N7dmz435FxM)
+
+## Video details
+
+Date
+
+Oct 1, 2023
+
+Views
+
+175,278
+
+Likes
+
+8,954
+
+Show less
+
+[#programming](https://www.youtube.com/hashtag/programming) [#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3) [#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+
+# كيف تتعلم البرمجة للمبتدئين ببساطة
+
+175,278 views175K views
+
+Oct 1, 2023
+
+8.9K
+
+Share
+
+Download
+
+Download
+
+Save
+
+## كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Professor X البروفيسور
+
+
+Professor X البروفيسور
+
+
+8.9KLikes
+
+175KViews
+
+2023Oct 1
+
+[#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3)[#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)[#programming](https://www.youtube.com/hashtag/programming)
+
+-الحقيقة الكاملة وراء تعلم البرمجة
+
+- مفهوم البرمجة ببساطة
+
+- البرمجة للمبتدئين واشهر لغات البرمجة
+
+- مجالات البرمجة المطلوبة لسوق العمل
+
+- كيف تحترف البرمجة وتصبح مبرمج ناجح
+
+- استكشف المسار التعليمي لأى لغة برمجة
+
+- كيف يؤثر الذكاء الاصطناعى على المبرمجين
+
+
+المصادر التعليمية المذكورة فى الفيديو :
+قناة البشمهندس اسامة ( El Zero Web School ) :
+HTML 5 : [• \[ Html5 In Arabic \] #01 - Introduction](https://www.youtube.com/watch?v=6gjg5n9kyBU)
+CSS 3 : [• Learn CSS In Arabic 2021 - #01 - Introduct...](https://www.youtube.com/watch?v=X1ulCwyhCVM)
+JavaScript : [• Learn JavaScript In Arabic 2021 - #001 - I...](https://www.youtube.com/watch?v=GM6dQBmc-Xg)
+Python : [http://y2u.be/mvZHDpCHphk](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXlPVlFEOFdsU19HMnl6OVRwbS1yc3xBSTVJdTVzN0xVQjJrVFF5SDdmd2tQcXRJX0x5VGQxR2lLbjE1T29FVEZwQXFCV0pQRUZ4d2F5ZnEybVVDS2hYSDF4NGYxNEljVlFIUlJhNnF2Y0pGTksxT0VaYjg5UEZWTmZ6&q=http%3A%2F%2Fy2u.be%2FmvZHDpCHphk&v=KGjFu_2OLhk)
+jQuery : [• Arabic jQuery Practical Course #001 - Cour...](https://www.youtube.com/watch?v=66QpkBLJ4_k)
+
+مواقع مكتوبة :
+
+- لغة عربية :
+
+
+موقع ادراك : [https://www.edraak.org](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEozNnpCTmpTaTZNeFdNWm1FM2lMQXxBSTVJdTV1aGF6QzJzOWJZc2VpdXlMTm9sQ0VmbHBOYUhTWDZNdHpVcG5uWDhidUV1VnQxdzZvcG50dHNNb2JSVk5kTGlRb1FqZTcxWXZtUXl2aXRwS2lRUTNWUS1tYlBERUhX&q=https%3A%2F%2Fwww.edraak.org%2F&v=KGjFu_2OLhk)
+موقع هرمش : [https://harmash.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR19JaWJzSWpSb2ZVc1hXN1kzUHMtSnxBSTVJdTVzRGRObTJpSDMxaFFyU0wyb2kxQ1NsNWRpNFVvLWYycEZtT2d1dVlQZ0FTOEpQeWZoWDNZc2FBeld3WW5VNWVuc2VxTkFXRUZ5cTAtRGFsbm1jbHdacnJvUzBhVUV3&q=https%3A%2F%2Fharmash.com%2F&v=KGjFu_2OLhk)
+
+- لغة انجليزية :
+
+
+FreeCodeCamp : [https://freecodecamp.org](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnltM1VyMXdnRHlSdUd1ODNpWWFGMHxBSTVJdTV2LXIzUWhRYU5qaHpZSDhLVUxrNmVwTGJrMTVocUdiNkN5dHhCR0FralZfd00wSWRQN1FhdGgzcm05LWNtMFRJME9Ya3NXTElabUJZUVFCRjJtUjhrQXp1Ni1OeW5Y&q=https%3A%2F%2Ffreecodecamp.org%2F&v=KGjFu_2OLhk)
+W3Schools : [https://www.w3schools.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR05jNDl0ZU8yOTdsVEFrdEJkb25sdXxBSTVJdTVzNFM0TF9CSTlZVnZxODdfTXFtdnhGamdrRUxHSXhFWTVmazJHTTZIdG5FSTBFTDJWMzlYODZBU052MVNMZ181a0hNVm9CVDZ0U2hJQWx4bjl5eWQ1ZXpXd0hsUmlQ&q=https%3A%2F%2Fwww.w3schools.com%2F&v=KGjFu_2OLhk)
+
+موقع تحديد المسار التعليمي للبرمجة :
+[https://roadmap.sh/](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUt3dXd6T1p6MEJOUkZZaGMyLVo3bnxBSTVJdTV2TjBOc1Awb1l5WVg3ckVHRndRdU5IbTR2OThBTW9TWjA2NWYzS21oRTBFSTVGMUJNb3V6d1VRX004b0VmYkItUDI1M3pWLWZNV3F1b0Z3R1RQOS1mYWw5R25wcWs2&q=https%3A%2F%2Froadmap.sh%2F&v=KGjFu_2OLhk)
+
+قنوات يوتيوب :
+تعلم الـ Frontend فى فيديو واحد : [• Frontend Web Development Bootcamp Course (...](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+تعلم الـ Backend فى فيديو واحد : [• Python Backend Web Development Course (wit...](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+
+تعلم الـ Node JS باللغة العربية : [• 1-★ What is Node.js مقدمة تعريفية عن التقن...](https://www.youtube.com/watch?v=Bw9N_1Wx6s4)
+تعلم الـ Django Python باللغة العربية : [• 1 Django tutorial \| كورس دجانجو \| ما هو ال...](https://www.youtube.com/watch?v=UPFKAG9rYOE)
+
+مصادر اضافية :
+تعلم اساسيات البرمجة فى ساعة : [• تعلم البرمجة \| شرح بايثون \| مقدمة كاملة في...](https://www.youtube.com/watch?v=XhQsG1YRvOg)
+المفاهيم البرمجية فى ساعتين : [• كورس مقدمة عن أساسيات البرمجة للمبتدئين \|...](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+تواصل معنا وتابعنا على :
+Facebook page: [/ mrprofx](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSGpXR3FBTmZxVlNiSHROUk93bDNEd3xBSTVJdTV2QXh6SmdUMGRpVnprU0JzNUlRWDVmRVlsdVZlWUEwVy1NMldqSlR4VldHZ0ZaUEtudkdwcS01V05mSFlNY1V3SFNXd1BydV9ZNFUzdkp6MlRuMEYzNmJUY2FVNHZB&q=https%3A%2F%2Fwww.facebook.com%2FMrProfX&v=KGjFu_2OLhk)
+Telegram Ch. : [https://t.me/popprofx4admin](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnV4cTl3MGlKSnFXYU52dk5xTjlPUHxBSTVJdTVzaVk0ZnBVWnlUMVpLc0x5bVBUSlNBTENfcTFyZjJOZmtVNGF1MFg2anJGYUhOMXZtZ21EcF9JbU8wZl8wRFBTQWRMd3c5bGo2QVp1MU9yTmJ5bkJ3UFZWTEY5X3Fz&q=https%3A%2F%2Ft.me%2Fpopprofx4admin&v=KGjFu_2OLhk)
+Instagram: [/ popprofx](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSFl4M2V0a2o3TlBnQ0lTUmZIeXlJeHxBSTVJdTVzcVdYM2k5dXZfR0U4S3pvZXo1TVowRF9ka2pSOTdxWDNrRmppUUF1aGtGbjlyX1FfLUk3R1NJN05COFRObDFROS1vd1E5bHJ4U0ZTUUwxMzZQWEd4WWh0Z2RXQXhM&q=https%3A%2F%2Fwww.instagram.com%2Fpopprofx%2F&v=KGjFu_2OLhk)
+Collaboration-Only E-Mail: profxcollab@gmail.com…...more
+
+...more
+Show less
+
+Follow along using the transcript.
+
+Show transcript
+
+[Videos](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/videos)[About](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/about)[Facebook](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljR2hWdVNzTHQ0SjZiLXJJMElHaWpfcHxBSTVJdTVzcjY1X0s2Y1dxcVpfdnZFSjhTd3hEYmx4OHltQTAtTjFEeWdRVjVib3R0Q3FDaEVlRE9DRTF0OElZY2MyZlRMY1MtNUVOS1F1Q0VMb1JMV2p5RF85VmJXVmlpMUlu&q=https%3A%2F%2Fwww.facebook.com%2FPopProfX)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljSEtmUXNaNXZndGZkdFc4OHhUWThfbnxBSTVJdTV2LVZxV1EzNTRtbTVVY0Rpd3R5Yy1FNUNzRy1PX3hENUtoTG5MT2ZzNkltYkhha0drMGsxZnR4cC1RLU5kbHdVSjFUcUlGd3pUVWJkSkhxdHZPWjFtUWR6Z2IwbGZz&q=https%3A%2F%2Fwww.instagram.com%2FPopprofx%2F)[TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljRUZoN3Z1aHV2eGQ5TnQ5SDVxQTB2TnxBSTVJdTVzOHdYdjdBX1ZZRDNyTlRJeFpoa0tzNWstdXJ2S2tVbkdKd3NIUTQ5VHBEOUVzUXZ6U0JtM1gxc2tRVGF5VkgzZjZiMGxzVkNxV2ZsLTVXWXhNbmJMQkRWdHBwZTdf&q=https%3A%2F%2Fwww.tiktok.com%2F%40popprofx)
+
+[24:55\\
+\\
+24:55](https://www.youtube.com/watch?v=N7dmz435FxM)[بخطوات بسيطة كيف تغير حياتك بالكامل\\
+\\
+by Professor X البروفيسور](https://www.youtube.com/watch?v=N7dmz435FxM)
+
+## Video details
+
+Date
+
+Oct 1, 2023
+
+Views
+
+175,278
+
+Likes
+
+8,954
+
+[![](https://i.ytimg.com/vi/FwxbTGxTcVI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4CeBmYFWPiWiKKSuz4tkLCfSriw)\\
+\\
+3:27:40](https://www.youtube.com/watch?v=FwxbTGxTcVI)
+
+### [كورس لغة جافا من الصفر \| Java Course](https://www.youtube.com/watch?v=FwxbTGxTcVI)
+
+اتعلم ببساطة
+
+529K1y ago
+
+[![](https://i.ytimg.com/vi/Eonle3coX4I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrfyEv5nodtC0djh0XkGJtoinecg)\\
+\\
+21:09](https://www.youtube.com/watch?v=Eonle3coX4I)
+
+### [شرح كل مكونات اللابتوب وازاي تختار افضل لابتوب](https://www.youtube.com/watch?v=Eonle3coX4I)
+
+Professor X البروفيسور
+
+360K1y ago
+
+[![](https://i.ytimg.com/vi/JJT3NKqRHy0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8EUZhmkDjEc710-VMXQEKDZkKBg)\\
+\\
+9:15\\
+\\
+New](https://www.youtube.com/watch?v=JJT3NKqRHy0&pp=ugUHEgVlbi1VUw%3D%3D)
+
+### [How to Learn Any New Skill and Become a Pro](https://www.youtube.com/watch?v=JJT3NKqRHy0&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Ifada bdarija \| إفادة بالدارجة
+
+1791d ago
+
+Auto-dubbed
+
+[![](https://i.ytimg.com/vi/nDsr8xnJilY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByq-jELvJNR9N0x5CibnoiSKtHkA)\\
+\\
+3:41:09](https://www.youtube.com/watch?v=nDsr8xnJilY)
+
+### [تعلم بايثون من الصفر للمبتدئين بالدارجة المغربية \| كورس البرمجة كامل 2026 \| أكاديمية الخبرة](https://www.youtube.com/watch?v=nDsr8xnJilY)
+
+Lkhibra Academy
+
+225K8mo ago
+
+[![](https://i.ytimg.com/vi/06h470AiBZ4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBcLQN0loeIpGe8xjQfDbtgxe0vfw)\\
+\\
+2:12:34](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+### [كورس مقدمة عن أساسيات البرمجة للمبتدئين \|\| محو الأمية البرمجية](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+غريب الشيخ \|\| Ghareeb Elshaikh
+
+1.1M4y ago
+
+[![](https://i.ytimg.com/vi/vPvqySL1Y0s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQdNSgE4uAkYDl2L6vUTHF_UTWRQ)\\
+\\
+8:37](https://www.youtube.com/watch?v=vPvqySL1Y0s)
+
+### [البرمجة من الصفر الدرس 1️⃣ من كورس اساسيات البرمجة : يعني إيه برمجة](https://www.youtube.com/watch?v=vPvqySL1Y0s)
+
+CodeWay\_كود واي
+
+37K1y ago
+
+[![](https://i.ytimg.com/vi/ZT8DR9g9BmY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAEwmonPhK1FiTFFYuTqyCkzRkIJA)\\
+\\
+15:15](https://www.youtube.com/watch?v=ZT8DR9g9BmY&pp=0gcJCUcMAYcqIYzv)
+
+### [دليلك لشراء لابتوب للبرمجة \- مع توصيات البرمجة للمبتدئين](https://www.youtube.com/watch?v=ZT8DR9g9BmY&pp=0gcJCUcMAYcqIYzv)
+
+Professor X البروفيسور
+
+129K1y ago
+
+[![](https://i.ytimg.com/vi/Gfjrxwi4Vp0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCXNSpHWoVVaNf8cdEW_1gOu4P9Q)\\
+\\
+36:53](https://www.youtube.com/watch?v=Gfjrxwi4Vp0)
+
+### [أخطر طائرة سرية للغاية \- البروفيسور](https://www.youtube.com/watch?v=Gfjrxwi4Vp0)
+
+Professor X البروفيسور
+
+471K1y ago
+
+[![](https://i.ytimg.com/vi/SwDIU70exnA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTMKwtOepesgxJKUhECRxe_0_3Tw)\\
+\\
+36:48](https://www.youtube.com/watch?v=SwDIU70exnA)
+
+### [ازاى من شوية رمل نصنع معالج؟ \- البروفيسور](https://www.youtube.com/watch?v=SwDIU70exnA)
+
+Professor X البروفيسور
+
+250K1y ago
+
+[![](https://i.ytimg.com/vi/LfkBOKwsTc0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2jSC5XLq7NV9NN6462Vc1tb3HPg)\\
+\\
+37:07](https://www.youtube.com/watch?v=LfkBOKwsTc0)
+
+### [دليل تعلم البرمجة بالطريقة الصحيحة: خمس خطوات لتعلم البرمجة بالطريقة الصحيحه ستغير مجرى حياتك](https://www.youtube.com/watch?v=LfkBOKwsTc0)
+
+Programming Advices
+
+1.9M7y ago
+
+[![](https://i.ytimg.com/vi/9ndH9Qo05F4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB89068vdueIrAXdkx6Si8WD5REtQ)\\
+\\
+4:22](https://www.youtube.com/watch?v=9ndH9Qo05F4)
+
+### [What is programming and how to learn to code?](https://www.youtube.com/watch?v=9ndH9Qo05F4)
+
+OctuCode
+
+3.8M3y ago
+
+[![](https://i.ytimg.com/vi/FMSOoWQR92I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlNHELLfFn0mLfxIO_MjiZ8Eb1Ig)\\
+\\
+9:06](https://www.youtube.com/watch?v=FMSOoWQR92I&pp=0gcJCUcMAYcqIYzv)
+
+### [Programming languages and the difference between them: Learn programming for beginners 2](https://www.youtube.com/watch?v=FMSOoWQR92I&pp=0gcJCUcMAYcqIYzv)
+
+OctuCode
+
+2M3y ago
+
+[![](https://i.ytimg.com/vi/azy3_sBMYCM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2ht1Uoqbn1_4l36lipyKMZamf8A)\\
+\\
+46:10](https://www.youtube.com/watch?v=azy3_sBMYCM)
+
+### [كورس من الصفر \| Claude](https://www.youtube.com/watch?v=azy3_sBMYCM)
+
+اتعلم ببساطة
+
+408K6mo ago
+
+[![](https://i.ytimg.com/vi/7l7Es3ftHzY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCejYTkMcWbjfai_30vIFV5L9bRsA)\\
+\\
+21:13](https://www.youtube.com/watch?v=7l7Es3ftHzY)
+
+### [اختيار لغة البرمجة المناسبة (مقارنة بين لغات البرمجة المشهورة) \| How to choose programming language](https://www.youtube.com/watch?v=7l7Es3ftHzY)
+
+Yehia Tech يحيى تك
+
+199K3y ago
+
+[![](https://i.ytimg.com/vi/pjMY3AQyV_A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWdUAOxkE4L_kIXFXTDzHi6POZ0w)\\
+\\
+36:40](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+### [الناس دي مجنونة! \- البروفيسور](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+Professor X البروفيسور
+
+142K3mo ago
+
+[![](https://i.ytimg.com/vi/V_7IIV4rXQU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfyVdyEen-gkgjEHkosDT__P1K6w)\\
+\\
+33:26](https://www.youtube.com/watch?v=V_7IIV4rXQU)
+
+### [من يتحكم فى البيتكوين؟ \- البروفيسور](https://www.youtube.com/watch?v=V_7IIV4rXQU)
+
+Professor X البروفيسور
+
+33K8mo ago
+
+[![](https://i.ytimg.com/vi/d1W5gK9sX6E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCovxU9ytV2MuT4iNm6opfaCKCaEg)\\
+\\
+2:27:40](https://www.youtube.com/watch?v=d1W5gK9sX6E)
+
+### [البرمجة ليست للجميع، والأخطاء التي يقع فيها المبتدئين \| أسامة الزيرو في بودكاست غريب](https://www.youtube.com/watch?v=d1W5gK9sX6E)
+
+غريب الشيخ \|\| Ghareeb Elshaikh
+
+245K10mo ago
+
+[![](https://i.ytimg.com/vi/k7TumDEPBNc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAw8NjdKjcLZ6L1yW_-DxOH4ceN_g)\\
+\\
+14:46](https://www.youtube.com/watch?v=k7TumDEPBNc)
+
+### [تعلم البرمجة و كيف تبدأ في البرمجة؟ يعني ايه برمجة؟ ابدأ بأي لغة برمجة؟ \| How to start programming](https://www.youtube.com/watch?v=k7TumDEPBNc)
+
+Codezilla
+
+490K3y ago
+
+[![](https://i.ytimg.com/vi/2gY8-kvyK3A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQwTlj1HdQZMM9-8RNMCHeueSUdw)\\
+\\
+18:05](https://www.youtube.com/watch?v=2gY8-kvyK3A)
+
+### [قبل ما تشتري لابتوب لازم تتفرج على الفيديو ده](https://www.youtube.com/watch?v=2gY8-kvyK3A)
+
+Professor X البروفيسور
+
+160K2y ago
+
+[![](https://i.ytimg.com/vi/M6Ofk6Ym9N0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTo6JOpGlfEZ0vJvJqvpdTTotYQg)\\
+\\
+7:12](https://www.youtube.com/watch?v=M6Ofk6Ym9N0)
+
+### [تعلم البرمجة من الصفر على الهاتف بالعربي \| غير الى مبغيتيش تعلم 📱🔥](https://www.youtube.com/watch?v=M6Ofk6Ym9N0)
+
+العالم الذكي
+
+105K3y ago
+
+Show more
+
+Show more
+
+---
+
+## 2. كيف تحترف البرمجة في 10 خطوات - منصة المدرسة
+Source: https://almdrasa.com/%D9%83%D9%8A%D9%81-%D8%AA%D8%AD%D8%AA%D8%B1%D9%81-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%81%D9%8A-10-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA/?srsltid=AU7gw4VWRl-sCwzeGpgLXjiqLWIwdrGY1m7DtNUyEhq3kF2j-2L2ofxy
+
+![](https://almdrasa.com/media/blog-2026/22537/cover-33c3713b-1536.webp)
+
+لن تحترف البرمجة بحفظ لغة واحدة. الاحتراف يأتي من فهم المفاهيم الأساسية، ثم تطبيقها في مشاريع حقيقية، ثم الاستمرار في التدرّب لفترة كافية. إليك 10 خطوات عملية تختصر عليك الطريق، سواء كنت تبدأ من الصفر أو تشعر أنك توقفت في منتصف الطريق.
+
+## خطوات احتراف البرمجة
+
+### 1- اختر لغة البرمجة المناسبة لهدفك
+
+لكل لغة برمجة قواعد كتابة (Syntax) ومعانٍ (Semantics) خاصة بها، لكن المفاهيم البرمجية نفسها مشتركة بين اللغات كلها: المتغيرات، والشروط، والحلقات، والدوال، وهياكل البيانات (Data Structures). إذا أتقنت هذه المفاهيم في لغة واحدة فسيسهل عليك الانتقال إلى أي لغة أخرى.
+
+لذلك ينصح كثير من المبرمجين أصحاب الخبرة بأن تبدأ بلغة قواعدها بسيطة ثم تتخصص لاحقًا. وتُعد Python خيارًا ممتازًا للبداية لأن تعليماتها قريبة من اللغة الإنجليزية، ولهذا يعلّمك [مسار تعلم أساسيات البرمجة بلغة بايثون](https://almdrasa.com/products/tracks/programming-fundamentals-python) المفاهيم البرمجية من خلالها. وبعد أن تفهم الأساسيات اختر تخصصك:
+
+| هدفك | ماذا تتعلم |
+| --- | --- |
+| مواقع الويب | HTML وCSS، ثم JavaScript، ثم TypeScript وإطار عمل مثل React |
+| تطبيقات الهاتف | Kotlin لنظام Android، أو Swift لنظام iOS، أو Flutter بلغة Dart للنظامين معًا |
+| تحليل البيانات والذكاء الاصطناعي | Python ومكتباتها مثل Pandas |
+| فهم الأساسيات أولًا | Python |
+
+![مفترق طرق يقود إلى الويب وتطبيقات الهاتف وتحليل البيانات](https://almdrasa.com/media/blog-2026/22537/img1-411fae7d-1536.webp)
+
+### 2- ابحث عن مصادر تعلّم جيدة ومحدّثة
+
+المصدر الجيد يوفّر عليك شهورًا من التشتت. قبل أن تبدأ في أي مصدر تأكد من أنه:
+
+- يشرح المفاهيم بوضوح وبترتيب منطقي، من الأساسيات إلى المتقدم.
+- يحتوي على تمارين ومشاريع، لا على شرح نظري فقط.
+- محدّث بأحدث إصدار من اللغة، حتى لا تتعلم طرق كتابة قديمة أو ميزات (Features) أُلغي استخدامها.
+- يتيح لك أن تسأل عندما تتعطل.
+
+احذر من التنقل الدائم بين فيديوهات متفرقة. ستشعر بأنك تتعلم كثيرًا، لكنك ستكتشف أنك لا تستطيع بناء شيء وحدك. مسار واحد منظم تكمله إلى آخره أفضل من عشرة مصادر لا تكمل أيًّا منها.
+
+### 3- ابدأ بمشاريع صغيرة وطبّق ما تتعلمه
+
+لا تحاول بناء مشروع ضخم دفعة واحدة. ابدأ بشيء بسيط، ثم أضف إليه ميزة بعد أخرى كلما ارتحت للأساسيات. هذا الأسلوب يحميك من الإرهاق ويبني لديك أساسًا قويًّا.
+
+إذا كنت مهتمًا بالويب مثلًا، فابدأ بصفحة HTML بسيطة فيها اسمك ونبذة عنك، ثم نسّقها باستخدام CSS، ثم اجعلها متجاوبة مع شاشة الهاتف. ويسير [مسار تطوير مواقع ويب متجاوبة باستخدام HTML وCSS](https://almdrasa.com/products/tracks/responsive-websites-html-css) بهذه الطريقة نفسها: مشروع صغير تكبّره خطوة بخطوة.
+
+وإذا بدأت بـ Python فيمكن أن يكون أول برنامج لك بهذه البساطة:
+
+```
+name = input("ما اسمك؟ ")
+age = int(input("كم عمرك؟ "))
+print(f"أهلًا يا {name}، بعد 10 سنوات سيكون عمرك {age + 10} سنة.")
+```
+
+بعدها طوّره: تحقّق من أن المستخدم أدخل رقمًا صحيحًا، ثم أضف أسئلة أخرى، ثم احفظ النتائج في ملف. هكذا يتحول البرنامج الصغير إلى تدريب حقيقي.
+
+![مشروع صغير يكبر تدريجيًّا بإضافة ميزات جديدة](https://almdrasa.com/media/blog-2026/22537/img2-01a7a40e-1536.webp)
+
+### 4- تدرّب بانتظام بعد تعلم الأساسيات
+
+الممارسة هي ما يصنع الفرق. كلما كتبت كودًا أكثر أصبح الأمر أسهل عليك، وساعة يوميًّا أفضل كثيرًا من سبع ساعات متواصلة في يوم واحد من الأسبوع.
+
+- اكتب الكود بيدك ولا تكتفِ بقراءته أو نسخه.
+- حلّ تمارين قصيرة باستمرار لتقوّي طريقة تفكيرك في حل المشكلات.
+- تعلّم Git وGitHub مبكرًا، واحفظ عليه كل مشاريعك لتصبح معرض أعمال (Portfolio) لك.
+- شارك في مشاريع مع غيرك؛ ستكتب كودًا أكثر وتتعلم ممن سبقوك.
+
+### 5- اطلب المساعدة عندما تحتاجها
+
+طلب المساعدة ليس ضعفًا، بل هو جزء طبيعي من عمل أي مبرمج. لكن قبل أن تسأل حاول أولًا: اقرأ رسالة الخطأ بعناية، وابحث عنها، وجرّب حلًّا أو اثنين. ثم اكتب سؤالك بوضوح: ماذا كنت تحاول أن تفعل، وما الكود، وما الخطأ الذي ظهر لك.
+
+أدوات الذكاء الاصطناعي مثل ChatGPT وClaude وGitHub Copilot أصبحت مساعدًا قويًّا في التعلم، فهي تشرح لك الخطأ، وتعطيك أمثلة، وتراجع الكود الذي كتبته. استخدمها لتفهم، لا لتنسخ: اطلب منها أن تشرح لك السبب، ثم اكتب الحل بنفسك. إذا لم تستطع شرح الكود الذي أمامك فأنت لم تتعلمه بعد.
+
+![متعلم يحصل على المساعدة من زميل ومساعد ذكي أثناء البرمجة](https://almdrasa.com/media/blog-2026/22537/img3-bdfe02d9-1536.webp)
+
+### 6- ثابر عندما تشعر أنك لا تتقدم
+
+من أصعب لحظات التعلم أن تشعر بأنك ثابت في مكانك. هذا الشعور يمر به الجميع، حتى المطورون أصحاب الخبرة عندما يبدؤون في تقنية جديدة. وغالبًا ما يكون هذا الشعور علامة على أنك تتعلم شيئًا صعبًا فعلًا.
+
+عندما تتعطل قسّم المشكلة إلى أجزاء أصغر، وابتعد عنها قليلًا ثم ارجع إليها، واطلب المساعدة كما في الخطوة السابقة. ومع الوقت ستجد نفسك تتقدم من جديد.
+
+### 7- حدّد أهدافًا واضحة لتبقى متحمسًا
+
+البرمجة مهارة تحتاج إلى وقت وجهد، والهدف الواضح هو ما يبقيك مستمرًّا في الأيام الصعبة. قسّم هدفك الكبير إلى أهداف صغيرة يمكن قياسها:
+
+- هدف قصير المدى: أنهي أساسيات JavaScript خلال شهر.
+- هدف متوسط المدى: أبني ثلاثة مشاريع وأنشرها على GitHub.
+- هدف طويل المدى: أتقدم لأول وظيفة أو أول عمل حر.
+
+كل هدف تحققه يعطيك إحساسًا بالإنجاز يدفعك إلى الهدف التالي.
+
+### 8- خذ فترات راحة واحتفل بتقدمك
+
+العمل المتواصل بلا راحة يقلل تركيزك ويزيد إحباطك. خذ فترات راحة قصيرة أثناء المذاكرة، ونم جيدًا، فعقلك يرتّب ما تعلمته أثناء الراحة.
+
+واحتفل بإنجازاتك الصغيرة: أول برنامج يعمل، أول خطأ أصلحته وحدك، أول مشروع نشرته. هذه اللحظات تبقيك متحمسًا، وتذكّرك بأنك تبني أساسًا من المعرفة سيجعل كل ما بعده أسهل.
+
+### 9- انضم إلى مجتمع مبرمجين
+
+عندما تكون بين أشخاص يشاركونك الاهتمام نفسه يصبح التعلم أمتع وأسهل. في المجتمع ستجد من يجيب عن أسئلتك، وستتعلم من تجارب غيرك، وقد تجد شركاء لمشاريعك القادمة.
+
+ابحث عن مجتمعات المنصة التي تتعلم منها، ومجموعات المبرمجين العرب، والمجتمعات الخاصة باللغة أو الإطار الذي تتعلمه. ولا تكتفِ بالسؤال؛ حاول أن تجيب عن أسئلة المبتدئين، فشرح المعلومة لغيرك من أفضل طرق تثبيتها.
+
+![مجموعة من المبرمجين يتعاونون حول طاولة واحدة](https://almdrasa.com/media/blog-2026/22537/img4-e75c011d-1536.webp)
+
+### 10- لا تتوقف عن التعلم
+
+بعد أن تتقن الأساسيات ستجد دائمًا ما تتعلمه: لغة جديدة، أو إطار عمل (Framework)، أو أداة تغيّر طريقة عملك. التقنيات تتطور بسرعة، وأدوات البرمجة بمساعدة الذكاء الاصطناعي غيّرت شكل العمل اليومي للمبرمجين خلال السنوات الأخيرة.
+
+لكن لا تطارد كل جديد. عمّق الأساسيات التي لا تتغير (طريقة التفكير، وهياكل البيانات، وكتابة كود واضح)، ثم تخصص بعمق في مجال واحد. إذا اخترت الويب مثلًا فيمكنك أن تتعمق تدريجيًّا عبر [مسار تعلم JavaScript من الصفر حتى الاحتراف](https://almdrasa.com/products/tracks/javascript)، ثم تنتقل إلى ما بعده.
+
+## الخلاصة
+
+احتراف البرمجة ليس سهلًا، لكنه ليس مستحيلًا أيضًا. اختر لغة تناسب هدفك، وتعلّم من مصدر منظم، وطبّق كل ما تتعلمه في مشاريع صغيرة تكبر مع الوقت، وتدرّب بانتظام، واستعن بالمجتمع وبأدوات الذكاء الاصطناعي لتفهم لا لتنسخ. الصبر والاستمرار هما ما يصنع المبرمج المحترف في النهاية.
+
+## أسئلة شائعة
+
+### من أين أبدأ في تعلم البرمجة؟
+
+حدّد هدفك أولًا: مواقع ويب، أم تطبيقات هاتف، أم تحليل بيانات وذكاء اصطناعي. ثم ابدأ بأساسيات البرمجة بلغة سهلة مثل Python، وبعدها انتقل إلى اللغة أو التقنية التي يحتاجها مجالك.
+
+### ما هي أصعب لغة برمجة؟
+
+يرى كثيرون أن لغات مثل C وC++ أصعب على المبتدئ، لأنها تتطلب منك إدارة الذاكرة بنفسك والتعامل مع تفاصيل قريبة من الجهاز. ولغة C تحديدًا لها مكانة كبيرة في تاريخ البرمجة، فكثير من اللغات الحديثة تأثرت بها. لكن الصعوبة نسبية، وتعتمد على خبرتك وهدفك.
+
+### كم من الوقت يستغرق تعلم البرمجة؟
+
+يختلف ذلك من شخص لآخر بحسب الوقت الذي تخصصه وطريقة تعلمك. مع الممارسة المنتظمة يمكنك فهم الأساسيات خلال بضعة أشهر، أما الوصول إلى مستوى يؤهلك للعمل فيحتاج غالبًا إلى ستة أشهر أو أكثر من التعلم والتطبيق المستمر.
+
+### هل تغني أدوات الذكاء الاصطناعي عن تعلم البرمجة؟
+
+لا. هذه الأدوات تسرّع عملك، لكنها تخطئ أحيانًا، ولن تستطيع تقييم ما تقترحه أو إصلاحه أو بناء مشروع متكامل إلا إذا فهمت البرمجة بنفسك. تعلّم الأساسيات أولًا، ثم استخدمها كمساعد ذكي.
+
+## مقالات ذات صلة
+
+[![](https://almdrasa.com/media/blog-2026/166179/cover-9c1e2f1e-1536.webp)](https://almdrasa.com/9-%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%86%D8%AF-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/)
+
+15 أغسطس 2024
+
+### [9 صعوبات تواجه الأطفال عند تعلم البرمجة وكيفية التغلب عليها](https://almdrasa.com/9-%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%86%D8%AF-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/)
+
+أشهر 9 صعوبات تواجه الأطفال عند تعلم البرمجة، من المصطلحات المجردة إلى الإحباط من الأخطاء، مع حلول عملية تساعد طفلك على الاستمرار.
+
+[اقرأ المزيد ←](https://almdrasa.com/9-%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D8%A7%D8%AC%D9%87-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%86%D8%AF-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/)
+
+[![](https://almdrasa.com/media/blog-2026/162380/cover-cd27cede-1536.webp)](https://almdrasa.com/6-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84/)
+
+24 يوليو 2024
+
+### [6 فوائد لتعليم البرمجة للأطفال](https://almdrasa.com/6-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84/)
+
+لماذا يتعلم طفلك البرمجة؟ إليك 6 فوائد حقيقية: من حل المشكلات والتفكير الحاسوبي إلى المثابرة والثقة، مع أفضل لغات البدء حسب العمر.
+
+[اقرأ المزيد ←](https://almdrasa.com/6-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84/)
+
+[![](https://almdrasa.com/media/blog-2026/158624/cover-dc3a2cf7-1536.webp)](https://almdrasa.com/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%88%D9%83%D8%A8%D9%8A%D8%AA-lockbit-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A/)
+
+25 يونيو 2024
+
+### [اختراق لوكبيت (LockBit) للبنك الفيدرالي: الادعاء والحقيقة](https://almdrasa.com/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%88%D9%83%D8%A8%D9%8A%D8%AA-lockbit-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A/)
+
+في يونيو 2024 ادّعت LockBit أنها اخترقت الاحتياطي الفيدرالي وسرقت 33 تيرابايت. ماذا حدث فعلًا؟ وما الدروس الأمنية من القصة؟
+
+[اقرأ المزيد ←](https://almdrasa.com/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%88%D9%83%D8%A8%D9%8A%D8%AA-lockbit-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A/)
+
+## النقاش 0
+
+[سجّل الدخول](https://almdrasa.com/login/?redirect_to=https%3A%2F%2Falmdrasa.com%2F%25D9%2583%25D9%258A%25D9%2581-%25D8%25AA%25D8%25AD%25D8%25AA%25D8%25B1%25D9%2581-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-%25D9%2581%25D9%258A-10-%25D8%25AE%25D8%25B7%25D9%2588%25D8%25A7%25D8%25AA%2F) للمشاركة في النقاش.
+
+---
+
+## 3. 7 خطوات لتعلم البرمجة من الصفر، تعرف عليها - أكاديمية اعمل بيزنس
+Source: https://www.e3melbusiness.com/blog/learn-programming-from-scratch
+
+[whatsapp](https://wa.me/966920026065)[FB](https://www.facebook.com/e3melbusiness) [Instagram](https://www.instagram.com/e3melbusiness) [Twitter](https://twitter.com/E3melBusiness) [Youtube](https://www.youtube.com/@E3melBusinessArabic) [Linkedin](https://www.linkedin.com/company/e3melbusinesscommunity/)
+
+[![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/brand/logo.png)](https://www.e3melbusiness.com/)
+
+الروابط
+
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/home.svg)\\
+الرئيسية](https://www.e3melbusiness.com/)
+
+عن الأكاديمية
+
+- [من نحن](https://www.e3melbusiness.com/aboutus)
+- [اعتماداتنا](https://www.e3melbusiness.com/Accreditation)
+- [أسعارنا](https://www.e3melbusiness.com/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%A5%D8%B9%D9%85%D9%84-%D8%A8%D9%8A%D8%B2%D9%86%D8%B3)
+- [أخبارنا](https://www.e3melbusiness.com/news)
+- [اتصل بنا](https://www.e3melbusiness.com/contactus)
+
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/dba.svg)\\
+الدكتوراة المهنية](https://www.e3melbusiness.com/DBA)
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/mba.svg)\\
+الماجستير المهني](https://www.e3melbusiness.com/NEW-MBA)
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/diploma.svg)\\
+الدبلومات](https://www.e3melbusiness.com/diplomas)
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/diploma.svg)\\
+الشهادات الدولية الاحترافية](https://www.e3melbusiness.com/internationaldiplomas)
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/course.svg)\\
+الدورات](https://www.e3melbusiness.com/courses)
+
+اشترك الآن
+
+- [إشتراك الأفراد](https://www.e3melbusiness.com/subscriptions)
+- [إشتراك الشركات](https://www.e3melbusiness.com/companySubscription)
+
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/user.svg)\\
+تسجيل الدخول](https://www.e3melbusiness.com/login)
+- [![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/header/user.svg)\\
+انضم إلينا كمحاضر](https://www.e3melbusiness.com/becomeInstructor)
+
+[![أكاديمية اعمل بيزنس](https://www.e3melbusiness.com/assets/images/brand/logo.png)](https://www.e3melbusiness.com/)
+
+إعمل بيزنس... حيث تحقق أهدافك المهنية عبر تدريب سهل وفعال!
+
+
+بحث
+
+
+تم النشر في
+
+August 04, 2025
+
+# 7 خطوات لتعلم البرمجة من الصفر، تعرف عليها
+
+كيف يمكنك إنشاء عروض تقديمية مقنعة تبهر زملائك وتثير إعجاب
+مديريك؟ اكتشف ذلك من خلال دليلنا المتعمق حول العروض
+التقديمية لتجربة المستخدم.
+
+
+![7 خطوات لتعلم البرمجة من الصفر، تعرف عليها ](https://www.e3melbusiness.com/assets/images/7-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1%D8%8C-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%8A%D9%87%D8%A7.jpg)
+
+كيف أبدأ تعلم البرمجة من الصفر؟ هذا السؤال هو المسيطر الآن في مجموعات التعليم الإلكتروني أو في اجتماعات الأصدقاء أو حتى بين المرء ونفسه، وترجع رغبة كل هؤلاء في تعلم البرمجة، كونهم مسحورين بكل المنشورات التي تتحدث عن رواتب المبرمجين أو الدراسات والأبحاث العلمية التي توضح بدليل القاطع أن مهنة المبرمج هي مهنة الحاضر والمستقبل القريب وكذلك البعيد.
+
+هل هذا الأمر صحيح؟ نعم ولا، فنعم بالرغم من أن رواتب المبرمجين مرتفعة ومناسبة لتكبد حياة كريمة، وبالرغم من أن مهنة البرمجة هي مهنة أساسية في المستقبل، لكن الوضع ليس ورديًا كما يخيل لك، فتعلم البرمجة مثله مثل أي علم آخر يحتاج منك مجهود مضاعف واهتمام وصبر حتى تستطيع أن تصل إلى المستوى الذي تتقاضى فيه الراتب الذي تحلم به أو تمتلك المسار الوظيفي الذي لطالما سعيت له.
+
+لذلك ومن خلال هذه المقال، سنساعدك في معرفة الطريقة الصحيحة لتعلم البرمجة من الصفر، بحيث تعرف لماذا وكيف تقوم بتعلم البرمجة وكيف تقوم بممارستها كالمحترفين؟
+
+## لماذا تتعلم البرمجة؟
+
+تعرف البرمجة بكونها اللغة التي يمكنك من خلالها التواصل مع الحواسيب، بحيث يمكنك من خلال هذه الأكواد أن تتواصل مع الجماد بلغة ومصطلحات يفهمها، بحيث يقوم بتنفيذ أوامرك بكل سهولة ويعرف ما الذي يجب عليه فعله، وبالرغم من أن جميع لغات البرمجة هي في الأساس لغة تتكون من عنصرين هما: 0 و1، إلا منهما انشقت العديد من اللغات المتطورة القريبة في صياغتها من البشر مثل الـ html والـ JavaScript والـ css وغيرها.
+
+بالرغم من ظن الكثيرين أن الأجهزة الحاسوبية والتقنيات المتطورة تمتلك ذكاء اصطناعي خاص بها، يجعلها في غنى عن أخذ الأوامر من البشر، إلا أن في الحقيقة الآلات والحواسيب ما هي إلى جمادات لا تفكر، وكل ما لديها من ذكاء اصطناعي هو قائم في الأساس على فك تشفير الأوامر التي تحصل عليها من الشفر الثنائية 1 و0، لذلك إذا كنت ترغب في التواصل مع هذه الحواسيب بشكل فعال، عليك أولًا أن تتعلم لغتها.
+
+بجانب أن تعلم البرمجة في الأساس بجانب كونه مجال تعليمي منفصل، إلا أنه بمثابة مهارة تقنية مطلوبة في السوق وبقوة، فحجم الفرص المتاحة والشاغرة للعاملين في أقسام البرمجة سواء على المستوى المحلي أو الدولي، تتعاظم كل يوم وتتضاعف باحتياجات الأسواق وتغيراته، فهمها صعدت أنشطة تجارية أو اندثرت أخرى، سيظل الناشط الجديد في حاجة إلى تقنية تساعده على النمو والانتشار.
+
+تساعد عملية تعلم البرمجة في كونها تعيد هيكلة الطريقة التي يفكر فيها الشخص وكيف يتعامل مع المشكلات، فبدلًا من التعامل مع أي مشكلة بصورة سطحية أو بتهور غير محسوب، تساعد البرمجة في هيكلة عقلية المرء، بحيث يفكر في خطواته بطريقة منطقية متسلسلة، بجانب إعداد الطريقة التي سيقوم بها في كل خطوة قبل حتى أن ينفذها.
+
+تعد البرمجة من ضمن قائمة الوظائف الأعلى أجرًا على مستوى العالم، مما يجعل العاملين بها سواء بدوام كامل أو منفصل أو حتى من خلال نظام المشاريع أو العمل الحر يتقاضون رواتب مجزية، ويمتلكون حياة اجتماعية كريمة تؤهلهم لها مهاراتهم التقنية المميزة.
+
+من الأسباب التي تدفعك إلى تعلم البرمجة أيضًا كونها تمتلك العديد من اللغات الفرعية المختلفة، وهو ما يجعلك تمتلك وفرة من الخيارات التي لابد أن يناسب أحدها ميولك وطموحاتك التعليمية والمهنية، وهو على عكس المجالات الأخرى، لن تجد نفسك أسيرًا لتعلم فرع من العلوم لا تحبه ولن تحتاجه، إنما يمكنك التخصص فيما تجيده وتحبه فحسب.
+
+[![](https://www.e3melbusiness.com/assets/images/blobid0(20)(2)(3)(72).jpg)](https://www.e3melbusiness.com/signup)
+
+## أفضل 7 خطوات لبدء تعلم البرمجة من الصفر
+
+### 1- ابدأ من الصفر وتعلم الأساسيات
+
+كما قلنا مسبقًا البرمجة ليست سهلة كما يخيل لك، وحتى تتمكن من أن تصبح محترفًا فيها، عليك أولًا أن تهتم بالأساسيات، وفي عالم البرمجة هذه الأساسيات يجب أن تكون المصطلحات والتعبيرات التي يتم استخدامها في صياغة الأكواد، ودلالة على مصطلح ودوره في عملية الترميز.
+
+هذه المصطلحات من أساسيات البرمجة لأنك ستقابل منها كثير أثناء البرمجة مثل: Variables، Data structures، Arrays، Control structure، Syntax وغيرها، هي مصطلحات قد تبدو غريبة في البداية، لكن بمجرد ما أن تفهم الطريقة التي يتم بها الترميز ودلالة كل مصطلح وكيفية استخدامه، ستبدأ طلاسم البرمجة في فك رموزها، وتصبح عملية التعلم أكثر متعة وسهولة.
+
+### 2- حدد أي لغات البرمجة تفضل
+
+إذا قلنا إن لغة البرمجة الأساسية هي الشفرة الثانية 0 و 1 وهي بمثابة جذور شجرة متينة، ستصبح بذلك لغات البرمجة عالية المستوى والمسماة بالـ سي شارب والبايثون والجاف سكربت وسي ++ وغيرها بالفروع الخاصة بهذه الشجرة والذي يندرج من كل منها أوراق تختلف في خصائصها وأشكالها وكذلك مدى نضج كل منها.
+
+بهذا التشبيه يمكن أن تستنج أن عالم البرمجة واسع ومتفرع، بحيث يوجد العديد من اللغات والتي تختلف في وظائفها عن كل لغة أخرى، وتختلف أيضًا في مدى تطورها ومواكبتها للعلوم الحديثة، لذلك النصيحة التي يجب عليك الأخذ بها هنا، هو أن تتجنب السعي وراء دراسة لغة برمجة قد تكون جار عليها الزمن أو لم تعد مناسبة للوقت الحالي مقارنة بغيرها من اللغات، لذلك قم بالبحث جيدًا وأعرف استخدامات كل لغة، ومن ثم حدد أي منهم هو الأنسب لطموحك وأهدافك الخاصة في عالم البرمجة.
+
+### 3- جرب في مشاريع صغيرة ثم تتدرج
+
+أ ب تعلم برمجة هو ألا يوجد كورس أو دورة تدريبية أو فيديو أو حتى شخص، قادر على منحك كل المعلومات التي تحتاجها حتى تصبح مبرمج محترف، فأغلب الاستراتيجيات الذكية التي تمارسها أو أغلب الحلول العبقرية التي ستجدها كل ستتأتى جراء مشكلة أو أزمة فجائية قابلتها أثناء العمل على مشروع أو في حل ثغرة أو مشكلة واجهت المستخدم.
+
+لذلك كما يقولون يجب أن تبتل يداك أولًا حتى تتعلم السباحة، فلا تتردد ثانية في أخذ أي مشروع صغير والعمل عليه، وبادر في البحث عن المواقع الخاصة بتعليم البرمجة، وهناك ستجد العديد من المجتمعات التي توفر مشاريع عملية للتجريب، بالإضافة إلى عملاء يبحثون عن اشخاص يساعدهم في مهام تتدرج من السهولة إلى الصعوبة بتنوع يضيف إليك الكثير.
+
+### 4- اهتم بالتغذية العقلية
+
+حتى تصبح محترفًا في عالم البرمجة، يجب عليك أن تخرج من بلورتك الخاصة، وترى أكثر مما تبصره عيناك، بحيث تكتشف المشاكل الأخرى التي قابلت مبرمجين أخرين وكيف توصلوا الحل وكيف يمكنك أنت أن تقوم بنفس الشيء أو أفضل منه كذلك.
+
+هذه الطريقة تسمى بالتغذية العقلية، وفيها عليك بالاطلاع على كل من الفيديوهات المصورة للمبرمجين يشرحون مشاكل قابلتهم أو تتطلع على كتب إلكترونية أو مقالات تتناول مشكلة أو فرع جديد في البرمجة وتحرص على فهمها سريعًا، بحيث تضيف إلى حصيلتك المعلوماتية من جهة، ومن جهة أخرى تعي إنك لست وحدك من قد تكون البرمجة بالنسبة له صعبة والأكواد صعبة الحل، بل أن هذا في الحقيقة ما يجعلها ممتعة ولاسيما عندما تجد الحل النهائي للمشكلة التي لطالما أرقت نومك.
+
+### 5- سهل الأمر على نفسك باستخدام الأدوات
+
+تعلم البرمجة من الصفر قد تكون متعبة في البداية، لكن هذا ليس عذرًا لنجعل العملية أصعب ونتجاهل العديد من الأدوات والتقنيات المساعدة التي تمنحنا إياها التكنولوجيا؛ فلحسن الحظ يمكنك استخدام محرر الأكواد الذي بدوره يتنبأ بالكلمات التي تقوم بكتابتها، ويصحح لك إذا قمت بارتكاب أي خطأ في صياغة الكود ذاته.
+
+بجانب برنامج الترميز التي أصبحت أكثر تطورًا وتفاعليًا عن ذي قبل، إلا أنها ليست الوحيدة المفيدة للمبرمج المبتدئ، فهنالك كذلك العديد من الأدوات والمواقع الإلكترونية التي يمكنك من خلالها معرفة اي كود تبحث عنه، مهما كانت الوظيفة الخاصة به صعبة، كما يمكنك أيضًا الاستعانة بأدوات إدارة المشاريع وبرامج التحكم الخاصة، والتي من خلالها ستتمكن من رؤية المشاريع التي تعمل بها بنظرة مفصلة، قادر من خلالها على متابعة المشاكل ومستوى التقدم فيها خطوة بخطوة.
+
+### 6- الجأ إلى مرشد
+
+الطريق يصبح هينًا عندما يوجد صحبة فيه، والبرمجة بالرغم ما كونها تجعلك تشعر تائه في بدايتها، إلا وجود معلم أو مرشد معك، سيساعدك في التخلص من كل الضباب المحيط فيها، فحتى لو كنت تميل إلى التعليم الذاتي 100%، فصدقني من غير وجود مرشد أو معلم لك ف هذه الرحلة، ستهدر سنين محاولًا تعلم شيء، كان هنالك من يستطيع أنه يعرفه له في أول دقيقتين في الحديث معه.
+
+بالرغم من العاملين في مجال البرمجة يميلون إلى العزلة ويحبون العمل بشكل فردي، إلا بناء علاقات في هذا المجال، كثيرًا ما تساعد في عملية تطوير ذات وخاصة في تبادل التجارب والخبرات، فوجود أشخاص آخرون معك سواء في نفس المستوى أو أكبر أو حتى أقل، يساعد في شحذ تفكيرك وتطوير مهارات التحليل بشكل مضاعف، بالإضافة إلى الإحاطة بكافة التحديثات الجديدة في المجال ومتطلبات السوق كذلك.
+
+### 7- اهتم بدورات وكورسات البرمجة الأون لاين
+
+التطبيق العملي مفيد لتطوير مهارات البرمجة لديك، لكن هذا لا يغنى عن ضرورة الاهتمام بالتعليم الأكاديمي كذلك؛ فكما قلنا مسبقًا يمكن اختصار 100 خطوة بقفزة واحدة، إذا عرفت المكان الصحيح لأخذ المعلومة، ولحسن الحظ، فهناك الكثير من الدورات التعليمية الخاصة بالبرمجة سواء كانت مقدمة باللغة العربية الفصحى أو الإنجليزية، أو حتى المحتوى المدفوع منها أو المجاني.
+
+أحرص في عملية اختيار كورس البرمجة المناسب لك، على الاطلاع بكافة المحاور الخاصة بالدورة التدريبية، وما إذا كانت تغطى احتياجاتك بالفعل أم لا، ومن الأفضل أن تكون الدورات ولاسيما الأون لاين منها، يتم بثه بطريقة مباشرة، بحيث يتواجد محاضر يتابع خطواتك ويرشدك في الطريق حتى تصل إلى مستوى الاحترافية بكل سهولة ويسر.
+
+## نصائح وحلول لمنع الإحباط أثناء التعلم
+
+لمواجهة تحديات تعلم البرمجة، يمكنك اتباع هذه النصائح:
+
+- عند تعلم البرمجة من الصفر، ركِّز على تعلم أساسيات بسيطة أولًا (مثل المتغيرات والشروط) قبل التطرق لموضوعات معقدة.
+
+- إذا واجهتك مشكلة، حَلِّلها خطوة بخطوة بدلًا من النظر إليها ككل.
+
+- تذكَّر أن كل مبرمج بدأ من الصفر وكانت السرعة غير مهمة بقدر الاستمرارية.
+
+-  إذا لم تفهم شرحًا، ابحث عن مصدر آخر (فيديوهات، مقالات، أمثلة عملية).
+
+- مارس ما تعلمته يوميًا ولو قليلًا حيث يمكنك الاكتفاء حتى 20 دقيقة وهذا الأمر سيكون أفضل من ساعات متقطعة.
+
+- اكتب الأكواد بنفسك ولا تكتفِ بالنظر أو النسخ، جرب تعديل الكود لتفهم كيف يعمل.
+
+- عندما تشعر بالعجز، ابتعد قليلًا ثم عد بذهن صافي.
+
+- كافئ نفسك عند إنجاز مهمة، مهما كانت صغيرة، هذا الأمر يمكن أن يحدث فارقًا كبيرًا في نفسيتك.
+
+
+### مشاريع صغيرة للتطبيق العملي
+
+عندما تنتهي من اتباع هذه النصائح، يمكنك تجربة مشاريع صغيرة للتطبيق العملي، لعل من أبرزها ما يلي:
+
+- آلة حاسبة بسيطة: اجمع بين العمليات الأساسية (الجمع، الطرح، الضرب، القسمة) باستخدام المدخلات من المستخدم.
+
+- قائمة مهام (To-Do List):أضف، احذف، وعدّل المهام (يتطلب تعلم المصفوفات والدوال الأساسية).
+
+- محول الوحدات (مثل درجة الحرارة أو العملة): حوّل بين الوحدات (مثل من C° إلى F° أو من الدولار إلى الجنيه).
+
+- موقع شخصي بسيط (Portfolio):صمم صفحة ويب تعرف بك باستخدام HTML & CSS فقط (مثال: اسمك، صورتك، هواياتك).
+
+
+مشاريع مصغرة يمكنك تطبيق تدريب عملي عليها بسهولة، ولكن يجب أن تعلم جيدًا بأن كل مشروع يُبنى على أساسيات مختلفة (الشروط، الحلقات، المصفوفات، واجهات المستخدم البسيطة)، لذلك يمكنك البدء بأبسط نوع منهم وتدرج بعد ذلك فيما هو أصعب وهكذا.
+
+## هل يمكن تعلم البرمجة في البيت؟
+
+هل يمكن تعلم البرمجة من البيت؟! نعم عزيزي القارئ، بل في الحقيقة أغلب من تعلموا البرمجة كان بهذه الطريقة من الأساس، فعلم البرمجة هو علم لا يحتاج منك أكثر من آذان صاغية وعقل منفتح ولاب توب متصل بإنترنت قوى، وحينها كل ما عليك فعله هو اختيار كورس البرمجة المناسب، وتطبيق الخطوات فيه.
+
+تعلم البرمجة بالعربي ومن البيت أيضًا متاح والشكر فيه لصناع المحتوى المتنوعين سواء من خلال المحاضرين العرب الأكاديميين، أو من المبرمجين ذوي الخبرة الحريصين على نقل معلوماتهم إلى المبرمجين المبتدئين في المجال ومساعدتهم بالطريقة التي لم يجدوها هم في بداية الطريق.
+
+### المصادر المجانية والدورات عبر الإنترنت
+
+لحسن الحظ يعج الإنترنت بالعديد من المصادر العربية والإنجليزية وغيرها من اللغات، والذي يتم فيها تقديم محتوى تعليمي للبرمجة متنوع يناسب مستوى المبتدئ والمتوسط والخبير، لكن مع ذلك تجنب أن تقع في فخ المقدمات المنمقة للكورسات، والتي تتفاجأ بعد شراء الدورة التدريبية أن المحتوى ضعيف ولا يرقى إلى أي مستوى.
+
+لذلك عند التفكير في احتراف البرمجة ودراستها عن بعد، أنصحك باللجوء إلى مواقع التعليم الأكاديمي المعترف بها والتي تمتلك بالفعل تجارب جيدة وثقة فيما تقدمه من محتوى أو مساعدة في المحاضرين أو فريق العمل التابع لها، ومن بين هذه المنصات بالطبع، منصة أكاديمية إعمل بيزنس.
+
+## كيف تحصل على دبلومة البرمجة (تطوير المواقع) من أكاديمية إعمل بيزنس؟
+
+لطالما عٌدت أكاديمية إعمل بيزنس من المنصات التعليمية التي تسعى إلى مواكبة كل جديد في الساحة، لذلك لم يكن من الغريب أن تكون من أولى الكيانات التي اهتمت بالتسويق الإلكتروني عند ظهوره، والآن تمنح البرمجة نفس الاهتمام والحرص.
+
+لذلك حرصت الأكاديمية على مساعدة المبتدئين في تعلم [كيفية تطوير المواقع](https://www.e3melbusiness.com/diplomas/%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9) بدبلومة شاملة تساعدهم في تعلم البرمجة من الصفر، بحيث تساعدهم هذه الدبلومة في معرفة الآتي:
+
+01. كيفية استخدام لغة html والتعامل مع محتوى المواقع
+
+02. استخدام لغة css
+
+03. التعامل مع لغة جافا سكربت javascript
+
+04.  المصطلحات والمفاهيم الخاصة بالبرمجة مثل Variables & Control Flow.
+
+05. كيفية إنشاء واجهات المستخدم
+
+06. التعامل مع قواعد البيانات بنظام MYSQL
+
+07. كيفية إنشاء وإدارة قواعد البيانات
+
+08. التعامل مع الجداول
+
+09. تنفيذ جمل الاستعلام المختلفة.
+
+10. استخدام لغة  php
+
+11. برمجة server side
+
+12. تطوير تطبيقات الويب باستخدام larval
+
+13. إنشاء api
+
+14. معرفة مفهوم spa
+
+15. تطوير واجهات المستخدم باستخدام إطار عمل React.js
+
+
+كل هذه المحاور قد تبدو مبهمة لك في هذه المرحلة، لكن بمجرد الاشتراك في دبلومة تطوير المواقع الشاملة، رويدًا رويدًا ستصبح كل منطقية ومفهومة، ولاسيما أن المنهج المقدم يتم طرحه باللغة العربية السهلة، ويتم من خلال لقاءات حية، يقوم فيها المحاضر بمساعدتك خطوة بخطوة، حتى تتمكن في النهاية من فهم الموضوع الذي يتم مناقشته باستفاضة وباستيعاب.
+
+[تعلم البرمجة من الصفر](https://www.e3melbusiness.com/diplomas/%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A9-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9) لم يعد خطوة صعبة كما من قبل، كل ما عليك فعله هو أن تسير على خطى الخطوات التي ذكرناها سلفًا، وأن تبدًا في التطبيقي العملي خطوة بخطوة، وإذا واجهتك أي مشكلة، تذكر أن فريق الدعم الخاص بالأكاديمية سيكون بجانبك للإجابة على كافة استفساراتك، بالإضافة إلى إرشادات لطريقة الصحيحة للتطبيق.
+
+[![](https://www.e3melbusiness.com/assets/images/blobid0(20)(2)(3)(73).jpg)](https://www.e3melbusiness.com/signup)
+
+#### الأسئلة الشائعة
+
+### أي لغة برمجة أبدأ بها؟
+
+تعتبر لغة Python هي الأفضل للمبتدئين وذلك لأنها من أسهل اللغات التي يتم استخدامها على نطاق واسع سواء في المواقع أو الذكاء الاصطناعي، لذلك إذا كنت ترغب في تعلم البرمجة من الصفر، فكر دائمًا في هذه اللغة أولًا.
+
+### كم الوقت اللازم لتعلم البرمجة؟
+
+يختلف الأمر من شخص لآخر، لكن في المجمل تستغرق خطوة تعلم الأساسيات من 3 إلى 6 أشهر، أما الإتقان ستجد أن الأمر قد يستغرق وقتًا أطول يمكن أن يصل إلى 3 سنوات ويكون ذلك بناءً على التخصص الذي قمت باختياره.
+
+### هل أحتاج خلفية تقنية قبل البدء؟
+
+لا، لكن هناك بعض المهارات التي يمكن أن تسهل عليك خطوة البدء، لعل من أبرزها التفكير المنطقي، كما يجب أن تكون اللغة الإنجليزية جيدة، وتتمتع بالصبر اللازم لأن تعلم البرمجة من الصفر تحتاج إلى وقت وصبر.
+
+### كيف أطبق ما تعلمته عملياً؟
+
+أفضل طريقة تكون من خلال التطبيق العملي على مشاريع صغيرة وبسيطة تناسب مع المبتدئين، وتتمثل في إنشاء آلة حاسبة، قائمة مهام، وهكذا، بعد ذلك قم بتوسيع الآفاق والبدء في مشاريع أكثر تعقيدًا ولكن أجعل الأمر بشكل تدريجي حتى لا تواجه مشكلة مع مرور الوقت في التعلم.
+
+نسخ الرابط
+
+![name](https://www.e3melbusiness.com/assets/images/brand/logo.png)
+
+أعمل بيزنس
+
+---
+
+## 4. كيف أتعلم البرمجة من الصفر بخطوات بسيطة - دليل مبسط لتعلم البرمجة
+Source: https://www.youtube.com/watch?v=DzVuSTPTh30
+
+كيف أتعلم البرمجة من الصفر بخطوات بسيطة \- دليل مبسط لتعلم البرمجة
+
+Tap to unmute
+
+2x
+
+Copy link
+
+Info
+
+Shopping
+
+![](https://i.ytimg.com/an/axzdOiv4BMtkwuz2V9tn7A/featured_channel.jpg?v=6a8016a6)
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+Up next
+
+Live
+
+Upcoming
+
+CancelPlay Now
+
+[Dana Allan - دانه علان](https://www.youtube.com/channel/UCaxzdOiv4BMtkwuz2V9tn7A)
+
+Subscribe
+
+Subscribed
+
+دكتورة صيدلانية و محاضرة في كلية الصيدلة🎓 اشتركوا في القناة و شاركوني رحلة تحسين حياتي في سلسلة Danadol كبسولة التحسين 💊
+
+للدعاية و الإعلان بالقناة الرجاء التواصل على الإيميل التالي:
+danaallanyt@gmail.com
+
+[كيف تستفيدي من الإجازة و تتعلمي أي مهارة لوحدك من البيت \- دليل مبسط للتعليم الذاتي\\
+\\
+8:18](https://www.youtube.com/watch?v=_moJ8tMo6P8)
+
+[دانادول كبسولة التحسين 💊 Danadol\\
+\\
+53 videos](https://www.youtube.com/watch?v=CqXCfl5FP7g&list=PLX_227cDRp7JQBX4VS8prCDTYZC-IsP1M)
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+0:00 / 7:07
+
+Live
+
+•Watch full video
+
+•
+
+•
+
+Error 401 (Bad Request)!!1
+
+**401.** That’s an error.
+
+The server cannot process the request because it is malformed. It should not be retried. That’s all we know.
+
+Back
+
+
+[![](https://www.youtube.com/watch?v=DzVuSTPTh30)](https://www.youtube.com/)
+
+Search
+
+---
+
+## 5. كيف تتعلم البرمجة: نصائح وأدوات لرحلتك في عالم البرمجة
+Source: https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/
+
+[اذهب إلى المحتوى](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#ipsLayout_mainArea "الذهاب إلى المحتوى الرئيسي للصفحة")
+
+- [مقالات برمجة عامة](https://academy.hsoub.com/programming/general/)
+
+# كيف تتعلم البرمجة: نصائح وأدوات لرحلتك في عالم البرمجة
+
+* * *
+
+![جميل بيلوني](https://academy.hsoub.com/uploads/monthly_2025_05/imported-photo-65605.thumb.webp.9e9b32713a8326bc93106c7fb6f8eeef.webp)
+
+بواسطة
+
+جميل بيلوني
+
+
+
+
+- 13 أكتوبر 2022
+
+[مشاركة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#elShareItem_2123376237_menu)
+
+[https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/ "Copy Link to Clipboard")
+
+- [Share on X](https://x.com/share?url=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%2525D9%252583%2525D9%25258A%2525D9%252581-%2525D8%2525AA%2525D8%2525AA%2525D8%2525B9%2525D9%252584%2525D9%252585-%2525D8%2525A7%2525D9%252584%2525D8%2525A8%2525D8%2525B1%2525D9%252585%2525D8%2525AC%2525D8%2525A9-%2525D9%252586%2525D8%2525B5%2525D8%2525A7%2525D8%2525A6%2525D8%2525AD-%2525D9%252588%2525D8%2525A3%2525D8%2525AF%2525D9%252588%2525D8%2525A7%2525D8%2525AA-%2525D9%252584%2525D8%2525B1%2525D8%2525AD%2525D9%252584%2525D8%2525AA%2525D9%252583-%2525D9%252581%2525D9%25258A-%2525D8%2525B9%2525D8%2525A7%2525D9%252584%2525D9%252585-%2525D8%2525A7%2525D9%252584%2525D8%2525A8%2525D8%2525B1%2525D9%252585%2525D8%2525AC%2525D8%2525A9-r206%2F "Share on X")
+- [شارك على فيس بوك](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%25D9%2583%25D9%258A%25D9%2581-%25D8%25AA%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-%25D9%2586%25D8%25B5%25D8%25A7%25D8%25A6%25D8%25AD-%25D9%2588%25D8%25A3%25D8%25AF%25D9%2588%25D8%25A7%25D8%25AA-%25D9%2584%25D8%25B1%25D8%25AD%25D9%2584%25D8%25AA%25D9%2583-%25D9%2581%25D9%258A-%25D8%25B9%25D8%25A7%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-r206%2F "شارك على فيس بوك")
+- [شارك على LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%25D9%2583%25D9%258A%25D9%2581-%25D8%25AA%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-%25D9%2586%25D8%25B5%25D8%25A7%25D8%25A6%25D8%25AD-%25D9%2588%25D8%25A3%25D8%25AF%25D9%2588%25D8%25A7%25D8%25AA-%25D9%2584%25D8%25B1%25D8%25AD%25D9%2584%25D8%25AA%25D9%2583-%25D9%2581%25D9%258A-%25D8%25B9%25D8%25A7%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-r206%2F&title=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%3A+%D9%86%D8%B5%D8%A7%D8%A6%D8%AD+%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83+%D9%81%D9%8A+%D8%B9%D8%A7%D9%84%D9%85+%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9 "شارك على LinkedIn")
+
+* * *
+
+More sharing options...
+
+[متابعون3](https://academy.hsoub.com/login/ "سجل الدخول للمتابعة")
+
+كيف تتعلم البرمجة هو سؤال من أشهر الأسئلة على الإنترنت التي تدور في فلك البرمجة وعلوم الحاسوب وشهرته تأتي من كون البرمجة programming من أهم المجالات وأكثرها طلبًا في وقتنا الحالي، ولا أحد ينكر أنها جزءٌ أصيلٌ مرتبط بالتقنية التي تشكل حاضرنا ومستقبلنا، فكل شيء أصبح مرتبط بالحواسيب ويحتاج الحاسوب إلى أن نخاطبه بلغته للتواصل معه وتوجيهه وتلقينه الأوامر.
+
+وبذكر الحاسوب، فقد أصبحنا محاصرين بكم كبير من الحواسيب حولنا بدءًا من هواتفنا الذكية التي هي حواسيب مصغَّرة مرورنا بآلة الغسيل وجلي الصحون وحتى الطائرات، ولنذكر أن عالمنا الآن يتجه إلى أتمتة المعلومات وحوسبة العمليات على جميع الأصعدة بطريقة سريعة وبعيدًا عن الروتين، كما يتجه إلى الاعتماد على التطبيقات الحاسوبية اعتمادًا كبيرًا وكل ذلك لا يتحقق إلا بوجود عدد كبير من المبرمجين لبرمجتها.
+
+تعد البرمجة من المهارات الرائعة صراحة إذ تمكنك من بناء تطبيقات مفيدة تحل الكثير من المشكلات الحياتية كما قد تخترع أنظمة وتقنيات مفيدة للبشرية مثل أنظمة الاتصالات وأيضًا الأنظمة البنكية وأنظمة البيع والشراء وغيرها التي سهلت حياة البشر وزادت من إنتاجيتهم وقدراتهم، فعملك كبمرمج يكسبك دومًا خبرات متجددة تزداد مع زيادة سنوات عملك كمبرمج، ولا ننسَ أن أشهر أثرياء عالمنا اليوم هم مبرمجون في الأصل.
+
+أضف إلى أن البرمجة توسع من خبرتك باطراد دائم، وتفتح لك أبوابًا لمهن مطلوبة في يومنا الحالي وبشدة أكثر من أي مهنة أخرى، لتؤمن لك دخلًا جيدًا بل وحتى حرية ومرونة في العمل أينما كنت حتى من منزلك فلا يتطلب في بعض الحالات وجود المبرمج في موقع العمل.
+
+بناءً على ما سبق، من الطبيعي أن ترى أعداد المتوافدين على باب [تعلم البرمجة](https://academy.hsoub.com/learn-programming/) كبيرًا يزداد يومًا بعد يوم، وتحتاج قبل دخوله وبدء تعلم البرمجة إلى امتلاك بوصلة تهديك طيلة الطريق فبدونها ستضيع في هذا العالم الكبير الواسع وقد تنسحب منه وتعود أدراجك لعدم سلوكك الطريق الصحيح، لذا ستحصل في نهاية هذا المقال على بوصلة كيف تتعلم البرمجة تعينك على دخول هذا الطريق من أسهل طرقه وأسرعها إلى امتلاك الخبرة ودخول سوق العمل، فهل أنت جاهز؟ لننطلق!
+
+## فهرس المحتويات
+
+- [ماذا تعني البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%B9%D9%86%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+- [لماذا تتعلم البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+- [طرق لتعلم البرمجة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%B7%D8%B1%D9%82-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)  - [تعلم البرمجة عبر الجامعة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9)
+  - [تعلم البرمجة عن بعد عبر الإنترنت](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
+- [كيف تتعلم البرمجة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)  - [مفاهيم تعلم البرمجة: التأسيس الصحيح](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D8%AD)
+  - [أدوات تعلم البرمجة: اختيار الوجهة والتخصص](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%AC%D9%87%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D8%B5)
+- [نصائح لتعلم البرمجة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+- [أسئلة شائعة حول كيف تتعلم البرمجة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%A3%D8%B3%D8%A6%D9%84%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D8%AD%D9%88%D9%84-%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)  - [هل تعلم البرمجة صعب؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%B5%D8%B9%D8%A8)
+  - [هل يؤثر نمط شخصيتي على تعلم البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D9%8A%D8%A4%D8%AB%D8%B1-%D9%86%D9%85%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+  - [هل احتاج إلى إتقان اللغة الإنجليزية لتعلم البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D8%A5%D8%AA%D9%82%D8%A7%D9%86-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+  - [هل هناك مصادر عربية لتعلم البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D9%87%D9%86%D8%A7%D9%83-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+  - [هل احتاج إلى خبرة في الرياضيات لتعلم البرمجة؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D8%A7%D8%AD%D8%AA%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D8%AE%D8%A8%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+  - [كيف تتعلم البرمجة من الصفر؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%B1)
+  - [أنا لست منظمًا فكيف ألتزم في تعلم البرمجة بنفسي؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D8%A3%D9%86%D8%A7-%D9%84%D8%B3%D8%AA-%D9%85%D9%86%D8%B8%D9%85%D9%8B%D8%A7-%D9%81%D9%83%D9%8A%D9%81-%D8%A3%D9%84%D8%AA%D8%B2%D9%85-%D9%81%D9%8A-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%86%D9%81%D8%B3%D9%8A)
+  - [هل يمكنني تعلم البرمجة عبر الجوال؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#%D9%87%D9%84-%D9%8A%D9%85%D9%83%D9%86%D9%86%D9%8A-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84)
+
+## ماذا تعني البرمجة؟
+
+البرمجة \-كما ذكرنا باختصار في المقدمة\- هي الطريقة الوحيدة للتخاطب مع الحواسيب والأجهزة الإلكترونية الذكية لإخبارهم بكيفية تنفيذ الأوامر والمهام التي يجب عليهم تنفيذها، فعلى الرغم من ظننا بأن الحواسيب والأجهزة ذكية كما يقال، إلا أن تلك المقولة خطأ لأن تلك الأجهزة لا تفكر ولا تتمتع بذرة من الذكاء وإنما تتسم بالسرعة والدقة الكبيرة في تنفيذ ما يُقال لها فقط.
+
+[![ماذا تعني البرمجة](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49fb8e3b_--.png.2a074f8691bdb3e4763545d3ad7c3d36.png)](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49fb8e3b_--.png.2a074f8691bdb3e4763545d3ad7c3d36.png "Enlarge image")
+
+إذًا، البرمجة هي الطريقة وأسلوب سرد الخطوات المراد تنفيذها للحاسوب بناء على خوارزمية معينة أما الأداة المستخدمة في توضيح تلك الطريقة والخطوات فهي لغة البرمجة وبما أنها أداة فالأدوات كثيرة لتناسب مختلف الاحتياجات لهذا تجد الكثير من [لغات البرمجة](https://academy.hsoub.com/programming/general/%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/) أما المفهوم والأسلوب فهو شبه ثابت لا يتغير وهنا قد تتطرق في طريق [تعلم البرمجة](https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/) إلى مفهوم [لخوارزميات](https://wiki.hsoub.com/Algorithms) التي يمكن تنفيذها بأكثر من لغة برمجة.
+
+## لماذا تتعلم البرمجة؟
+
+هناك طلب كبير على مطوري البرامج اليوم، إذ سيزداد الطلب عليهم بنسبة [22 بالمائة](https://www.turing.com/blog/in-demand-programming-languages-to-learn-in-2022) بين عامي 2022 و 2030 وفقًا لمكتب إحصاءات العمل الأمريكي وذلك موازنةً بأربعة بالمائة بالنسبة للوظائف الأخرى، إذ تُعَدّ البرمجة مجال العصر والأكثر طلبًا في الوقت الحالي بين المهن الأخرى كما ذكرنا، فامتلاكك لهذه المهارة بمثابة امتلاكك لنقطة من نقاط قوة هذا العصر وتفتح لك أبوبًا واسعة في سوق العمل وضمن قطاعات مختلفة بسبب التقدم الرهيب في التقنية.
+
+YouTube
+
+Tap to unmute
+
+This video is private
+
+[Visit YouTube to search for more videos](https://www.youtube.com/)
+
+This video is private
+
+If the owner of this video has granted you access, please sign in.
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Den&hl=en)
+
+كما تتعدد الأسباب حول الهدف من [تعلم البرمجة](https://academy.hsoub.com/programming/general/%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%B1%D8%AD%D9%84%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r1280/)، ولكن أكثرها انتشارًا هو ما يلي:
+
+- تُعَدّ البرمجة مهنة عالمية عابرة للدول والقارات، إذ يمكن تطبيقها وتوظيفها في أيّ بلد كان مهما كانت ثقافته أو لغته.
+
+- تعلم البرمجة مهم كون العالم يتجه إلى أتمتة المعلومات كما ذكرنا، وبالتالي تسريع المهام الروتينية وتوفير المزيد من الوقت والجهد البشري.
+
+- يتعلق تعلم البرمجة بصورة أساسية بتعلم المنطق والرياضيات، لذا فهي توجّه ممتع لمن يهتم بمثل هذه المجالات.
+
+- تحقيق مكاسب مادية، إذ يتقاضى المبرمجون رواتب عالية من خلال وظائف في شركات كبرى أو من خلال مشاريع ذاتية يصممها المبرمج بذاته ويبيعها لجهة معينة.
+
+- تمكّنك من العمل الحر عبر منصات عمل حر مثل [مستقل](https://mostaql.com/) دون التقيد بجهة معينة كما يمكنك العمل من أيّ مكان كان من منزلك مثلًا، وبالتالي ستوفر عليك العديد من الالتزامات مثل قوانين بيئة العمل، وبعض النفقات مثل المواصلات.
+
+- ممارسة البرمجة على أساس هواية إلى جانب عمل رئيسي آخر، فكثير من الأحيان قد تصادف أشخاصًا مهتمين بتعلم البرمجة وهم أساسًا أطباء على سبيل المثال وذلك لكونها شيء مكتسب بالتعلم والقراءة والممارسة وليست موهبةً أو شيئًا موروثًا.
+
+- تعلم خوارزميات من خلال البرمجة يعزز عدد من المهارات لديك مثل مهارات التواصل وحل المشكلات وحتى مهارة الصبر.
+
+- تفيد البرمجة في توسيع المعرفة وتعلّم تصميم حلول لأيّ مشكلة تواجهك، إذ تُعَدّ البرمجة طريقة تفكير منظمة وطريقة لتبسيط المشكلة وتفكيكها إلى أجزاء صغيرة يمكن التعامل معها بصورة أسهل.
+
+- تعزيز الإبداع والاختراع لدى المبرمج، إذ سيصبح توّاقًا لتقديم أفضل ما لديه ومنافسة ذويه والسعي نحو تقديم مشاريع جديدة غير متوفرة سابقًا.
+
+
+## طرق لتعلم البرمجة
+
+هنالك عدة طرق لتعلم البرمجة ودخول مجال علوم الحاسوب ولكن سأصنفها ضمن مسارين عريضين، الأول عبر التعليم الجامعي والثاني عبر التعليم الحر، وسأشرح كل منهما بالتفصيل مع توضيح مزايا وتحديات كل منهما.
+
+وإن كنت مهتمًا بتعلم البرمجة والتخصص بها ولم تختر مسارك بعد، فأنصحك أن تركز على هذا القسم بعناية لتحديد مسارك التعليمي.
+
+### تعلم البرمجة عبر الجامعة
+
+[![كيف تتعلم البرمجة في الجامعة](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49e8cb0f_---.png.06282c4f87f0ace3932158339132318f.png)](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49e8cb0f_---.png.06282c4f87f0ace3932158339132318f.png "Enlarge image")
+
+يمكن تعلم البرمجة عبر مسار الجامعة بدخول إحدى التخصصات المرتبطة بها مثل تخصص علوم الحاسوب computer science أو تخصص [هندسة البرمجيات](https://academy.hsoub.com/programming/general/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA/) software engineering أو هندسة الحاسوب computer engineering وستدرس بانتظام وعبر سنوات بين 4 إلى 5 سنوات هذا التخصص لتتخرج بدرجة بكالوريوس ويمكنك أن تكمل بعدها إلى مرحلة الماجستير والدكتوراه، وهذا الخيار مناسب تمامًا لك إن كنت تفكر في تسلق هذا السلم والذي تكون نهايته المهنية غالبًا العمل في مهنة التدريس في المؤسسات التعليمية.
+
+هذا الطريق أشهر الطرق لتعلم البرمجة ويتسم بأنه الأطول ولا يمكن البدء به إلا عند الدخول بالمرحلة الجامعية، ومن خلال هذه الطريق سيتلقى الشخص شهادة جامعية رسمية ومعترف عليها في سوق العمل بغض النظر عن الخبرة العملية التي يكتسبها خلال مسيرته الدراسية والتي تكون قليلة نوعًا ما وغير كافية.
+
+ضع في بالك أمر مهم في هذا المسار وهو أنك ستتعلم الكثير من المواد \-وأحيانًا بتعمق\- كما ذكرنا مثل الرياضيات المتقدمة وقواعد البيانات وأنظمة التشغيل والأنظمة المتقدمة والدارات الكهربائية والمنطقية و [الشبكات الحاسوبية](https://academy.hsoub.com/devops/networking/%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8/) وغيرها من المواد النظرية التي أما قد لا تهمك ولا ترغب في التخصص فيها والعمل فيها وإما أنها لا تفيد بشكل مباشر في الحياة العملية التطبيقية لاحقًا (تضيف مثلًا بعض الجامعات مواد إثرائية مثل تاريخ وجغرافية وأدب) مما يعني نسيانها لاحقًا وإضاعة للوقت والجهد.
+
+العائق الوحيد للدخول في هذا الطريق هو المُعدَّل الدراسي المطلوب بالنسبة للجامعات الحكومية والذي يكون مرتفعًا، وذلك لأن المقاعد الدراسية محدودة؛ أما بالنسبة للجامعات الخاصة، فستحتاج إلى مبلغ مالي قد تجده كبيرًا لتستطيع التسجيل في الجامعة وتتمة سنواتها الدراسية، فضلًا عن التفرغ الكامل للجامعة وتأمين النفقات اليومية البسيطة ما بين مواصلات ومعيشة ووربما تحتاج إلى كتب وقرطاسية وغيرها من نفقات إضافية طارئة، ولا ننسى أنه إذا كنت من محافظة تختلف عن المحافظة التي تقع فيها الجامعة، فإنك ستحتاج إلى مصروف إضافي يخص المواصلات بالإضافة إلى مصروف مخصص للسكن إذا لم ترغب في المكوث في السكن الجامعي أو إذا اخترت التسجيل في جامعة خاصة غير موجودة في مدينتك.
+
+والأهم مما سبق كله أن مجال علوم الحاسوب عمومًا والبرمجة خصوصًا مجال سريع التغير والتطور، فقد تتعلم تقنيات قديمة في بداية دراستك الجامعية لن تُستخدم في سوق العمل عند تخرجك بعد عدة سنوات أو أنها على الأقل تغيرت تغيرًا كبيرًا عما تعلمته وكم أسمع مشكلات تواجه طلاب الجامعات اليوم من هذا القبيل، لهذا السبب تجد أن أغلب الشركات لا تقبل بالشهادة الجامعية بمفردها بل تجري للمتخرج الجامعي اختبارًا تقنيًا أو تطلب منه مشروعًا يطلع عليه فريق برمجي متخصص ليتأكد من مواكبة معلوماته لأحدث التقنيات الحالية آنذاك.
+
+ومن الجدير بالذكر أنّ تعلم البرمجة عن طريق الجامعة يجبرك على الدراسة لسنين طويلة قد تصل إلى خمس سنوات وربما أكثر إذا لم تجتاز مواد محددة خلال السنة الدراسية، كما أنّ هذا الطريق لوحده لا يكفي للدخول إلى سوق العمل على الرغم من امتلاكك شهادة جامعية قوية وامتلاكك خلفية ثقافية علمية غير متاحة في الوسائل الأخرى، إذ ينبغي عليك اكتساب الخبرة اللازمة لتدعم سيرتك الذاتية، ولكن على الرغم من ذلك فبعض الشركات تهتم بالشهادة الجامعية في الدرجة الأولى وبعدها تنظر في الخبرة التي تملكها على أساس درجة ثانوية، إذ قد تمتلك برنامجًا تدريبًا خاصًا بالخريجين الجدد.
+
+والخلاصة، قد لا يكون هذا الخيار متاحًا لك \-بسبب مجموعك في المرحلة الثانوية من التعليم\- وباهظًا أيضًا وقد لا تملك وقتًا له وغيرها من التحديات وهنا ننصحك بخيار آخر لتعلم البرمجة وهو التعلم الحر عبر الإنترنت.
+
+### تعلم البرمجة عن بعد عبر الإنترنت
+
+[![تعلم البرمجة عبر الإنترنت](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49e260ae_---.png.f824189f69d1a8da8a175e09e2ccd0fd.png)](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49e260ae_---.png.f824189f69d1a8da8a175e09e2ccd0fd.png "Enlarge image")
+
+هنالك طريق آخر لتعلم البرمجة يعد الأسرع من بين عدة طرق لتعلم البرمجة غير التعليم التقليدي في الجامعات وهو التعلم الموجه عن بعد عبر الإنترنت نظرًا لانتشار الإنترنت في كل الأرجاء وازدياد سرعته، فأصبح بالإمكان اليوم مشاهدة فيديوهات والتواصل مرئيًا بدقة عالية دون الاكتراث لتكلفة الإنترنت أو سرعته.
+
+ونظرًا لأن مجال البرمجة لا يتطلب أي أمور وأدوات فيزيائية فأصبح تعلمه عبر الإنترنت شائعًا جدًا وسهلًا وعزز من ذلك تطوره السريع كما أشرنا وحاجة سوق العمل الكبير للمبرمجين مما جعل الشركات الموظفة تتنازل عن شرط وجود شهادة جامعية وأصبحت تطلب بدلًا من ذلك الخبرة والمشاريع العملية مع اجتياز اختبار أو مقابلة تقنية تجريها الشركة للمتقدمين المرشحين.
+
+تنقسم عملية تعلم البرمجة عبر الإنترنت إلى عدة مسارات فرعية تكون عمومًا إما منظمة ومهيكلة أو متفرقة.
+
+#### الدورات التعليمية
+
+تُعَدّ [دورات البرمجة](https://academy.hsoub.com/programming-courses/) من أشهر الطرق التي يلجأ إليها مَن يرغب في تعلم البرمجة سواءً كانت على أرض الواقع أو عبر الانترنت، إذ تأخذ بيده بدءًا من الصفر وتساعده كثيرًا في تعلم أيّ شيء جديد بصورة عامة وفي تعلم البرمجة بصورة خاصة وذلك عن طريق تسلسل مدروس ينتج عنه في ختام الدورة تعلم الأساسيات والتمكن بعض الشيء في النقاط التي تقدمها الدورة ليتابع بعدها المتلقي رحلة تعلمه عن طريق مصادر أخرى أو التسجيل في دورة تعليمة جديدة بمستوى أعلى.
+
+غالبًا ما تقترن الدورات التعليمية بجانب تطبيقي عملي يبني المتعلم عبرها مشاريع عملية تحاكي المشاريع المطلوبة في سوق العمل كما تفيده في بناء معرض أعمال عملية يغنيه عن عرض الشهادات النظرية.
+
+وقد يحتاج الطالب الأكاديمي الذي يدرس في الجامعة \-كما ذكرنا في المسار الأول السابق\- إلى دورات برمجية تعليمية مخصصة لترميم ما ينقصه أو اكتساب خبرة أوسع والتخصص فيه وبناء مشاريع عملية.
+
+لن تعيقك الدورات التعليمية من ناحية العدد المحدود للحضور والتكلفة الباهظة، إذ توجد العديد من الدورات البرمجية منخفضة التكلفة ومقبولة بالنسبة للطلاب مقابل الفائدة التي سيتلقونها، كما أنك لن تحتاج إلى إهدار 4 أو 5 سنوات من حياتك -على الأقل- كما في المرحلة الجامعية.
+
+تحدي مسار تعلم البرمجة عبر دورات تعليمية هو التسويف والتقصير، إذ يحتاج إلى تنظيم وعزيمة وإصرار وحمل النفس على التعلم وطلب العلم ووضع مخطط صارم وخطة واضحة من بداية الطريق، وهذا عكس المسار الأكاديمي الذي يكون فيه دور الجامعة تلقين المعلومة والتخطيط نيابة عنك مثل تحديد أوقات الامتحانات.
+
+ومن الجدير بالذكر أنه تهدف أكاديمية حسوب إلى توفير [دورات تعليمية](https://academy.hsoub.com/store/c1-%d8%af%d9%88%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d8%a9/) باللغة العربية تساعدك في تعلم البرمجة، كما يمكنك طرح أيّ سؤال على المدرِّبين أثناء التعلم إذا صادفت أيّ صعوبة، بالإضافة إلى أنه يمكنك مشاهدة أيّ دورة اشتركت فيها متى ما شئت، وفي حال أردت الانسحاب فبإمكانك التواصل مع فريق الأكاديمية لاسترداد ثمنها.
+
+دورة علوم الحاسوب
+
+
+دورة تدريبية متكاملة تضعك على بوابة الاحتراف في تعلم أساسيات البرمجة وعلوم الحاسوب
+
+
+[اشترك الآن](https://academy.hsoub.com/learn/computer-science/)
+
+[![دورة علوم الحاسوب](https://academy.hsoub.com/learn/assets/images/courses/computer-science.png)](https://academy.hsoub.com/learn/assets/images/courses/computer-science.png "Enlarge image")
+
+#### الورشات والمخيمات البرمجية Bootcamps
+
+تعد المخيمات البرمجية فكرة أخرى منبثقة عن الدورات التعليمية فهي عبارة عن دورة تعليمية مكثفة ومضغوطة بفترة زمنية قد تقصر أو تطور بحسب البرنامج والتخصص وعادةً ما تمتد المخيمات البرمجية المتخصصة في مجال [تطوير الويب](https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%88%D9%8A%D8%A8/) أو تطوير تطبيقات الجوال من ستة أشهر إلى سنة.
+
+وتركز المخيمات البرمجية على تعلم البرمجة وتطبيقها مباشرةً على مشاريع عملية كبيرة تختمها بمشروع تخرج شامل، فيتخرج الطالب منها بحقيبة مشاريع مشرفة يعرضها في مقابلات العمل.
+
+#### القنوات والفيديوهات التعليمية
+
+هذه القنوات منتشرة انتشارًا كبيرًا على اليوتيوب مثل [قناة أكاديمية حسوب](https://www.youtube.com/channel/UCJv37tcBvJlBF2MoVMRMvbQ)، كما يوجد العديد من المبرمجين المحترفين الذين لديهم قناة على اليوتيوب تحتوي على سلسلة من المحاضرات التعليمية النظرية والعملية أو حتى مواضيع متفرقة، وفي هذا الطريق لن تحتاج إلى التقيد بمكان معيّن لحضور دورة تعليمية ما ولن تضطر إلى دفع تكاليفها، إذ تكون أغلبها مجانية، ولن تضطر إلى دفع أي تكلفة إضافية مثل المواصلات والسكن، كما أنك غير مقيّد بوقت محدد بما أنها عبر الانترنت ومسجَّلة مسبقًا.
+
+القيد الوحيد في هذا المسار أنه من المسارات الموجهة وغير المنظمة أو المهيكلة إذ ستتقيد بما هو موجود وقد تجد المعلومة وقد لا تجدها وغالبًا ستكون ضمن المستويات الأساسية دون المتقدمة ولن تجد من يجيب على أسئلتك أيضًا.
+
+#### الكتب والمقالات
+
+يفضل العديد من الأشخاص اللجوء إلى كتب برمجية للوصول إلى فهم أكثر دقة، والعديد من هذه [الكتب](https://academy.hsoub.com/files/c5-programming/) توفرها أكاديمية حسوب مترجمة ومدققة جيدًا، كما يلجأ العديد من الراغبين في تعلم البرمجة إلى [المقالات البرمجية](https://academy.hsoub.com/programming/general/%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r662/) لأخذ لمحة عامة حول تعلم البرمجة أو لتعلم البرمجة بصورة خاصة.
+
+تمتلك كل طريقة من الطرق السابقة ميزات ومساوئ وضحنا لتتمكن من تحديد الطريق الأنسب لك والذي يخدم أهدافك، ولكن ستكون أنت الرابح مهما كان طريقك في تعلم البرمجة، لذلك لا بد من تعلم البرمجة بصورة احترافية مهما كانت الوسيلة لتحقيق رغبتك في الدخول إلى سوق العمل بقوة وتحقيق دخل ممتاز.
+
+وفي نهاية هذا القسم، أنصحك بمشاهدة الفيديو التالي الذي يناقش فكرة الشهادات مقابل الخبرة في سوق العمل:
+
+الشهادات وسوق العمل البرمجي \- YouTube
+
+Tap to unmute
+
+[الشهادات وسوق العمل البرمجي](https://www.youtube.com/watch?v=Ar-TAbr58MM) [أكاديمية حسوب](https://www.youtube.com/channel/UCJv37tcBvJlBF2MoVMRMvbQ)
+
+![thumbnail-image](https://yt3.ggpht.com/ytc/AIdro_mgivbrUtYtQTOg6ddpngKl6mQMXsggPOOLbAqjlpfYjw=s68-c-k-c0x00ffffff-no-rj)
+
+أكاديمية حسوب165K subscribers
+
+[Watch on](https://www.youtube.com/watch?v=Ar-TAbr58MM)
+
+### المسابقات والتدريبات البرمجية
+
+تعزز المسابقات البرمجية والتدريبات البرمجية من عملية تعلم البرمجة تعزيزًا كبيرًا وتكسب المبرمج خبرة كبيرة واسعة تميزه عن بقية المبرمجين وترفع من قدره ومنصبه خصوصًا أن سمة البرمجة عمومًا هي حل المشكلات والبعد عن النمطية والروتين، فستصادف خلال رحلة البرمجة مشكلات منها القديم ومنها الجديد وغالبًا ستجد لكل مشكلة عدة حلول.
+
+أضف إلى ذلك أن أغلب أسئلة المقابلات البرمجية تكون على شكل مشكلة تتطلب إيجاد حل لها وكتاب شيفرته وغالبًا تكون تلك المشكلة شائعة وبسيطة وبمقابلة مباشرة يعني أن الفريق التقني يكون حاضرًا أثناء حلك للمشكلة، وينصب جل تركيزهم على كيفية إيجادك الحل وأسلوب كتابتك للشيفرة، فأحيانًا تجد حلًا لمشكلة يخلق مشاكل أخرى لم تخطر على بالك أو تفكر بها والأصوب أن يكون حلك شاملًا لا يؤدي إلى مشاكل أخرى ولا يسبب تأثيرات جانبية، ولا يمكن الوصول إلى تلك الدرجة من الخبرة والإتقان دون إطلاع على حلول مشاكل سابقة والتمرن على حل مشاكل جديدة ومناقشة الحلول للوصول إلى الحل الأفضل.
+
+هنالك الكثير من منصات التدريب تختلف باختلاف المواضيع ولغة البرمجة التي تريد التدرب عليها يمكنك البحث والسؤال وتجرب عدة منصات لتختار ما يناسب وشاع منها هذه الأيام منصة HackerRank ومنصة Codewars، ولكن لا أرى اللجوء إلى هذا الخيار إلى بعد تعلم المفاهيم الأساسية وعلى الأقل أساسيات لغة برمجة وعمومًا هنالك دومًا مستويات لكل تدريب يمكنك اختيار ما يناسب مستواك آنذاك.
+
+## كيف تتعلم البرمجة؟
+
+البرمجة عالم كبير مترامي الأطراف متباين التضاريس فيه السهل وفيه الصعب وإن كان الصعب يغلب على بدايته إذ يتسم طريق بداية تعلم البرمجة بالصعوبة وشدة الانحدار فهنالك الكثير من الأساسيات والمفاهيم التي عليك تعلمها وفهمها مثل مفهوم التعابير expressions والمتغيرات variables وأنواع البيانات data types والعمليات وحلقات التكرار والتعابير الشرطية والدوال والأصناف …إلخ. ثم تعلم تطبيق تلك المفاهيم بلغة البرمجة التي تريد استخدامها والتقنيات والمكتبات المرتبطة بها وقد تصل إلى بعض الطرق المسدودة -من جملة المشاكل الكثيرة التي تواجهك- التي تتطلب أن تشق طريقًا جديدًا لحلها.
+
+لا تخشَ مما سبق فكلما كان الطريق صعبًا ذقت حلاوة الوصول!
+
+[![كيف تتعلم البرمجة](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49f76cfe_--.jpg.fef4cdd94944cfb77df63c9a4675f731.jpg)](https://academy.hsoub.com/uploads/monthly_2022_10/6347c49f76cfe_--.jpg.fef4cdd94944cfb77df63c9a4675f731.jpg "Enlarge image")
+
+### مفاهيم تعلم البرمجة: التأسيس الصحيح
+
+ابدأ أولًا بتعلم المفاهيم البرمجية الأساسية، فعندما تتقن تلك المفاهيم تصبح قادرًا على تطبيقها على الأدوات مهما اختلفت وكثرت، وهنا وجب الفصل بين المفاهيم والأدوات، لأن الأدوات كما ذكرنا كثيرة وإن بدأت بها فقد تضيع وقد تواجه صعوبة في استخدام أداة لكثرة المفاهيم البرمجية المعقدة المبنية عليها وبدلًا من ذلك يجب البدء بصب أساس متين وإتقان المفاهيم البرمجة التأسيسية التي ستمكنك من استخدام أي أداة أو تقنية برمجية موجودة أو حتى مستحدثة جديدة قد تظهر مستقبلًا.
+
+أهم المفاهيم التأسيسية البرمجية التي يمكنك البدء بها هي:
+
+- التفكير المنطقي
+
+- الخوارزميات وحل المشكلات
+
+- التعابير المنطقية أو البوليانية
+
+- العمليات الرياضية الأساسية
+
+- الأصناف classes والكائنات objects
+
+- الدوال functions والتوابع methods
+
+- بنى التحكم مثل التكرار Loop والشروط conditions
+
+- التعاود Recursion
+
+- المكتبات والحزم وأطر العمل
+
+- أنواع البيانات
+
+- أنواع لغات البرمجة
+
+- البرمجة كائنية التوجه والبرمجة الوظيفية
+
+
+هل يجب تعلم الخوارزميات أولا أم لغات البرمجة \- YouTube
+
+Tap to unmute
+
+[هل يجب تعلم الخوارزميات أولا أم لغات البرمجة](https://www.youtube.com/watch?v=GXxpQ31kTA8) [أكاديمية حسوب](https://www.youtube.com/channel/UCJv37tcBvJlBF2MoVMRMvbQ)
+
+![thumbnail-image](https://yt3.ggpht.com/ytc/AIdro_mgivbrUtYtQTOg6ddpngKl6mQMXsggPOOLbAqjlpfYjw=s68-c-k-c0x00ffffff-no-rj)
+
+أكاديمية حسوب165K subscribers
+
+[Watch on](https://www.youtube.com/watch?v=GXxpQ31kTA8)
+
+ننصحك بإتقان تلك المفاهيم وصقلها قبل البدء في تعلم أي لغة برمجة والتعمق فيها لأنك إن فعلت، فستلجأ إلى الرجوع إلى كل مفهوم والتعرف عليه مما يصعب عملية التعلم ويطيل الطريق عليك، وبعد التعرف عليها، يمكنك الانتقال إلى تعلم لغة البرمجة التي تمثل إحدى أدوات تعلم البرمجة والتخصص في المجال الذي تريده.
+
+### أدوات تعلم البرمجة: اختيار الوجهة والتخصص
+
+لا أقصد بذكري أدوات تعلم البرمجة محررات النصوص وما سيلزمك أثناء البرمجة وكتابة الشيفرة، بل أقصد بها الأدوات والوسائل التي تتعلم البرمجة بها وتطبقها وأقصد تحديدًا لغات البرمجة والتقنيات المرتبطة بها التي تتعلم البرمجة بها.
+
+هنالك الكثير من لغات البرمجة والتقنيات البرمجية وهي ليست ثابتة بل تزداد وتتوسع يومًا بعد يوم، فلا تلبث إلا أن تسمع عن نزول لغة برمجة جديدة أو تقنية أو إطار عمل Framework جديد فإن تعلمت المفاهيم وأسست نفسك بها، فستطبقها مع أي لغة برمجة أو تقنية برمجية، فلغات البرمجة تنتمي إلى عائلات وتُشتق اللغات الجديدة من لغات سابقة وتُبنى تقنيات جديدة على أخرى سابقة أو مشابهة لها فلا وقت لاختراع العجلة من جديد، وفي هذا الصدد أنصحك بالاطلاع على مقال [دليلك الشامل إلى لغات البرمجة](https://academy.hsoub.com/programming/general/%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/).
+
+وقد تتساءل، كيف تتعلم البرمجة دون الاهتمام بتعلم لغة برمجة والانشغال بها؟ سؤالك صحيح، فستحتاج أثناء تعلم المفاهيم إلى أداة أي لغة برمجة تطبق عليها ما تعلمته ولكن في الوقت نفسه لا تريد الانشغال بتعلم لغة البرمجة تلك وتفاصيلها وشيفراتها وهنا لحل المشكلة جاءت لغات البرمجة المرئية مثل سكراتش Scratch وما شابهها.
+
+[سكراتش](https://academy.hsoub.com/programming/general/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%84%D8%B9%D8%A8%D8%A9-%D8%AA%D9%81%D8%A7%D8%B9%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B3%D9%83%D8%B1%D8%A7%D8%AA%D8%B4-r1697/) هي لغة برمجة مرئية مؤلفة من كتل جاهزة يمكنك عبر سحبها وتركيبها بناء برنامج كامل، وهي مناسبة جدًا للبدء بتعلم البرمجة من الصفر وتأسيس المفاهيم البرمجية التي ذكرناها أهمها الخوارزميات والتفكير المنطقي، وبناءً على ذلك، تجد أن [دورة علوم الحاسوب](https://academy.hsoub.com/store/7-%D8%AF%D9%88%D8%B1%D8%A9-%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8/) من أكاديمية حسوب تؤسس تلك المفاهيم أولًا بلغة سكراتش.
+
+دورة علوم الحاسوب \- أكاديمية حسوب \- YouTube
+
+Tap to unmute
+
+[دورة علوم الحاسوب \- أكاديمية حسوب](https://www.youtube.com/watch?v=EkvUFDevMlM) [أكاديمية حسوب](https://www.youtube.com/channel/UCJv37tcBvJlBF2MoVMRMvbQ)
+
+![thumbnail-image](https://yt3.ggpht.com/ytc/AIdro_mgivbrUtYtQTOg6ddpngKl6mQMXsggPOOLbAqjlpfYjw=s68-c-k-c0x00ffffff-no-rj)
+
+أكاديمية حسوب165K subscribers
+
+[Watch on](https://www.youtube.com/watch?v=EkvUFDevMlM)
+
+بعد أن تتعلم المفاهيم، تبدأ بتطبيقها على لغة برمجة حقيقية ويمكنك بعدها التخصص بلغة البرمجة التي تريد تعلمها ودخول مجالها، وهنا يمكن أن أنصحك بدلًا من ذلك البدء بأساسيات لغة برمجة سهلة مثل لغة [جافاسكربت JavaScript](https://academy.hsoub.com/programming/javascript/) أو [لغة بايثون](https://academy.hsoub.com/programming/python/) والسبب سهولة كتابة الشيفرات فيهما وتنفيذها دون الحاجة إلى أي تعقيد في ضبط البيئة البرمجية لهما، ثم بعد ذلك يمكنك الانتقال إلى لغة البرمجة التي تُستخدم في المجال الذي تريد التخصص فيه مثل مجال تطوير مواقع الويب أو تطوير تطبيقات الجوال أو برمجة أنظمة التشغيل والأنظمة المدمجة.
+
+قد تسألني عن الأدوات والبرامج المطلوبة لكتابة الشيفرات وهنا أقول لك، لا تشغل نفسك بها فستتعرف عليها متى ما احتجتها فكل لغة برمجة أو تقنية لها محرر وأدوات تدعمها أكثر من غيرها.
+
+## نصائح لتعلم البرمجة
+
+توجد بعض النصائح لتعلم البرمجة التي ستحتاجها أثناء رحلتك نسردها فيما يلي.
+
+### حدد هدفك من تعلم البرمجة
+
+عليك تحديد هدفك حتى يسهل عليك تحديد التخصص الذي تريد الدخول إليه وبالتالي اللغة المستعملة في ذلك التخصص الأمر، فاللغات التي تُستخدم في مجال برمجة تطبيقات الويب مثلًا تختلف عن لغات برمجة تطبيقات الهاتف المحمول والتطبيقات المكتبة، كما سيسهل عليك تحديد طبيعة الجهاز الذي سيكون موجه إليه هذا التطبيق.
+
+### تعلم لغة واحدة
+
+على الرغم من تشابه لغات البرمجة من حيث المفهوم، إلا أنّ لكل لغة برمجية بنية لغوية syntax تختلف عن غيرها، لذا من الأفضل عدم إجهاد نفسك في تعلم أكثر من لغة على التوازي حتى لا تتشتت وخاصةً إذا كنت في بداية طريقك في تعلم البرمجة.
+
+وعمومًا، يمكنك تعلم المفاهيم البرمجية بدايةً بلغة سكراتش ثم الانتقال إلى اللغة التي تريد التخصص فيها فالمفاهيم متشابهة كما ذكرنا ولكن صياغة اللغة وطريقة كتابة شيفراتها وترتيبها هي التي تختلف ولن يكون الاختلاف كبيرًا عادةً.
+
+### ابدأ ببرامج بسيطة
+
+البرمجة مثلها مثل أيّ مجال آخر، أي حتى تتقنها عليك البدء من مكونات صغيرة وذلك بتصميم برامج بسيطة ثم تعديلها وتطويرها على عدة مراحل للوصول إلى تطبيق متكامل، فعلى سبيل المثال تطبيق الآلة الحاسبة يبدأ بعملية واحدة وبعدها يُطوّر ليشمل كافة العمليات وبعد ذلك يمكن تطويره ليتعامل مع المعادلات الرياضية المعقدة وهكذا.
+
+### تحلى بالصبر
+
+جميعنا يريد أن يكتسب الخبرة بين ليلة وضحاها، لكن الأساس مهم جدًا وهذا يحتاج لأيام وأيام، لذا خذ الطريق من بدايته وأساسياته ولا تستعجل فتندم وتفقد الشغف وربما تتعب من مواصلة التعلم وتقرر الابتعاد نهائيًا، ولا تيأس عندما تواجهك أخطاء، فكلها ستدعم مسيرتك البرمجية في المستقبل وتكسبك الخبرة، ففي النهاية إنما العلم بالتعلّم وإنما الحلم بالتحلّم.
+
+### صاحب مبرمجًا
+
+بما أنك قررت دخول عالم البرمجة، فحاول مصاحبة المبرمجين بدخول مجتمعات البرمجة على وسائل التواصل الاجتماعي وإبداء اهتمامك بأي محتوى برمجي على الإنترنت والتفاعل مع أصحاب المحتوى والتواصل معهم والاستفسار أو السؤال عما يلزمك أن احتجت، فبذلك يصبح لديك شبكة من الأصدقاء تستفيد منهم وتفيدهم بتبادل الخبرات.
+
+### اعتمد على نفسك في حل الأخطاء البرمجية
+
+لا شك أنه كل منا سيواجه أخطاء في مسيرته التعليمية، ولكن من الأفضل عدم الاعتماد على الغير في حلها إلا بعد البحث والتقصي عن سبب المشكلة وإيجاد حلها بأفضل طريقة ممكنة، وفي حال عدم التوصل إلى حل بعد البحث المتواصل، فلا مانع من الرجوع إلى مبرمج محترف يبيّن لك سبب المشكلة وطريقة حلها، فاللجوء فورًا إلى مبرمج محترف لن يفيدك وربما قد تكون عبئًا عليه في حال تواصلت معه على أبسط الأخطاء وباستمرار دون بذل أيّ جهد منك في البحث.
+
+### لا تتوقف عن الممارسة والتدريب
+
+كل علم لا يُمارس فمصيره الزوال والنسيان وكذلك البرمجة، إذ عليك التدرب أكثر فأكثر إلى حين إتقان هذه اللغة وعدم التوقف عن ممارستها بين الحين والآخر لتجنب خسارتها.
+
+## أسئلة شائعة حول كيف تتعلم البرمجة
+
+### هل تعلم البرمجة صعب؟
+
+[![هل تعلم البرمجة صعب](https://academy.hsoub.com/uploads/monthly_2022_10/6347c4a03dd66_---.jpg.f1c70d2ff8e89848a6b3d2648b70ecdf.jpg)](https://academy.hsoub.com/uploads/monthly_2022_10/6347c4a03dd66_---.jpg.f1c70d2ff8e89848a6b3d2648b70ecdf.jpg "Enlarge image")
+
+قد يقول قائل أن [البرمجة](https://academy.hsoub.com/programming/) صعبة وتعلمها أصعب، ولكن هل هذا صحيح؟ أقول أنه لا شيء سهل وأي مهنة فيها مستوى متفاوت من السهولة والصعوبة، والبرمجة من المهن التي تتطلب بذل جهد ذهني وفكري كبير ولا تتطلب بذل جهد بدني بينما تجد بعض المهن تتطلب بذل جهد بدني أكثر من الجهد الذهني وهكذا، وقد لا يناسب البعض بذل هذا الجهد الذهني الكبير والجلوس لفترات طويلة أمام الشاشة بتركيز كبير وهنا يجد تلك الصعوبة التي يشير إليها.
+
+إن أردت إجابة تفصيلية على هذا السؤال، فشاهد فيديو [هل البرمجة صعبة](https://www.youtube.com/watch?v=B8U1CE6V_is).
+
+### هل يؤثر نمط شخصيتي على تعلم البرمجة؟
+
+التعامل مع البرمجة والحاسوب يتطلب بعض الانعزال عن الناس والأنشطة الاجتماعية والتعامل مع آلة أمامك بمخاطبتها عبر شيفرة طويلة تمضي أيامًا وأسابيعًا في كتابتها على انفراد وهذا قد لا يناسب بعض الأشخاص الاجتماعيين الذين يفضلون التعامل مع الناس والاحتكاك بهم، وهنا تظهر فكرة أن غالبية المبرمجين انطوائيين وأرى أنها صحيحة بنسبة ما، ويمكنك الاطلاع على مناقشة [شخصيتك كمبرمج](https://io.hsoub.com/programming/40560-%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%83-%D9%83%D9%85%D8%A8%D8%B1%D9%85%D8%AC-%D9%85%D9%88%D8%B6%D9%88%D8%B9-%D9%84%D9%84%D9%86%D9%82%D8%A7%D8%B4) ومناقشة [هل فعلاً تخصص البرمجة يؤثر بالسلب على الحياة الاجتماعية؟](https://io.hsoub.com/programming/29804-%D9%87%D9%84-%D9%81%D8%B9%D9%84%D8%A7-%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%8A%D8%A4%D8%AB%D8%B1-%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9) في حسوب IO.
+
+### هل احتاج إلى إتقان اللغة الإنجليزية لتعلم البرمجة؟
+
+صحيح أن شيفرات لغات البرمج كلها مكتوبة باللغة الإنجليزية ولكن الحقيقة أنك لا تحتاج إلى إتقانها لتكون مبرمجًا محترفًا، إذ أن كل لغة برمجة مكونة من كلمات مفتاحية keywords محصورة العدد يمكنك حفظها وحفظ استخداماتها وقد قابلت عدة مبرمجين من بلدان آسيا وأوربا غير ناطقين باللغة الإنجليزية ولا يعرفونها بل أتحدث معهم بالإنجليزية فلا يستطيعون الرد علي وفي الوقت نفسه أتفاجأ من أنهم بنوا الكثير من المواقع وتطبيقات الجوال، حتى أن أحدهم بنى مكتبة CSS بلغته ويستطيع أي متحدث بتلك اللغة استخدامها.
+
+### هل هناك مصادر عربية لتعلم البرمجة؟
+
+قد يقول قائل، مراجع تعلم البرمجة قليلة في اللغة العربية أو ليست بجودة عالية، وأنا أقول أن المحتوى العربي غني جدًا بمصادر تعلم البرمجة بالعربية وهنا أحيلك إلى مقال [الدليل الشامل لتعلم البرمجة باستخدام المصادر العربية](https://hausaba.com/learn-programming-arabic/) لتتأكد من نفسك.
+
+كما يوجد دورات برمجة عربية تأخذ بيدك من الصفر وحتى الاحتراف مثل دورات أكاديمية حسوب، فالمميز في دوراتها أن الشرح بلغة عربية فصيحة وأنها توفر بيئة عربية متكاملة بدءًا من توفير التوثيقات البرمجية العربية التي تجدها في [موسوعة حسوب](https://wiki.hsoub.com/) وحتى [المقالات البرمجية](https://academy.hsoub.com/programming/) و [الكتب البرمجية](https://academy.hsoub.com/files/c5-programming/) في كافة المواضيع واللغات البرمجية وأخيرًا بمنصة [أسئلة وأجوبة برمجية](https://academy.hsoub.com/questions/c3-programming/) لطلب أي مساعدة أو الإجابة عن سؤال كما تجد دعمًا أيضًا في [مجتمع البرمجة العربي](https://io.hsoub.com/programming) في منصة حسوب IO.
+
+### هل أحتاج إلى خبرة في الرياضيات لتعلم البرمجة؟
+
+لا تحتاج إلى خبرة متقدمة في الرياضيات بل كل ما تحتاج إليه في البداية هو معرفة بالعمليات الرياضية الأساسية من جمع وطرح وضرب وقسمة ورفع للأس، وهنالك الكثير من القصص عن أطفال ويافعين بأعمار صغيرة تعلموا البرمجة وبدؤوا بكتابة برامج وألعاب.
+
+### كيف تتعلم البرمجة من الصفر؟
+
+إن لم تكن تريد الالتحاق بمسار جامعي، فهنا أنصحك باتباع دورات تعليمية أو ورشات أو مخيمات برمجية منظمة ومهيكلة ولا تتطلب أي خبرة برمجة مسبقة بحيث تبدأ معك من الأساسيات وتنطلق حتى المواضيع المتقدمة يقترن ذلك ببناء مشاريع عملية.
+
+وإن سألتني عن ترشيحات في المحتوى العربي، فأرشح دورات أكاديمية حسوب فكلها لا تتطلب خبرة برمجة مسبقة وتشرح المواضيع من الصفر، كما أنك عندما تشترك بدورة ما، فإن المسارات الأساسية من كل الدورات تصبح متاحة لك وهي ميزة ممتازة تساعدك على صب أساس قوي في كل المجالات البرمجية، وأضف إلى تلك الميزة، هنالك فريق من المبرمجين جاهز للرد على استفساراتك ومساعدتك بأي شيء، فهي خيار جيد تستحق النظر.
+
+### أنا لست منظمًا فكيف ألتزم في تعلم البرمجة بنفسي؟
+
+تعلم البرمجة \-خصوصًا عبر دورات\- يحتاج إلى حمل النفس على ما تكره وهو التنظيم، والتنظيم يحتاج إلى روتين، لذا ألزم نفسك بروتين قاسٍ وعاقبها إن تخلَّفت وقصرت مثل عدم الخروج إلى مكان محبب لك في عطلة نهاية الأسبوع، وفي الوقت نفسه كافئها إن أنجزت وثابرت، وفي هذا الصدد أنصحك بمقال [دليلك لتنظيم حياتك](https://academy.hsoub.com/freelance/productivity/%D8%AF%D9%84%D9%8A%D9%84%D9%83-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AD%D9%8A%D8%A7%D8%AA%D9%83-r348/) ففيه فوائد كبيرة تساعدك على التنظيم لا تفوتها.
+
+وتذكر دومًا أن لذة الوصول تنسيك تعب الطريق وهذا يجب أن يدفعك دومًا إلى بذل الجهد ورفع الهمّة، وصحيح أن طريق تعلم البرمجة قد يكون طويلًا لكن بدايته متعبة فقط أما بعد ذلك فيصبح سهلًا، وتذكر أن المبرمج الخبير المتمرس يملك الكثير من المزايا بدءًا من الراتب المرتفع بقدر خبرته وحتى قدرته على تأسيس شركات برمجية أو إدارتها.
+
+### هل يمكنني تعلم البرمجة عبر الجوال؟
+
+حقيقةً، لا! يتطلب تعلم البرمجة حاسوبًا لتعلم البرمجة وكتابة الشيفرات البرمجية، فمن الصعب كتابة شيفرات برمجية على الهاتف الجوال هذا لم نتحدث عن إمكانية تنفيذ الشيفرات عليه وتجريبها وتنقيحها وتصحيح الأخطاء فيها.
+
+أما إن سألتني عن مواصفات الحاسوب، فيمكن استعمال أي حاسوب بدايةً وبعدها ستجد نفسك إما مرتاحًا بمواصفاته آنذاك أو تحتاج إلى مواصفات أخرى محددة، وقد تحتاج من البداية إلى وجود بطاقة شاشة منفصلة إن أردت التخصص في مجالات برمجة تتطلب معالجة رسوميات عالية مثل تطوير الألعاب أو محاكاة تطبيقات جوال أثناء تطويرها، وقد تحتاج إلى حاسوب ماك إن أردت تطوير أي شيء يتعلق بأنظمة ماك مثل تطوير تطبيقات iOS وهو حالة خاصة ومحددة فقط بمنتجات ماك.
+
+## خاتمة
+
+أرجو أن أكون قد وفقت في الإجابة على سؤال "كيف تتعلم البرمجة؟" إجابة وافية شاملة في هذا المقال وأرجو أيضًا أن يكون هذا المقال بوصلة ترشدك للسير في الطريق الصحيح نحو تعلم البرمجة.
+
+وتذكر أنه بالنسبة لبعض المبرمجين، رحلة البرمجة لا تنتهي، فهنالك دومًا أشياء جديدة يمكن تعلمها وتطبيقها!
+
+وفي نهاية المقال، أحيلك لقراءة المقالات التالية المرجعية بعده التي تدور في فلك تعلم البرمجة ولكن قبل ذلك، قم وخذ قسطًا من الراحة!
+
+_ملاحظة: كُتب هذا المقال سابقًا عام 2015 وقد جرى تعديله وتحديث محتواه لاحقًا._
+
+## اقرأ أيضًا
+
+- [المدخل الشامل لتعلم علوم الحاسوب](https://academy.hsoub.com/programming/general/%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8/)
+- [تعلم بايثون](https://academy.hsoub.com/python/)
+- [تعلم PHP](https://academy.hsoub.com/php/)
+- [فوائد تعلم البرمجة](https://academy.hsoub.com/programming/general/%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/)
+- [دليلك الشامل إلى أنواع البيانات](https://academy.hsoub.com/programming/general/%D8%AF%D9%84%D9%8A%D9%84%D9%83-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%A5%D9%84%D9%89-%D8%A3%D9%86%D9%88%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-r1726/)
+- [تعلم لغة HTML](https://academy.hsoub.com/programming/html/%D8%AA%D8%B9%D9%84%D9%85-%D9%84%D8%BA%D8%A9-html-r1702/)
+- [أسهل لغات البرمجة](https://academy.hsoub.com/programming/general/%D8%A3%D8%B3%D9%87%D9%84-%D9%84%D8%BA%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/)
+- [البرمجة باستخدام سكراتش Scratch](https://academy.hsoub.com/programming/os-embedded-systems/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%B3%D9%83%D8%B1%D8%A7%D8%AA%D8%B4-scratch-r1407/)
+
+- ![أعجبني](https://academy.hsoub.com/uploads/reactions/react_like.png)
+15
+
+
+- [التبليغ عن مقال](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?do=report&d=2&id=206 "التبليغ عن مقال")
+
+[مشاركة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#elShareItem_355432440_menu)
+
+[https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/ "Copy Link to Clipboard")
+
+- [Share on X](https://x.com/share?url=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%2525D9%252583%2525D9%25258A%2525D9%252581-%2525D8%2525AA%2525D8%2525AA%2525D8%2525B9%2525D9%252584%2525D9%252585-%2525D8%2525A7%2525D9%252584%2525D8%2525A8%2525D8%2525B1%2525D9%252585%2525D8%2525AC%2525D8%2525A9-%2525D9%252586%2525D8%2525B5%2525D8%2525A7%2525D8%2525A6%2525D8%2525AD-%2525D9%252588%2525D8%2525A3%2525D8%2525AF%2525D9%252588%2525D8%2525A7%2525D8%2525AA-%2525D9%252584%2525D8%2525B1%2525D8%2525AD%2525D9%252584%2525D8%2525AA%2525D9%252583-%2525D9%252581%2525D9%25258A-%2525D8%2525B9%2525D8%2525A7%2525D9%252584%2525D9%252585-%2525D8%2525A7%2525D9%252584%2525D8%2525A8%2525D8%2525B1%2525D9%252585%2525D8%2525AC%2525D8%2525A9-r206%2F "Share on X")
+- [شارك على فيس بوك](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%25D9%2583%25D9%258A%25D9%2581-%25D8%25AA%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-%25D9%2586%25D8%25B5%25D8%25A7%25D8%25A6%25D8%25AD-%25D9%2588%25D8%25A3%25D8%25AF%25D9%2588%25D8%25A7%25D8%25AA-%25D9%2584%25D8%25B1%25D8%25AD%25D9%2584%25D8%25AA%25D9%2583-%25D9%2581%25D9%258A-%25D8%25B9%25D8%25A7%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-r206%2F "شارك على فيس بوك")
+- [شارك على LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Facademy.hsoub.com%2Fprogramming%2Fgeneral%2F%25D9%2583%25D9%258A%25D9%2581-%25D8%25AA%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-%25D9%2586%25D8%25B5%25D8%25A7%25D8%25A6%25D8%25AD-%25D9%2588%25D8%25A3%25D8%25AF%25D9%2588%25D8%25A7%25D8%25AA-%25D9%2584%25D8%25B1%25D8%25AD%25D9%2584%25D8%25AA%25D9%2583-%25D9%2581%25D9%258A-%25D8%25B9%25D8%25A7%25D9%2584%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9-r206%2F&title=%D9%83%D9%8A%D9%81+%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%3A+%D9%86%D8%B5%D8%A7%D8%A6%D8%AD+%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83+%D9%81%D9%8A+%D8%B9%D8%A7%D9%84%D9%85+%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9 "شارك على LinkedIn")
+
+* * *
+
+More sharing options...
+
+[متابعون3](https://academy.hsoub.com/login/ "سجل الدخول للمتابعة")
+
+[اذهب الى مقالات البرمجة](https://academy.hsoub.com/programming/general/ "اذهب إلى مقالات برمجة عامة")
+
+## تفاعل الأعضاء
+
+- [4 تعليقات](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?tab=comments "4 تعليقات")
+
+## أفضل التعليقات
+
+![aymentouati01](https://avatars.hsoubcdn.com/66d675f633b509b69e026d3a005ba801)
+
+### **aymentouati01** 0
+
+
+نشر 1 ديسمبر 2015
+
+- [بلغ على التعليق](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?do=reportComment&comment=627&d=2&tab=comments "أرسل تقرير عن هذا المحتوى")
+
+مقال في غاية الروعة
+
+أنا أنتظر المقال أي بعدوا....
+
+- [اقتباس](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+![Mohammed Ali45](https://academy.hsoub.com/uploads/monthly_2025_11/imported-photo-68699.thumb.webp.ed959ea85da325e54e54faf017162850.webp)
+
+### **Mohammed Ali45** 70
+
+
+نشر 28 نوفمبر 2017
+
+- [بلغ على التعليق](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?do=reportComment&comment=2219&d=2&tab=comments "أرسل تقرير عن هذا المحتوى")
+
+جميل جدا بورك فيك
+
+- [اقتباس](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+![Ahmed Elhendy](https://avatars.hsoubcdn.com/de09bddd66707df4d4bd3a6baf37634b)
+
+### **Ahmed Elhendy** 0
+
+
+نشر 17 يونيو 2021
+
+- [بلغ على التعليق](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?do=reportComment&comment=37628&d=2&tab=comments "أرسل تقرير عن هذا المحتوى")
+
+ممكن اعرف ايه هي عملة الدفع لاشترك في دورة تطوير الويب .
+
+- [اقتباس](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+![رقية بورية](https://academy.hsoub.com/uploads/monthly_2025_05/imported-photo-3348434.thumb.webp.8c840751f82016a5ed67bf179069b1d9.webp)
+
+### **رقية بورية** 9
+
+
+نشر 17 يونيو 2021
+
+- [بلغ على التعليق](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/?do=reportComment&comment=37639&d=2&tab=comments "أرسل تقرير عن هذا المحتوى")
+
+> [Toggle Quote](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#) بتاريخ On 16‏/6‏/2021 at 21:35 قال Ahmed Elhendy:
+>
+> ممكن اعرف ايه هي عملة الدفع لاشترك في دورة تطوير الويب .
+>
+>
+> أظهر المزيد
+
+مرحبًا @Ahmed Elhendy
+
+يمكنك اختيار الدورة التي تريدها من صفحة [دورات تعليمية](https://academy.hsoub.com/store/c1-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/) وإضافتها إلى سلة المشتريات، ثم إتمام الإجراء إلى عملية الدفع، وبعدها سيُقتطع المبلغ المقابل لسعر الدورة المذكور من رصيدك مهما كان بأي عملة وفق سعر تحويل تحدده خدمة الدفع التي اخترتها.
+
+يمكنك الاطلاع على طريقة الاشتراك بالدورة التي اخترتها من صفحة [كيف أشترك في الدورة](https://support.academy.hsoub.com/buying-courses)، كما يمكنك التواصل مع [مركز المساعدة](https://support.academy.hsoub.com/) إن احتجت إلى أي مساعدة.
+
+نرجو لك رحلةً تعليميةً موفقةً ومفيدة!
+
+- [اقتباس](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+## انضم إلى النقاش
+
+
+
+يمكنك أن تنشر الآن وتسجل لاحقًا.
+
+إذا كان لديك حساب، [فسجل الدخول الآن](https://academy.hsoub.com/login/) لتنشر باسم حسابك.
+
+
+
+
+![زائر](https://academy.hsoub.com/uploads/set_resources_28/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png)
+
+أضف تعليق
+
+×  لقد أضفت محتوى بخط أو تنسيق مختلف.   Restore formatting
+
+Only 75 emoji are allowed.
+
+
+×  Your link has been automatically embedded.   Display as a link instead
+
+×  جرى استعادة المحتوى السابق..   امسح المحرر
+
+×  You cannot paste images directly. Upload or insert images from URL.
+
+
+- [أضف صورة من رابط خارجي](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+[×](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/# "Return to editing mode")
+
+- [النسخة الكاملة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/# "View at approximate desktop size")
+- [محرر الجهاز اللوحي](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/# "View at approximate tablet size")
+- [محرر الهواتف المحمولة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/# "View at approximate phone size")
+
+- reCAPTCHA
+
+
+
+
+
+
+
+تطلب reCAPTCHA التحقق.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+أنا لست برنامج روبوت
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reCAPTCHA
+
+- أضف التعليق
+
+- ### التصنيفات
+
+
+
+
+
+  - [260 **مقالات برمجة عامة**](https://academy.hsoub.com/programming/general/)
+  - [58 **مقالات برمجة متقدمة**](https://academy.hsoub.com/programming/advanced/)
+  - [240 **PHP**](https://academy.hsoub.com/programming/php/)    - [**69** Laravel](https://academy.hsoub.com/programming/php/laravel/)
+    - [**96** ووردبريس](https://academy.hsoub.com/programming/php/wordpress/)
+  - [505 **جافاسكربت**](https://academy.hsoub.com/programming/javascript/)    - [**5** لغة TypeScript](https://academy.hsoub.com/programming/javascript/typescript/)
+    - [**70** Node.js](https://academy.hsoub.com/programming/javascript/nodejs/)
+    - [**52** React](https://academy.hsoub.com/programming/javascript/react/)
+    - [**21** Vue.js](https://academy.hsoub.com/programming/javascript/vuejs/)
+    - [(و 3 أكثر)](https://academy.hsoub.com/programming/javascript/)
+  - [82 **HTML**](https://academy.hsoub.com/programming/html/)
+  - [215 **CSS**](https://academy.hsoub.com/programming/css/)    - [**6** Sass](https://academy.hsoub.com/programming/css/sass/)
+    - [**19** إطار عمل Bootstrap](https://academy.hsoub.com/programming/css/bootstrap/)
+  - [59 **SQL**](https://academy.hsoub.com/programming/sql/)
+  - [79 **لغة C#‎**](https://academy.hsoub.com/programming/c-sharp/)    - [**31** ‎.NET](https://academy.hsoub.com/programming/c-sharp/dotnet/)
+    - [**28** منصة Xamarin](https://academy.hsoub.com/programming/c-sharp/xamarin/)
+  - [68 **لغة C++‎**](https://academy.hsoub.com/programming/cpp/)
+  - [45 **لغة C**](https://academy.hsoub.com/programming/c/)
+  - [297 **بايثون**](https://academy.hsoub.com/programming/python/)    - [**66** Flask](https://academy.hsoub.com/programming/python/flask/)
+    - [**43** Django](https://academy.hsoub.com/programming/python/django/)
+  - [50 **لغة روبي**](https://academy.hsoub.com/programming/ruby/)    - [**23** إطار العمل Ruby on Rails](https://academy.hsoub.com/programming/ruby/rails/)
+  - [58 **لغة Go**](https://academy.hsoub.com/programming/go/)
+  - [95 **لغة جافا**](https://academy.hsoub.com/programming/java/)
+  - [5 **لغة Kotlin**](https://academy.hsoub.com/programming/kotlin/)
+  - [58 **لغة Rust**](https://academy.hsoub.com/programming/rust/)
+  - [11 **برمجة أندرويد**](https://academy.hsoub.com/programming/android/)
+  - [6 **لغة R**](https://academy.hsoub.com/programming/r-language/)
+  - [115 **الذكاء الاصطناعي**](https://academy.hsoub.com/programming/artificial-intelligence/)
+  - [102 **صناعة الألعاب**](https://academy.hsoub.com/programming/game-development/)
+  - [68 **سير العمل**](https://academy.hsoub.com/programming/workflow/)    - [**38** Git](https://academy.hsoub.com/programming/workflow/git/)
+  - [77 **الأنظمة والأنظمة المدمجة**](https://academy.hsoub.com/programming/os-embedded-systems/)
+
+[اعرض جميع التصنيفات](https://academy.hsoub.com/programming/?show=categories)
+
+- ### إعلانات
+
+
+
+
+
+
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2025_04/sndian-1.png.1043dc90a96cb6f039fbee0233ff9d17.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=73&key=feb25b4a8299dd9a2c64298cea75a4bec32400517ad6cefe8554ccb38ae0dc8f)
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2025_04/sndian-1.png.2fe6bcfe29730cc1a0873b59af278c06.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=73&key=feb25b4a8299dd9a2c64298cea75a4bec32400517ad6cefe8554ccb38ae0dc8f)
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2025_04/sndian-1.png.37ec8da3de7c47a834cb0c2c12716e63.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=73&key=feb25b4a8299dd9a2c64298cea75a4bec32400517ad6cefe8554ccb38ae0dc8f)
+
+- ### أحدث أسئلة البرمجة
+
+
+
+
+  - ![Youcef Kias](https://academy.hsoub.com/uploads/monthly_2026_06/imported-photo-4362892.thumb.webp.2acc41920736c45c2a57fd9c5fed7352.webp)
+
+
+
+    1
+
+
+
+    [AI x economics](https://academy.hsoub.com/questions/33373-ai-x-economics/ "AI x economics")
+
+
+
+
+
+
+
+    Youcef Kias · نشر 9 أكتوبر
+
+  - ![Omran Altigani](https://academy.hsoub.com/uploads/monthly_2026_10/imported-photo-4387040.thumb.webp.b00d4f7b36b9c605823975321e5eee1c.webp)
+
+
+
+    2
+
+
+
+    [لماذا التعليم الذاتي ابطء من التعليم المدفوع ؟؟](https://academy.hsoub.com/questions/33362-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-%D8%A7%D8%A8%D8%B7%D8%A1-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%81%D9%88%D8%B9-%D8%9F%D8%9F/ "لماذا التعليم الذاتي ابطء من التعليم المدفوع ؟؟")
+
+
+
+
+
+
+
+    Omran Altigani · نشر 3 أكتوبر
+
+  - ![محمد عياد4](https://academy.hsoub.com/uploads/monthly_2026_07/imported-photo-4396597.thumb.webp.5f0c6e56855ce5466551d90da90bbf55.webp)
+
+
+
+    5
+
+
+
+    [دورة الذكاء الاصطناعي](https://academy.hsoub.com/questions/33353-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A/ "دورة الذكاء الاصطناعي")
+
+
+
+
+
+
+
+    محمد عياد4 · نشر 29 سبتمبر
+
+  - ![Agdex Ai](https://academy.hsoub.com/uploads/monthly_2026_09/imported-photo-4435894.thumb.webp.378e17810f8e224c55a8672da8410220.webp)
+
+
+
+    0
+
+
+
+    [كيف تؤمّن وكلاء المستهلك الذاتيين (Autonomous Consumer Agents) ضد هجمات الـ Prompt Injection وتمنع تسريب البطاقات والبيانات الحساسة؟](https://academy.hsoub.com/questions/33339-%D9%83%D9%8A%D9%81-%D8%AA%D8%A4%D9%85%D9%91%D9%86-%D9%88%D9%83%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A%D9%8A%D9%86-autonomous-consumer-agents-%D8%B6%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%80-prompt-injection-%D9%88%D8%AA%D9%85%D9%86%D8%B9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%B3%D8%A9%D8%9F/ "كيف تؤمّن وكلاء المستهلك الذاتيين (Autonomous Consumer Agents) ضد هجمات الـ Prompt Injection وتمنع تسريب البطاقات والبيانات الحساسة؟")
+
+
+
+
+
+
+
+    Agdex Ai · نشر 23 سبتمبر
+
+  - ![Agdex Ai](https://academy.hsoub.com/uploads/monthly_2026_09/imported-photo-4435894.thumb.webp.378e17810f8e224c55a8672da8410220.webp)
+
+
+
+    0
+
+
+
+    [كيف تمنع تضخم استهلاك الرموز (Tokens) وفواتير API في Claude Code وCursor أثناء الجلسات الطويلة؟](https://academy.hsoub.com/questions/33323-%D9%83%D9%8A%D9%81-%D8%AA%D9%85%D9%86%D8%B9-%D8%AA%D8%B6%D8%AE%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%B1%D9%85%D9%88%D8%B2-tokens-%D9%88%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1-api-%D9%81%D9%8A-claude-code-%D9%88cursor-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D9%84%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D9%8A%D9%84%D8%A9%D8%9F/ "كيف تمنع تضخم استهلاك الرموز (Tokens) وفواتير API في Claude Code وCursor أثناء الجلسات الطويلة؟")
+
+
+
+
+
+
+
+    Agdex Ai · نشر 14 سبتمبر
+
+
+- ### تابعنا على
+
+- ### إعلانات
+
+
+
+
+
+
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2020_10/Dev-AD.png.a2599683a5ec6ae4f2041cb7e3ea419b.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=64&key=579053e059c4d1580d72f60d179822e7ba0bde57400a8de5746ef25bc9bde56f)
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2020_10/Dev-AD.png.8fa68453234e79da21cc25afeb458769.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=64&key=579053e059c4d1580d72f60d179822e7ba0bde57400a8de5746ef25bc9bde56f)
+  - [![advertisement_alt](https://academy.hsoub.com/uploads/monthly_2020_10/Dev-AD.png.859761ebddae6c4d1e7f58f655a0d491.png)](https://academy.hsoub.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=64&key=579053e059c4d1580d72f60d179822e7ba0bde57400a8de5746ef25bc9bde56f)
+
+- ### أحدث مشاريع التطوير على مستقل
+
+
+
+
+  - [بناء ماب روبلوكس كامل من الصفر](https://mostaql.com/go/1286048)
+
+    منذ 4 ساعة
+
+  - [بناء منصة عقارية ذكية متكاملة](https://mostaql.com/go/1286041)
+
+    منذ 4 ساعة
+
+  - [تطوير تطبيق قائم](https://mostaql.com/go/1286035)
+
+    منذ 5 ساعة
+
+  - [منصة تعليمية](https://mostaql.com/go/1286031)
+
+    منذ 5 ساعة
+
+  - [إنشاء متجر شوبيفاي](https://mostaql.com/go/1285959)
+
+    منذ 12 ساعة
+
+
+[×](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+- [تسجيل الدخول](https://academy.hsoub.com/login/)
+- [حساب جديد](https://accounts.hsoub.com/register?source=academy&locale=ar)
+
+- #### [الرئيسية](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+  - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+  - [الرئيسية](https://academy.hsoub.com/)
+  - #### [كيف أتعلم؟](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+    - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+    - [البرمجة](https://academy.hsoub.com/learn-programming/)
+    - [الذكاء الاصطناعي](https://academy.hsoub.com/artificial-intelligence/)
+    - [لغة بايثون](https://academy.hsoub.com/python/)
+    - [لغة PHP](https://academy.hsoub.com/php/)
+    - [لغة جافاسكربت](https://academy.hsoub.com/javascript/)
+  - #### [تابعنا](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+    - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+    - [تابعنا على تويتر](http://twitter.com/HsoubAcademy)
+    - [تابعنا على فيسبوك](http://www.facebook.com/HsoubAcademy)
+    - [تابعنا على يوتيوب](https://www.youtube.com/channel/UCJv37tcBvJlBF2MoVMRMvbQ)
+  - [موسوعة حسوب](https://wiki.hsoub.com/)
+- #### [دروس ومقالات](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+  - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+  - [دروس ومقالات](https://academy.hsoub.com/#)
+  - [البرمجة](https://academy.hsoub.com/programming/)
+  - [ريادة الأعمال](https://academy.hsoub.com/entrepreneurship/)
+  - [العمل الحر](https://academy.hsoub.com/freelance/)
+  - [التسويق والمبيعات](https://academy.hsoub.com/marketing/)
+  - [التصميم](https://academy.hsoub.com/design/)
+  - [DevOps](https://academy.hsoub.com/devops/)
+  - [البرامج والتطبيقات](https://academy.hsoub.com/apps/)
+- #### [أسئلة وأجوبة](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+  - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+  - [أسئلة وأجوبة](https://academy.hsoub.com/questions/)
+  - [البرمجة](https://academy.hsoub.com/questions/c3-programming/)
+  - [ريادة الأعمال](https://academy.hsoub.com/questions/c5-entrepreneurship/)
+  - [العمل الحر](https://academy.hsoub.com/questions/c8-freelance/)
+  - [التسويق والمبيعات](https://academy.hsoub.com/questions/c7-marketing/)
+  - [التصميم](https://academy.hsoub.com/questions/c4-design/)
+  - [DevOps](https://academy.hsoub.com/questions/c6-devops/)
+  - [البرامج والتطبيقات](https://academy.hsoub.com/questions/c9-apps/)
+- #### [كتب](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+  - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+  - [كتب](https://academy.hsoub.com/files/)
+  - [البرمجة](https://academy.hsoub.com/files/c5-programming/)
+  - [ريادة الأعمال](https://academy.hsoub.com/files/c2-entrepreneurship/)
+  - [العمل الحر](https://academy.hsoub.com/files/c3-freelance/)
+  - [التسويق والمبيعات](https://academy.hsoub.com/files/c4-marketing/)
+  - [التصميم](https://academy.hsoub.com/files/c6-design/)
+  - [DevOps](https://academy.hsoub.com/files/c7-devops/)
+- #### [دورات](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+  - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+  - [دورات](https://academy.hsoub.com/store/)
+  - [دورات تعليمية](https://academy.hsoub.com/store/c1-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9/)
+  - #### [بطاقات هدية](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/\#)
+
+    - [للخلف](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+    - [شراء بطاقة هدية](https://academy.hsoub.com/store/gift-cards/)
+    - [استخدم بطاقة هدية](https://academy.hsoub.com/store/redeem/)
+
+[×](https://academy.hsoub.com/programming/general/%D9%83%D9%8A%D9%81-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%88%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D9%84%D8%B1%D8%AD%D9%84%D8%AA%D9%83-%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-r206/#)
+
+- أضف...
+
+reCAPTCHA
+
+---
+
+## 6. 10 مصادر لتعلم البرمجة | أكاديمية كودكامب - CodeCamb Academy
+Source: https://codecamb.com/10-resources-to-learn-programming/
+
+[التجاوز إلى المحتوى](https://codecamb.com/10-resources-to-learn-programming/#main)
+
+[انضم لمجتمعنا](https://codecamb.com/%d8%aa%d8%b3%d8%ac%d9%8a%d9%84-%d8%af%d8%ae%d9%88%d9%84/)
+
+# 10 مصادر لتعلم البرمجة مع كورسات مجانية قوية
+
+تعتبر البرمجة من بين أهم وأعلى الوظائف دخلاً على مستوى العالم، وتتميز بوجود طلب مستمر على المهارات البرمجية في مختلف الصناعات.
+
+لذلك، ليس من المستغرب أن يرغب الكثيرون في احتراف البرمجة. لكن السؤال الذي يطرحه الجميع: “من أين أبدأ تعلم البرمجة؟”.
+
+**هنا، سنستعرض أقوى 10 مصادر يمكنك من خلالها البدء.**
+
+## 1\. موقع ليندا LinkedIn Learning
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20563%2077'%3E%3C/svg%3E)
+
+إذا كنت تفضل تعلم البرمجة على يد خبراء محترفين وأكاديميين، فإن [LinkedIn Learning](https://www.linkedin.com/learning/) (المعروف سابقاً باسم ليندا)
+
+يتميز الموقع بتقديم مناهج احترافية وشاملة تدرس بواسطة أفضل المعلمين حول العالم، مع اتباع أساليب تعليمية متطورة.
+
+**يوفر الموقع ثلاث طرق رئيسية للتعلم:**
+
+**– قسم المواضيع:** اختيار التصنيف الذي ترغب في تعلمه.
+
+**– قسم البرمجيات:** تقديم البرامج التي يجب تعلمها لإتقان مجالك.
+
+**– مسارات التعلم:** مسار تعليمي متكامل يتدرج من السهل إلى الصعب.
+
+إذا كنت تمتلك عضوية في إحدى المكتبات المعتمدة من الموقع، ستحصل على اشتراك مجاني في الدورات.
+
+## 2\. موقع كورسيرا [Coursera.org](https://www.coursera.org/)
+
+يعد موقع كورسيرا منصة رائعة أخرى لتعلم البرمجة عبر الإنترنت.
+
+تأسس الموقع على يد أساتذة من جامعة ستانفورد، ويقدم مجموعة واسعة من الدورات والتخصصات في مختلف المجالات الأكاديمية.
+
+الموقع مثالي لمن يبحث عن تعلم أكاديمي موثوق ومعتمد عبر الإنترنت.
+
+أبرز ميزات كورسيرا هو تقديمه لدورات من جامعات عالمية مثل ستانفورد، جامعة لندن، جامعة ميشيغان، وكولورادو، بالإضافة إلى كلية إمبريال في لندن.
+
+الموقع يوفر خيارات تعليمية مجانية ومدفوعة، ويمكنك الحصول على شهادة معتمدة عالميًا بعد إكمال الدورة، مما يزيد من فرصك المهنية.
+
+## 3\. موقع [FreeCodeCamp.org](https://www.freecodecamp.org/)
+
+يعتبر [FreeCodeCamp.org](https://www.freecodecamp.org/) من أفضل المنصات المجتمعية غير الهادفة للربح لتعلم البرمجة.
+
+يتيح لك الموقع فرصة تعلم مختلف لغات البرمجة بشكل مجاني، كما يقدم مشاريع عملية تساعدك في بناء مهاراتك.
+
+بعد إتمام خمس مشاريع بنجاح، يمكنك الحصول على شهادة معتمدة تؤهلك للعمل كمطور.
+
+يضم الموقع مجموعة واسعة من البرامج التعليمية والتدريبات التفاعلية في مجالات متعددة مثل JavaScript، وهيكلة البيانات والخوارزميات، HTML، وغيرها.
+
+بالإضافة إلى ذلك، يمتلك الموقع مجتمعًا نشطًا على فيسبوك يمكن من خلاله مشاركة تجربتك في التعلم وطرح الأسئلة، كما يضم قناة يوتيوب تحتوي على ملايين المشتركين.
+
+## 4\. موقع [CodeCamb.com](https://codecamb.com/)
+
+CodeCamb هو منصة تعليمية عبر الإنترنت تحتوي على العديد الدورات في مختلف المجالات، بما في ذلك البرمجة.
+
+يتيح لك الموقع الوصول إلى دورات تعليمية على يد محترفين من المجالات البرمجية و الأمن السبيراني ، حيث يمكنك اختيار الدورات التي تناسب مستواك واهتماماتك.
+
+يتميز **[CodeCamb](https://codecamb.com/)** بأنه يقدم دورات بأسعار معقولة، وتستطيع الاستفادة من العروض الخاصة والتخفيضات المتكررة التي يقدمها.
+
+و ايضاً يحتوي على مدونة فيها العديد من المقالات التعليمية و الاكواد الجاهزة لتعلمك
+
+## 5\. موقع [Codecademy.com](https://www.codecademy.com/)
+
+إذا كنت مبتدئًا وتبحث عن منصة تفاعلية تساعدك على تعلم البرمجة خطوة بخطوة، فإن Codecademy هو خيار ممتاز.
+
+يوفر الموقع تجربة تعليمية عملية حيث تقوم بالكتابة والتطبيق مباشرة داخل المتصفح.
+
+يقدم [Codecademy](https://www.codecademy.com/) دورات في لغات برمجة مختلفة مثل Python، JavaScript، Ruby، وغيرهم.
+
+بالإضافة إلى ذلك، يساعدك على بناء مشاريع فعلية لزيادة مهاراتك.
+
+10 مصادر لتعلم البرمجة
+
+## 6\. موقع [edX.org](https://www.edx.org/)
+
+تعتبر edX منصة تعليمية مفتوحة المصدر توفر دورات من بعض الجامعات والمؤسسات الأكاديمية الرائدة في العالم مثل Harvard وMIT.
+
+تقدم المنصة مجموعة من الدورات المتقدمة في البرمجة وعلوم الكمبيوتر التي تمنحك شهادة معتمدة عند الانتهاء.
+
+يمكن الوصول إلى الدورات بشكل مجاني، مع إمكانية الحصول على شهادة رسمية بتكلفة.
+
+## 7\. موقع [Pluralsight.com](https://www.pluralsight.com/)
+
+Pluralsight هو موقع تعليمي مخصص للمحترفين الذين يرغبون في تطوير مهاراتهم في مجالات تكنولوجيا المعلومات والبرمجة.
+
+يقدم الموقع مكتبة ضخمة من الدورات التدريبية التي تتناول أحدث التقنيات واللغات.
+
+كما يوفر تقييمات واختبارات تفاعلية لتحديد مستواك وتوجيهك إلى المسار التعليمي الأنسب لك.
+
+## 8\. موقع [Khan Academy](https://www.khanacademy.org/)
+
+Khan Academy هو موقع تعليمي غير ربحي يوفر محتوى تعليمي مجاني في مختلف المجالات، بما في ذلك البرمجة.
+
+يقدم الموقع دروسًا تفاعلية تناسب جميع المستويات، ويعد خيارًا مثاليًا للمتعلمين الذين يرغبون في بناء أساس قوي في البرمجة والرياضيات.
+
+## 9\. موقع [GitHub.com](https://github.com/)
+
+GitHub هو أكثر من مجرد مستودع شيفرة مصدرية؛ فهو مجتمع كبير للمطورين يمكن من خلاله مشاركة المشاريع البرمجية، والاستفادة من مشاريع مفتوحة المصدر، والتعلم من الكود الذي كتبه الآخرون.
+
+يعتبر GitHub مكانًا رائعًا لتعلم البرمجة من خلال الممارسة والتفاعل مع مجتمع المطورين.
+
+## 10\. موقع [W3Schools.com](https://www.w3schools.com/)
+
+W3Schools هو موقع تعليمي يركز على تعليم لغات الويب مثل HTML، CSS، JavaScript، وSQL.
+
+يتميز الموقع بأنه يقدم دروسًا بسيطة ومباشرة، مع أمثلة عملية يمكنك تجربتها على الفور. يعتبر W3Schools مكانًا ممتازًا للمبتدئين الذين يرغبون في تعلم الأساسيات بطريقة سهلة وسريعة.
+
+مع هذه المصادر العشرة القوية، يمكنك البدء في رحلتك لتعلم البرمجة واكتساب المهارات اللازمة للنجاح في هذا المجال المتنامي.
+
+نوصي بالتنوع في المصادر واختيار المسارات التعليمية التي تناسب احتياجاتك وأهدافك المهنية.</p>
+
+10 مصادر لتعلم البرمجة
+
+**و لا ننسى أكاديمية كودكامب \| codecamb Academy دائمًا هنا لدعمك في رحلتك التعليمية وتوفير النصائح والإرشادات لتصبح مبرمجًا محترفًا.**
+
+## اهم كورسات برمجية مجانية ستفيدك في مسيرتك التعليمية في البرمجة
+
+## كورس هندسة البرمجيات كامل -المقدمة – Software engineering course
+
+[للمهندس محمدنور](https://codecamb.com/profile/codecamb/?view=instructor) هذا الكورس هو المادة العلمية الأولى في كلية هندسة البرمجيات ويدرس ب 90% من الجامعات بالعالم الموضوع في هذا الكورس.
+
+هو راح نتابع مرحلة تخطيط والبناء بناء البرمجيات، أو ما يعرف بتطوير البرمجيات، هو عملية معقدة ومنظمة تتطلب تنسيقاً دقيقاً وفهماً عميقاً للمتطلبات والأهداف من النظام البرمجي.
+
+في مفهوم هندسة البرمجيات، يتم تقسيم هذه العملية إلى عدة مراحل رئيسية تضمن إنتاج برمجيات عالية الجودة وملبية لاحتياجات المستخدمين.
+
+و ماهو الـ Software Architecture و المراحل التي يمر في الــSoftware من التحليل الأولي (Preliminary Analysis).
+
+## سلسلة اساسيات مهمة لكل مبرمج – المستوى الاول
+
+للمهندس محمد ابو هدهود و يكون الاساس الاول لتعلم البرمجة و يعتبر كورس قوي و مهم كاساس.
+
+[العودة لأعلى](https://codecamb.com/10-resources-to-learn-programming/#main-container "العودة لأعلى")
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2058%2058'%3E%3C/svg%3E)
+
+محتاج مساعدة؟
+
+أكاديمية كودكامب
+
+مرحباً
+
+محتاج مساعدة؟
+
+CodeCamb
+
+---
+
+## 7. مسار أساسيات البرمجة - أكاديمية الزيرو
+Source: https://elzero.org/tracks/programming-fundamentals/
+
+# مسار أساسيات البرمجة
+
+المسار الكامل للتأسيس في تعلم البرمجة قبل إختيار المجال الوظيفي في عالم البرمجة
+
+Videos Done165
+
+Total Videos755
+
+Progress
+
+لا تحتاج لأي خبرة سابقة للدخول في هذا المسار التعليمي والمسار مجاني بالكامل
+
+![](https://elzero.org/wp-content/uploads/2023/03/cpp.png)
+
+## لغة البرمجة Programming Language
+
+الخطوة الأولى لتعلم أساسيات البرمجة هي معرفة المباديء البرمجية مثل \[ Variables, Functions, Loops \] وهكذا وحتى
+تتعلم هذه المباديء البرمجية تحتاج لتعلم لغة برمجة, وهناك الكثير من لغات البرمجة يمكنك منها التعرف على المباديء البرمجية وهنا واخترنا لك لغة
+C++ لكثير من الأسباب ستعرفها خلال مشاهدة الدورة التعليمية.
+
+
+[خطة الدراسة](https://elzero.org/study/cplusplus-study-plan/) 140 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/problems-solving.png)
+
+## حل المشكلات **المستوى الأول** Problems Solving
+
+بعد تعلم اللغة البرمجية تحتاج لتوظيف ما تعلمته نظريا في حل مشكلات وعمل تطبيقات عملية لتقوم بتطوير المنطق البرمجي وطريقة التفكير وفي هذه القائمة ستجد مجموعة من المشاكل البرمجية مستوى سهل جدا مع شرح الحلول الخاصة بها حوالي 105 مشكلة وسوف تتعلم طريقة التفكير المنطقي في حل المشاكل مع كل مشكلة تقوم بحلها وستعرف عن الفائدة من المشكلة وكل هذا حتى تقوم بربط كل شيء ببعضه.
+
+
+[صفحة المشاكل](https://elzero.org/problems-solving-level-one/) 35 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/problems-solving.png)
+
+## حل المشكلات **المستوى الثاني** Problems Solving
+
+المزيد من حل المشكلات لتطوير المنطق البرمجي وفي هذه المرة سنقوم بحل 60 مشكلة مستوى سهل
+
+[صفحة المشاكل](https://elzero.org/problems-solving-level-two/) 60 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/function-implement.png)
+
+## تنفيذ الدوال **المستوى الأول** Function Implement
+
+تنفيذ الدوال الجاهزة في اللغة “Built-In Functions” من أهم الأشياء التي ستعلمك كيف تعمل اللغة وكيف توظف ما تعلمته نظريا وكيف تربط كل شيء ببعضه وفي نفس الوقت تقوم بالتطبيق العملي وتطوير طريقة تفكيرك وتعاملك مع اللغات البرمجية وسوف نقوم في هذه القائمة بعمل 40 دالة جاهزة مستوى بسيط بطريقتنا ويمكن أن نزيد إمكانيات ال Function لمعرفة الكثير من الخبايا والأسرار ولزيادة معلوماتنا.
+
+[قسم تنفيذ الدوال](https://elzero.org/category/courses/implement-functions-with-cpp/) 40 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/04/algorithm.png)
+
+## الخوارزميات Algorithms
+
+بعد حل المشاكل والتطبيقات العملية سوف نتعلم الخوارزميات لتعرف الخطوات السليمة والمنطقية لحل المشكلات ولتنفيذ المهمات البرمجية وسوف تتعرف على أهم وأشهر الخوارزميات التي سوف تتعامل معها في حياتك العملية.
+
+تحت الإنشاءقائمة مكونة من 80 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/04/data-structure.png)
+
+## هياكل البيانات Data Structure
+
+سوف نتعلم كيفية التعامل مع البيانات وتنظيمها بشكل فعال وسنتعلم كل ما يخص تخزين البيانات وربط ذلك بكل ما تعلمناه سابقا.
+
+تحت الإنشاءقائمة مكونة من 50 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/problems-solving.png)
+
+## حل المشكلات Problems Solving
+
+المزيد من حل المشكلات لتطوير المنطقي البرمجي وفي هذه المرة سنقوم بحل 50 مشكلة مستوى متوسط
+
+تحت الإنشاءقائمة مكونة من 50 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/function-implement.png)
+
+## تنفيذ الدوال Function Implement
+
+تنفيذ الدوال الجاهزة في اللغة “Built-In Functions” من أهم الأشياء التي ستعلمك كيف تعمل اللغة وكيف توظف ما تعلمته نظريا وكيف تربط كل شيء ببعضه وفي نفس الوقت تقوم بالتطبيق العملي وتطوير طريقة تفكيرك وتعاملك مع اللغات البرمجية وسوف نقوم في هذه القائمة بعمل 30 دالة جاهزة مستوى متقدم بطريقتنا ويمكن أن نزيد إمكانيات ال Function لمعرفة الكثير من الخبايا والأسرار ولزيادة معلوماتنا.
+
+تحت الإنشاءقائمة مكونة من 30 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/cpp.png)
+
+## التعمق في اللغة Programming Language
+
+في هذه المرحلة ستكون جاهز للغوص في أعماق اللغة وسنتعمق كثيرا في اللغة لتطوير معلوماتنا وللحصول على المزيد من المميزات التي تساعدنا في تنفيذ الأفكار البرمجية وزيادة المفاهيم والعلم لفتح آفاق للتطوير.
+
+تحت الإنشاءقائمة مكونة من 60 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/problems-solving.png)
+
+## حل المشكلات Problems Solving
+
+المزيد من حل المشكلات بعد تعلم الخوارزميات والتعمق في اللغة وفي هذه المرة سنقوم بحل 40 مشكلة من المستوى فوق المتوسط
+
+تحت الإنشاءقائمة مكونة من 40 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/applications.png)
+
+## البرامجApplications
+
+في هذه المرحلة وبعد تطوير المنطق البرمجي وحل الكثير من المشاكل سنقوم بعمل 8 برامج كاملة نوظف فيهم ما تعلمناه ونربطه ببعضه لزيادة المعلومات والأفكار.
+
+تحت الإنشاءقائمة مكونة من 40 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/03/python.png)
+
+## لغات أخرى Other Languages
+
+في هذه المرحلة سنلقي الضوء على المفاهيم البرمجية في لغات برمجة أخرى مثل Python, PHP, JavaScript لنتعرف على الأشياء المتشابهة ونتناقش في كل ما يخص المفاهيم ونلقي نظرة على ما سنواجهه في سوق العمل بعد إختيار الوظيفة.
+
+تحت الإنشاءقائمة مكونة من 50 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/04/database.png)
+
+## قواعد البيانات Databases Fundamentals
+
+سنتعلم مباديء قواعد البيانات مع أنواعها وكيفية التعامل معها مع الكثير من الأمثلة من تطبيقات حقيقية وتجارب على أكثر من لغة برمجة.
+
+تحت الإنشاءقائمة مكونة من 60 فيديو
+
+![](https://elzero.org/wp-content/uploads/2023/04/programming-jobs.png)
+
+## الوظائف البرمجية Programming Careers
+
+قائمة من النقاشات والتعريف بالوظائف البرمجية وكل ما يخصها من تقنيات ومعلومات وكل ما تحتاجه للعمل في هذه الوظيفة.
+
+تحت الإنشاءقائمة مكونة من 20 فيديو
+
+[Elzero Courses](https://elzero.courses/)
+\|
+[Hostinger](https://www.hostinger.com/elzero)
+\|
+[Strapi](https://strapi.link/elzero)

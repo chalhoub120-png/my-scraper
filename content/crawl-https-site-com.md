@@ -632,45 +632,6 @@ Accept All Cookies
 ---
 
 ## 2. Login | HSTS Redirection Community
-Source: https://site.com/login?startURL=%2Fsitemap.xml
-
-![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
-
-0 Saved UsernamesEdit List
-
-SaveCancel
-
-Username
-
-![Log In with a Different Username](https://site.com/img/clear.png)
-
-Password
-
-![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
-
-Remember me
-
-[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
-
-To go to your company's login page, enter the custom domain name.
-
-Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
-
-Custom Domain
-
-https:// _domain_.my.salesforce.com
-
-BackContinue
-
-Log In with a Different Username
-
-Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
-
-Login
-
----
-
-## 3. Login | HSTS Redirection Community
 Source: https://site.com/login?startURL=%2Fsitemap_index.xml
 
 ![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
@@ -704,6 +665,45 @@ BackContinue
 Log In with a Different Username
 
 Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap_index.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
+
+Login
+
+---
+
+## 3. Login | HSTS Redirection Community
+Source: https://site.com/login?startURL=%2Fsitemap.xml
+
+![HSTS Redirection Community](https://site.com/img/logo214.svg)HSTS Redirection Community
+
+0 Saved UsernamesEdit List
+
+SaveCancel
+
+Username
+
+![Log In with a Different Username](https://site.com/img/clear.png)
+
+Password
+
+![Caps Lock is on.](https://site.com/img/icon/capslock_blue.png) Caps Lock is on.
+
+Remember me
+
+[Forgot Your Password?](https://site.com/secur/forgotpassword.jsp?locale=us&lqs=startURL%3D%252Fsitemap.xml&startURL=%2Fsitemap.xml)
+
+To go to your company's login page, enter the custom domain name.
+
+Enter a custom domain name that contains only alphanumeric characters, periods, and hyphens.
+
+Custom Domain
+
+https:// _domain_.my.salesforce.com
+
+BackContinue
+
+Log In with a Different Username
+
+Salesforce HSTS Preloading and Legacy Instance Redirections employee? [Log In](https://tls1test.my.salesforce.com/servlet/networks/session/create?url=%2Fsitemap.xml&site=0DM1J0000000EhO&refURL=http%3A%2F%2Fsite.com%2Flogin&inst=Hu)
 
 Login
 
@@ -1871,7 +1871,261 @@ Accept All Cookies
 
 ---
 
-## 8. AI Agent Builder: Agentforce | Salesforce
+## 8. Agentforce Voice: AI Voice Agents For Every Channel | Salesforce
+Source: https://www.salesforce.com/agentforce/voice/
+
+[Skip to content](https://www.salesforce.com/agentforce/voice/#main-content)
+
+![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
+
+Agentforce
+
+[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
+Agentforce](https://www.salesforce.com/agentforce/)
+
+Voice AI Agents
+
+# The voice of your enterprise, wherever your customers are.
+
+Agentforce Voice brings natural, context-aware conversations to every phone call, app, and chat window - built on the CRM data that powers your business, at a scale only Salesforce can deliver.
+
+Watch the demo [Try Agentforce Voice](https://voice.agentforce.com/)
+
+![A smiling person holds a phone mid-conversation while floating UI panels show Agentforce Voice Settings and a Voice Preview demo with an AI agent handling a customer support interaction.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/marquee_image_2x.webp?w=1024)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-teal.png)![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-electricblue.png)![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-teal.png)
+
+[![Adecco Group Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/04/Adecco_logo_320x180-V2.png)](https://www.salesforce.com/blog/adecco-agentforce/)
+
+[![Canada Goose Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/11/Canada-Goose.png?w=1024)](https://www.salesforce.com/agentforce/voice/#)
+
+[![Florida Prepaid logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/Florida-Prepaid-320x180-1.png)](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
+
+[![Engine logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/logo-wall-Engine.png)](https://www.salesforce.com/customer-stories/engine/)
+
+[![Vivint Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/Logo-320x180-Vivint.png)](https://www.salesforce.com/customer-stories/vivint)
+
+[![Sammons Financial](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/sammons-financial.png)](https://www.salesforce.com/customer-stories/sammons-financial-group)
+
+[![Adecco Group Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/04/Adecco_logo_320x180-V2.png)](https://www.salesforce.com/blog/adecco-agentforce/)
+
+[![Canada Goose Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/11/Canada-Goose.png?w=1024)](https://www.salesforce.com/agentforce/voice/#)
+
+[![Florida Prepaid logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/Florida-Prepaid-320x180-1.png)](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
+
+[![Engine logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/logo-wall-Engine.png)](https://www.salesforce.com/customer-stories/engine/)
+
+[![Vivint Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/Logo-320x180-Vivint.png)](https://www.salesforce.com/customer-stories/vivint)
+
+[![Sammons Financial](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/sammons-financial.png)](https://www.salesforce.com/customer-stories/sammons-financial-group)
+
+## Voice on every channel
+
+Deliver fast, natural voice experiences across phone, web, mobile, messaging, and employee apps.
+
+Consumer mobile appsWeb chatWhatsApp
+
+‹Consumer mobile apps›
+
+![A person holds a smartphone showing a retail app with the headline "Adventure Awaits" and shop buttons, demonstrating Agentforce powering a personalized mobile shopping experience.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/carousel_image_1_2x.webp?w=1024)
+
+### Get things done hands-free
+
+Give customers a hands-free to ask questions, complete tasks, and get personalized help without interrupting what they're doing in your app.
+
+[Try Agentforce Voice](https://voice.agentforce.com/)
+
+![A smiling person wearing a headset works at a laptop, surrounded by 3D icons representing a microphone and code, illustrating Agentforce voice AI in action.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/voice_guide_hero_image_2x.webp?w=1024)
+
+Guide
+
+### Everything you ever wanted to know about Agentforce Voice (but were afraid to ask)
+
+Everything about Agentforce Voice in one place: how the pipeline works, what deployment actually takes, and where it's already driving results.
+
+[Read the guide](https://www.salesforce.com/agentforce/resources/agentforce-voice-guide/)
+
+![A hand holds a smartphone showing an incoming call from "AI Agent," with accept and decline buttons.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_1563709973.webp)
+
+Blog
+
+### 3 reasons why AI voice agents are harder than they seem
+
+Two Agentforce engineers get honest about what makes voice AI hard to build right, and what separates the implementations that stick from the ones that don't.
+
+[Learn More](https://www.salesforce.com/blog/ai-voice-agent/)
+
+![A glowing wireframe headset rendered as a connected network of blue dots and lines against a dark blue background.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_214463840.webp)
+
+Customer Story
+
+### How Florida Prepaid went from 10% to 75% call deflection with Agentforce Voice
+
+Florida Prepaid turned an overwhelmed contact center into a self-service engine, going from 10% to 75% call deflection. Here's exactly how they did it.
+
+[Read the story](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
+
+![A 3D network of connected nodes with person icons in gold, teal, and gray, representing interconnected people or agents against a teal gradient background.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_1220996054.webp)
+
+Customer Story
+
+### Adecco: interviewed 100K+ job seekers with Agentforce, now they're teaching it to speak
+
+Adecco needed to reach every candidate faster without losing the human touch. Agentforce Voice made both possible at scale.
+
+[Read the story](https://www.salesforce.com/blog/adecco-agentforce/)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
+
+### Build agents fast.
+
+Take a closer look at how agent building works in our library.
+
+[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
+
+### Get expert guidance.
+
+Launch Agentforce with speed, confidence, and ROI you can measure.
+
+[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
+
+### Talk to a rep.
+
+Tell us about your business needs, and we’ll help you find answers.
+
+[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
+
+![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
+
+### What is Agentforce Voice?
+
+Agentforce Voice is an [AI-powered voice agent](https://www.salesforce.com/agentforce/voice/ai-voice-agents/) that automates customer service interactions. It handles routine calls and provides instant, conversational responses, freeing up human agents to focus on more complex issues.
+
+### How does Agentforce Voice differ from traditional IVR systems?
+
+Unlike traditional Interactive Voice Response (IVR) systems, Agentforce Voice uses [natural language processing (NLP)](https://www.salesforce.com/artificial-intelligence/nlp/) to understand context, intent, and sentiment. This allows it to engage in fluid, human-like conversations rather than relying on rigid, pre-defined menus.
+
+### Can Agentforce Voice be integrated with my existing CRM and business tools?
+
+Yes, Agentforce Voice integrates seamlessly with your existing [CRM](https://www.salesforce.com/crm/what-is-crm/) and other back-end systems. This allows it to access real-time customer data, update records, and trigger automated workflows to provide personalized and efficient service.
+
+### How does Agentforce Voice handle complex customer issues?
+
+Agentforce Voice is designed to identify complex or emotionally charged situations. When a query is beyond its scope, it seamlessly transfers the call to a live human agent with the full conversation history and relevant customer context, ensuring a smooth and informed hand-off.
+
+### What are common use cases of Agentforce Voice?
+
+Agentforce Voice is primarily used for customer service to handle inquiries and technical support. However, its capabilities extend to sales, with uses like [lead qualification](https://www.salesforce.com/blog/lead-qualification/) and appointment scheduling. It also improves internal operations by assisting with tasks like real-time sales coaching and knowledge retrieval for employees.
+
+### What are the key benefits of using AI voice agents for business?
+
+AI voice agents offer 24/7 availability, consistent service quality, and increased scalability to handle high call volumes. They can significantly reduce operational costs and improve customer satisfaction by providing faster response and resolution times.
+
+### How can AI voice agents enhance a human customer service team?
+
+Voice AI agents act as a force multiplier in your [agentic enterprise](https://www.salesforce.com/agentforce/agentic-enterprise/), handling routine and repetitive inquiries. These [AI agents](https://www.salesforce.com/agentforce/ai-agents/) free employees from mundane tasks, allowing them to dedicate their time and expertise to solving intricate problems, providing empathetic support, and building stronger customer relationships.
+
+### What regions is Agentforce Voice supported in?
+
+Agentforce Voice is GA in all regions and available in English, French, Spanish, Italian, German, Portuguese, Japanese, and [many others](https://help.salesforce.com/s/articleView?id=ai.agentforce_voice_considerations.htm&type=5).
+
+[Call Us](tel:18006649073)
+
+a10681260716.cdn.optimizely.com
+
+# a10681260716.cdn.optimizely.com is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+
+This page has been blocked by an extension
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
+
+## Cookie Consent Manager
+
+## Cookie Consent Manager
+
+- ### General Information
+
+- ### Required Cookies
+
+- ### Functional Cookies
+
+- ### Advertising Cookies
+
+
+#### General Information
+
+We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
+
+
+[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
+
+#### Required Cookies
+
+Always Active
+
+Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
+
+Cookies Details
+
+#### Functional Cookies
+
+Functional Cookies
+
+Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
+
+Cookies Details
+
+#### Advertising Cookies
+
+Advertising Cookies
+
+Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
+
+Cookies Details
+
+Back Button
+
+### Cookie List
+
+Filter Button
+
+ConsentLeg.Interest
+
+checkbox labellabel
+
+checkbox labellabel
+
+checkbox labellabel
+
+Clear
+
+- checkbox labellabel
+
+
+ApplyCancel
+
+Save Settings
+
+Accept All Cookies
+
+---
+
+## 9. AI Agent Builder: Agentforce | Salesforce
 Source: https://www.salesforce.com/agentforce/agent-builder/
 
 [Skip to content](https://www.salesforce.com/agentforce/agent-builder/#main-content)
@@ -2139,7 +2393,7 @@ Accept All Cookies
 
 ---
 
-## 9. Agentforce Development Experience | Salesforce
+## 10. Agentforce Development Experience | Salesforce
 Source: https://www.salesforce.com/agentforce/dev-tools/
 
 [Skip to content](https://www.salesforce.com/agentforce/dev-tools/#main-content)
@@ -2237,260 +2491,6 @@ Agentforce is suitable for businesses of any size. Salesforce customers can now 
 Foundations helps businesses get ready for AI by extending their CRM with additional key features from Agentforce, Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, and Data 360. Foundations now includes credits to power the first 1,000 conversations with Agentforce for Service, allowing your company to try its capabilities before buying.
 
 ![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/03/FAQ-background.webp?w=1024)
-
-[Call Us](tel:18006649073)
-
-a10681260716.cdn.optimizely.com
-
-# a10681260716.cdn.optimizely.com is blocked
-
-This page has been blocked by an extension
-
-- Try disabling your extensions.
-
-ERR\_BLOCKED\_BY\_CLIENT
-
-Reload
-
-
-This page has been blocked by an extension
-
-![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
-
-![Salesforce](https://c.salesforce.com/digital/one-trust/core/stable/consent/8e783e8c-0ad0-475d-8fca-4a03afa0a02a/019e3ba8-766d-7090-bf0d-c2f7beefa22d/logos/ddb906c9-f57b-40fc-85a1-c8bcbc371b0d/6a33a761-886e-4860-8e17-abc0832f7a62/corporate_logo_big.png)
-
-## Cookie Consent Manager
-
-## Cookie Consent Manager
-
-- ### General Information
-
-- ### Required Cookies
-
-- ### Functional Cookies
-
-- ### Advertising Cookies
-
-
-#### General Information
-
-We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
-
-
-[Privacy Statement](https://www.salesforce.com/company/privacy/full_privacy/)
-
-#### Required Cookies
-
-Always Active
-
-Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.
-
-Cookies Details
-
-#### Functional Cookies
-
-Functional Cookies
-
-Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.
-
-Cookies Details
-
-#### Advertising Cookies
-
-Advertising Cookies
-
-Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.
-
-Cookies Details
-
-Back Button
-
-### Cookie List
-
-Filter Button
-
-ConsentLeg.Interest
-
-checkbox labellabel
-
-checkbox labellabel
-
-checkbox labellabel
-
-Clear
-
-- checkbox labellabel
-
-
-ApplyCancel
-
-Save Settings
-
-Accept All Cookies
-
----
-
-## 10. Agentforce Voice: AI Voice Agents For Every Channel | Salesforce
-Source: https://www.salesforce.com/agentforce/voice/
-
-[Skip to content](https://www.salesforce.com/agentforce/voice/#main-content)
-
-![Home](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)
-
-Agentforce
-
-[![](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-no-type-logo.svg)\\
-Agentforce](https://www.salesforce.com/agentforce/)
-
-Voice AI Agents
-
-# The voice of your enterprise, wherever your customers are.
-
-Agentforce Voice brings natural, context-aware conversations to every phone call, app, and chat window - built on the CRM data that powers your business, at a scale only Salesforce can deliver.
-
-Watch the demo [Try Agentforce Voice](https://voice.agentforce.com/)
-
-![A smiling person holds a phone mid-conversation while floating UI panels show Agentforce Voice Settings and a Voice Preview demo with an AI agent handling a customer support interaction.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/marquee_image_2x.webp?w=1024)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-teal.png)![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-electricblue.png)![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/05/spark-straight-teal.png)
-
-[![Adecco Group Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/04/Adecco_logo_320x180-V2.png)](https://www.salesforce.com/blog/adecco-agentforce/)
-
-[![Canada Goose Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/11/Canada-Goose.png?w=1024)](https://www.salesforce.com/agentforce/voice/#)
-
-[![Florida Prepaid logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/Florida-Prepaid-320x180-1.png)](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
-
-[![Engine logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/logo-wall-Engine.png)](https://www.salesforce.com/customer-stories/engine/)
-
-[![Vivint Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/Logo-320x180-Vivint.png)](https://www.salesforce.com/customer-stories/vivint)
-
-[![Sammons Financial](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/sammons-financial.png)](https://www.salesforce.com/customer-stories/sammons-financial-group)
-
-[![Adecco Group Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/04/Adecco_logo_320x180-V2.png)](https://www.salesforce.com/blog/adecco-agentforce/)
-
-[![Canada Goose Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/11/Canada-Goose.png?w=1024)](https://www.salesforce.com/agentforce/voice/#)
-
-[![Florida Prepaid logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/Florida-Prepaid-320x180-1.png)](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
-
-[![Engine logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/logo-wall-Engine.png)](https://www.salesforce.com/customer-stories/engine/)
-
-[![Vivint Logo](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/05/Logo-320x180-Vivint.png)](https://www.salesforce.com/customer-stories/vivint)
-
-[![Sammons Financial](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/03/sammons-financial.png)](https://www.salesforce.com/customer-stories/sammons-financial-group)
-
-## Voice on every channel
-
-Deliver fast, natural voice experiences across phone, web, mobile, messaging, and employee apps.
-
-Consumer mobile appsWeb chatWhatsApp
-
-‹Consumer mobile apps›
-
-![A person holds a smartphone showing a retail app with the headline "Adventure Awaits" and shop buttons, demonstrating Agentforce powering a personalized mobile shopping experience.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/carousel_image_1_2x.webp?w=1024)
-
-### Get things done hands-free
-
-Give customers a hands-free to ask questions, complete tasks, and get personalized help without interrupting what they're doing in your app.
-
-[Try Agentforce Voice](https://voice.agentforce.com/)
-
-![A smiling person wearing a headset works at a laptop, surrounded by 3D icons representing a microphone and code, illustrating Agentforce voice AI in action.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/06/voice_guide_hero_image_2x.webp?w=1024)
-
-Guide
-
-### Everything you ever wanted to know about Agentforce Voice (but were afraid to ask)
-
-Everything about Agentforce Voice in one place: how the pipeline works, what deployment actually takes, and where it's already driving results.
-
-[Read the guide](https://www.salesforce.com/agentforce/resources/agentforce-voice-guide/)
-
-![A hand holds a smartphone showing an incoming call from "AI Agent," with accept and decline buttons.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_1563709973.webp)
-
-Blog
-
-### 3 reasons why AI voice agents are harder than they seem
-
-Two Agentforce engineers get honest about what makes voice AI hard to build right, and what separates the implementations that stick from the ones that don't.
-
-[Learn More](https://www.salesforce.com/blog/ai-voice-agent/)
-
-![A glowing wireframe headset rendered as a connected network of blue dots and lines against a dark blue background.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_214463840.webp)
-
-Customer Story
-
-### How Florida Prepaid went from 10% to 75% call deflection with Agentforce Voice
-
-Florida Prepaid turned an overwhelmed contact center into a self-service engine, going from 10% to 75% call deflection. Here's exactly how they did it.
-
-[Read the story](https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/)
-
-![A 3D network of connected nodes with person icons in gold, teal, and gray, representing interconnected people or agents against a teal gradient background.](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/07/AdobeStock_1220996054.webp)
-
-Customer Story
-
-### Adecco: interviewed 100K+ job seekers with Agentforce, now they're teaching it to speak
-
-Adecco needed to reach every candidate faster without losing the human touch. Agentforce Voice made both possible at scale.
-
-[Read the story](https://www.salesforce.com/blog/adecco-agentforce/)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/play.svg)
-
-### Build agents fast.
-
-Take a closer look at how agent building works in our library.
-
-[Watch demos](https://www.salesforce.com/agentforce/demos/overview/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/groups.svg)
-
-### Get expert guidance.
-
-Launch Agentforce with speed, confidence, and ROI you can measure.
-
-[See how](https://www.salesforce.com/en-us/wp-content/uploads/sites/4/documents/datasheets/agentforce-phase-0-datasheet.pdf)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/08/call.svg)
-
-### Talk to a rep.
-
-Tell us about your business needs, and we’ll help you find answers.
-
-[Contact us](https://www.salesforce.com/agentforce/contact/contact-us/?d=pb)
-
-![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2026/08/Background-Area-1.png?w=1024)
-
-### What is Agentforce Voice?
-
-Agentforce Voice is an [AI-powered voice agent](https://www.salesforce.com/agentforce/voice/ai-voice-agents/) that automates customer service interactions. It handles routine calls and provides instant, conversational responses, freeing up human agents to focus on more complex issues.
-
-### How does Agentforce Voice differ from traditional IVR systems?
-
-Unlike traditional Interactive Voice Response (IVR) systems, Agentforce Voice uses [natural language processing (NLP)](https://www.salesforce.com/artificial-intelligence/nlp/) to understand context, intent, and sentiment. This allows it to engage in fluid, human-like conversations rather than relying on rigid, pre-defined menus.
-
-### Can Agentforce Voice be integrated with my existing CRM and business tools?
-
-Yes, Agentforce Voice integrates seamlessly with your existing [CRM](https://www.salesforce.com/crm/what-is-crm/) and other back-end systems. This allows it to access real-time customer data, update records, and trigger automated workflows to provide personalized and efficient service.
-
-### How does Agentforce Voice handle complex customer issues?
-
-Agentforce Voice is designed to identify complex or emotionally charged situations. When a query is beyond its scope, it seamlessly transfers the call to a live human agent with the full conversation history and relevant customer context, ensuring a smooth and informed hand-off.
-
-### What are common use cases of Agentforce Voice?
-
-Agentforce Voice is primarily used for customer service to handle inquiries and technical support. However, its capabilities extend to sales, with uses like [lead qualification](https://www.salesforce.com/blog/lead-qualification/) and appointment scheduling. It also improves internal operations by assisting with tasks like real-time sales coaching and knowledge retrieval for employees.
-
-### What are the key benefits of using AI voice agents for business?
-
-AI voice agents offer 24/7 availability, consistent service quality, and increased scalability to handle high call volumes. They can significantly reduce operational costs and improve customer satisfaction by providing faster response and resolution times.
-
-### How can AI voice agents enhance a human customer service team?
-
-Voice AI agents act as a force multiplier in your [agentic enterprise](https://www.salesforce.com/agentforce/agentic-enterprise/), handling routine and repetitive inquiries. These [AI agents](https://www.salesforce.com/agentforce/ai-agents/) free employees from mundane tasks, allowing them to dedicate their time and expertise to solving intricate problems, providing empathetic support, and building stronger customer relationships.
-
-### What regions is Agentforce Voice supported in?
-
-Agentforce Voice is GA in all regions and available in English, French, Spanish, Italian, German, Portuguese, Japanese, and [many others](https://help.salesforce.com/s/articleView?id=ai.agentforce_voice_considerations.htm&type=5).
 
 [Call Us](tel:18006649073)
 

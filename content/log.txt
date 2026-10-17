@@ -1,14 +1,14 @@
 Working on: https://example.com
 OK saved: https-example-com
 Working on: search: أفضل طرق تعلم البرمجة
-OK saved: search-page
+OK saved: search-q-ad1e2e6c
 Working on: crawl: https://example.com
-Crawl started: 01a147d0-d3a7-7231-80a0-b41ab2bfbe51
+Crawl started: 01a147de-83ba-7438-bfd4-27a4d78c0f4c
 OK saved: crawl-https-example-com
 Working on: https://site.com
 OK saved: https-site-com
 Working on: search: كلمات البحث
-OK saved: search-page
+OK saved: search-q-4b39cc41
 Working on: crawl: https://site.com
-Crawl started: 01a147d1-1c9b-712c-a754-69d310d74c07
+Crawl started: 01a147de-c50e-71a1-a22f-99777afe32a3
 OK saved: crawl-https-site-com
