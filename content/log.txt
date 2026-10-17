@@ -3,4 +3,5 @@ OK saved: https-example-com
 Working on: search: أفضل طرق تعلم البرمجة
 OK saved: search-page
 Working on: crawl: https://example.com
-ERROR 400: {"success":false,"code":"BAD_REQUEST","error":"Bad Request","details":[{"code":"invalid_format","format":"url","path":["url"],"message":"Invalid URL"},{"code":"custom","path":["url"],"message":"Invalid URL"}]}
+Crawl started: 01a147c8-7530-73eb-aba7-4ef34d1ed21f
+OK saved: crawl-https-example-com

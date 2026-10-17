@@ -1,339 +1,513 @@
 ## 1. كيف تتعلم البرمجة للمبتدئين ببساطة - YouTube
 Source: https://www.youtube.com/watch?v=KGjFu_2OLhk
 
-![Thumbnail (1920x1080)](https://i.ytimg.com/vi/KGjFu_2OLhk/maxresdefault.jpg)
-# [كيف تتعلم البرمجة للمبتدئين ببساطة](https://www.youtube.com/watch?v=KGjFu_2OLhk)
+Error 401 (Bad Request)!!1
 
-**Visibility**: Public
-**Uploaded by**: [Professor X البروفيسور](https://www.youtube.com/@popprofx)
-**Uploaded at**: 2023-10-01
-**Published at**: 
-**Length**: 19:18
-**Views**: 175278
-**Likes**: 8954
-**Category**: People & Blogs
+**401.** That’s an error.
 
-## Description
+The server cannot process the request because it is malformed. It should not be retried. That’s all we know.
 
-```
-#البروفيسور_اكس #البرمجة #programming 
+Back
+
+
+[![](https://www.youtube.com/watch?v=KGjFu_2OLhk)](https://www.youtube.com/ "YouTube Home")
+
+Skip navigation
+
+Search
+
+
+Search with your voice
+
+[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DKGjFu_2OLhk&hl=en&ec=65620)
+
+كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Tap to unmute
+
+2x
+
+## كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Professor X البروفيسور 175,278 views 3y ago
+
+Copy link
+
+Info
+
+Shopping
+
+![](https://i.ytimg.com/an/QzsxeC1MpDAKkM3rt1BZ1A/featured_channel.jpg?v=6649b8fa)
+
+If playback doesn't begin shortly, try restarting your device.
+
+•
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+سنين كتير بنسمع عن البرمجة. وقدايه هي ضرورية ولا غنى عنها. فهل
+
+Up next
+
+Live
+
+Upcoming
+
+CancelPlay Now
+
+[Professor X البروفيسور](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A)
+
+Subscribe
+
+Subscribed
+
+Collaboration: ✅ profxcollab@gmail.com
+
+أهلاً بك يا صديقي البروف في رحلة مختلفة.. هنا مش مجرد قناة تقنية أو سياسية، هنا بنحكي "القصة الكاملة" اللي وراء الأحداث.
+
+في قناتي، بفكك لك أعقد المفاهيم في التكنولوجيا، الاقتصاد، الجيوسياسة، والهندسة، وبحولها لقصص سينمائية ممتعة تفهمها وتستمتع بيها. من أسرار صناعة أشباه الموصلات وحروب الـ AI، لكواليس الصراعات بين القوى العظمى، وحتى الأمن السيبراني اللي بيمس حياتك اليومية.
+
+أنا مش بقدم لك محاضرة مملة، أنا باخدك في رحلة بتبدأ بسؤال، وبتمر بمنعطفات غير متوقعة، وبتنتهي بإجابة دقيقة مبنية على مصادر علمية وتقارير موثوقة، بعيداً عن أي هبد أو خرافات.
+
+لو بتدور على محتوى يحترم عقلك، يجاوب على فضولك، ويخليك تشوف العالم بنظرة أعمق.. يبقى أنت في المكان الصح
+
+[الناس دي مجنونة! \- البروفيسور\\
+\\
+36:40](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+Hide
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+[Next (SHIFT+n)](https://www.youtube.com/watch?v=FMSOoWQR92I)
+
+0:00 / 19:17
+
+Live
+
+•Watch full video
+
+•
+
+•
+
+[3:27:40\\
+كورس لغة جافا من الصفر \| Java Courseاتعلم ببساطة529K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FwxbTGxTcVI) [21:09\\
+شرح كل مكونات اللابتوب وازاي تختار افضل لابتوبProfessor X البروفيسور360K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=Eonle3coX4I) [9:15\\
+How to Learn Any New Skill and Become a ProIfada bdarija \| إفادة بالدارجة179 • 1d agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=JJT3NKqRHy0) [3:41:09\\
+تعلم بايثون من الصفر للمبتدئين بالدارجة المغربية \| كورس البرمجة كامل 2026 \| أكاديمية الخبرةLkhibra Academy225K • 8mo agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=nDsr8xnJilY) [2:12:34\\
+كورس مقدمة عن أساسيات البرمجة للمبتدئين \|\| محو الأمية البرمجيةغريب الشيخ \|\| Ghareeb Elshaikh1.1M • 4y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=06h470AiBZ4) [8:37\\
+البرمجة من الصفر الدرس 1️⃣ من كورس اساسيات البرمجة : يعني إيه برمجة CodeWay\_كود واي37K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=vPvqySL1Y0s) [15:15\\
+دليلك لشراء لابتوب للبرمجة \- مع توصيات البرمجة للمبتدئينProfessor X البروفيسور129K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=ZT8DR9g9BmY) [36:53\\
+أخطر طائرة سرية للغاية \- البروفيسورProfessor X البروفيسور471K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=Gfjrxwi4Vp0) [36:48\\
+ازاى من شوية رمل نصنع معالج؟ \- البروفيسورProfessor X البروفيسور250K • 1y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=SwDIU70exnA) [37:07\\
+دليل تعلم البرمجة بالطريقة الصحيحة: خمس خطوات لتعلم البرمجة بالطريقة الصحيحه ستغير مجرى حياتكProgramming Advices1.9M • 7y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=LfkBOKwsTc0) [4:22\\
+What is programming and how to learn to code?OctuCode3.8M • 3y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=9ndH9Qo05F4) [9:06\\
+Programming languages and the difference between them: Learn programming for beginners 2OctuCode2M • 3y agoLivePlaylist ()Mix (50+)](https://www.youtube.com/watch?v=FMSOoWQR92I)
+
+# كيف تتعلم البرمجة للمبتدئين ببساطة
+
+[![Professor X البروفيسور](https://yt3.ggpht.com/DFaqqqpQ-2ka22cFA3rolhUeB28TJWIAkJUZVlcq0YQhS3q2GtFtl4chaL5g2y9Rp7CxLPeR4ko=s48-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@popprofx)
+
+[Professor X البروفيسور](https://www.youtube.com/@popprofx)
+
+
+Professor X البروفيسور
+
+
+229K subscribers
+
+Join
+
+Subscribe
+
+Subscribed
+
+8.9K
+
+Share
+
+Download
+
+Download
+
+Save
+
+175K views3y ago [#programming](https://www.youtube.com/hashtag/programming) [#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3) [#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+
+175,278 views • Oct 1, 2023 • #programming #البروفيسور\_اكس #البرمجة
+
+[#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3)[#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)[#programming](https://www.youtube.com/hashtag/programming)
+
+-الحقيقة الكاملة وراء تعلم البرمجة…more
+
+more
+
+Follow along using the transcript.
+
+Show transcript
+
+[Videos](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/videos)[About](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/about)[Facebook](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljR2hWdVNzTHQ0SjZiLXJJMElHaWpfcHxBSTVJdTVzcjY1X0s2Y1dxcVpfdnZFSjhTd3hEYmx4OHltQTAtTjFEeWdRVjVib3R0Q3FDaEVlRE9DRTF0OElZY2MyZlRMY1MtNUVOS1F1Q0VMb1JMV2p5RF85VmJXVmlpMUlu&q=https%3A%2F%2Fwww.facebook.com%2FPopProfX)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljSEtmUXNaNXZndGZkdFc4OHhUWThfbnxBSTVJdTV2LVZxV1EzNTRtbTVVY0Rpd3R5Yy1FNUNzRy1PX3hENUtoTG5MT2ZzNkltYkhha0drMGsxZnR4cC1RLU5kbHdVSjFUcUlGd3pUVWJkSkhxdHZPWjFtUWR6Z2IwbGZz&q=https%3A%2F%2Fwww.instagram.com%2FPopprofx%2F)[TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljRUZoN3Z1aHV2eGQ5TnQ5SDVxQTB2TnxBSTVJdTVzOHdYdjdBX1ZZRDNyTlRJeFpoa0tzNWstdXJ2S2tVbkdKd3NIUTQ5VHBEOUVzUXZ6U0JtM1gxc2tRVGF5VkgzZjZiMGxzVkNxV2ZsLTVXWXhNbmJMQkRWdHBwZTdf&q=https%3A%2F%2Fwww.tiktok.com%2F%40popprofx)
+
+[24:55\\
+\\
+24:55](https://www.youtube.com/watch?v=N7dmz435FxM)[بخطوات بسيطة كيف تغير حياتك بالكامل\\
+\\
+by Professor X البروفيسور](https://www.youtube.com/watch?v=N7dmz435FxM)
+
+## Video details
+
+Date
+
+Oct 1, 2023
+
+Views
+
+175,278
+
+Likes
+
+8,954
+
+Show less
+
+[#programming](https://www.youtube.com/hashtag/programming) [#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3) [#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)
+
+# كيف تتعلم البرمجة للمبتدئين ببساطة
+
+175,278 views175K views
+
+Oct 1, 2023
+
+8.9K
+
+Share
+
+Download
+
+Download
+
+Save
+
+## كيف تتعلم البرمجة للمبتدئين ببساطة
+
+Professor X البروفيسور
+
+
+Professor X البروفيسور
+
+
+8.9KLikes
+
+175KViews
+
+2023Oct 1
+
+[#البروفيسور\_اكس](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D9%8A%D8%B3%D9%88%D8%B1_%D8%A7%D9%83%D8%B3)[#البرمجة](https://www.youtube.com/hashtag/%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)[#programming](https://www.youtube.com/hashtag/programming)
 
 -الحقيقة الكاملة وراء تعلم البرمجة
-- مفهوم البرمجة ببساطة 
+
+- مفهوم البرمجة ببساطة
+
 - البرمجة للمبتدئين واشهر لغات البرمجة
+
 - مجالات البرمجة المطلوبة لسوق العمل
+
 - كيف تحترف البرمجة وتصبح مبرمج ناجح
+
 - استكشف المسار التعليمي لأى لغة برمجة
+
 - كيف يؤثر الذكاء الاصطناعى على المبرمجين
 
 
-المصادر التعليمية المذكورة فى الفيديو : 
-قناة البشمهندس اسامة ( El Zero Web School ) : 
-HTML 5 : https://youtu.be/6gjg5n9kyBU
-CSS 3 : https://youtu.be/X1ulCwyhCVM
-JavaScript : https://youtu.be/GM6dQBmc-Xg
-Python : http://y2u.be/mvZHDpCHphk
-jQuery : https://youtu.be/66QpkBLJ4_k
+المصادر التعليمية المذكورة فى الفيديو :
+قناة البشمهندس اسامة ( El Zero Web School ) :
+HTML 5 : [• \[ Html5 In Arabic \] #01 - Introduction](https://www.youtube.com/watch?v=6gjg5n9kyBU)
+CSS 3 : [• Learn CSS In Arabic 2021 - #01 - Introduct...](https://www.youtube.com/watch?v=X1ulCwyhCVM)
+JavaScript : [• Learn JavaScript In Arabic 2021 - #001 - I...](https://www.youtube.com/watch?v=GM6dQBmc-Xg)
+Python : [http://y2u.be/mvZHDpCHphk](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXlPVlFEOFdsU19HMnl6OVRwbS1yc3xBSTVJdTVzN0xVQjJrVFF5SDdmd2tQcXRJX0x5VGQxR2lLbjE1T29FVEZwQXFCV0pQRUZ4d2F5ZnEybVVDS2hYSDF4NGYxNEljVlFIUlJhNnF2Y0pGTksxT0VaYjg5UEZWTmZ6&q=http%3A%2F%2Fy2u.be%2FmvZHDpCHphk&v=KGjFu_2OLhk)
+jQuery : [• Arabic jQuery Practical Course #001 - Cour...](https://www.youtube.com/watch?v=66QpkBLJ4_k)
 
-مواقع مكتوبة : 
-- لغة عربية : 
-موقع ادراك : https://www.edraak.org
-موقع هرمش : https://harmash.com
+مواقع مكتوبة :
 
-- لغة انجليزية : 
-FreeCodeCamp : https://freecodecamp.org
-W3Schools : https://www.w3schools.com/
+- لغة عربية :
 
-موقع تحديد المسار التعليمي للبرمجة : 
-https://roadmap.sh/
 
-قنوات يوتيوب : 
-تعلم الـ Frontend فى فيديو واحد : https://youtu.be/zJSY8tbf_ys
-تعلم الـ Backend فى فيديو واحد : https://youtu.be/jBzwzrDvZ18
+موقع ادراك : [https://www.edraak.org](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSEozNnpCTmpTaTZNeFdNWm1FM2lMQXxBSTVJdTV1aGF6QzJzOWJZc2VpdXlMTm9sQ0VmbHBOYUhTWDZNdHpVcG5uWDhidUV1VnQxdzZvcG50dHNNb2JSVk5kTGlRb1FqZTcxWXZtUXl2aXRwS2lRUTNWUS1tYlBERUhX&q=https%3A%2F%2Fwww.edraak.org%2F&v=KGjFu_2OLhk)
+موقع هرمش : [https://harmash.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR19JaWJzSWpSb2ZVc1hXN1kzUHMtSnxBSTVJdTVzRGRObTJpSDMxaFFyU0wyb2kxQ1NsNWRpNFVvLWYycEZtT2d1dVlQZ0FTOEpQeWZoWDNZc2FBeld3WW5VNWVuc2VxTkFXRUZ5cTAtRGFsbm1jbHdacnJvUzBhVUV3&q=https%3A%2F%2Fharmash.com%2F&v=KGjFu_2OLhk)
 
-تعلم الـ Node JS باللغة العربية : https://youtu.be/Bw9N_1Wx6s4
-تعلم الـ Django Python باللغة العربية : https://youtu.be/UPFKAG9rYOE
+- لغة انجليزية :
 
-مصادر اضافية : 
-تعلم اساسيات البرمجة فى ساعة : https://youtu.be/XhQsG1YRvOg
- المفاهيم البرمجية فى ساعتين : https://youtu.be/06h470AiBZ4
 
-تواصل معنا وتابعنا على : 
-Facebook page: https://www.facebook.com/MrProfX
-Telegram Ch. : https://t.me/popprofx4admin
-Instagram: https://www.instagram.com/popprofx/
-Collaboration-Only E-Mail: profxcollab@gmail.com
-```
+FreeCodeCamp : [https://freecodecamp.org](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnltM1VyMXdnRHlSdUd1ODNpWWFGMHxBSTVJdTV2LXIzUWhRYU5qaHpZSDhLVUxrNmVwTGJrMTVocUdiNkN5dHhCR0FralZfd00wSWRQN1FhdGgzcm05LWNtMFRJME9Ya3NXTElabUJZUVFCRjJtUjhrQXp1Ni1OeW5Y&q=https%3A%2F%2Ffreecodecamp.org%2F&v=KGjFu_2OLhk)
+W3Schools : [https://www.w3schools.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljR05jNDl0ZU8yOTdsVEFrdEJkb25sdXxBSTVJdTVzNFM0TF9CSTlZVnZxODdfTXFtdnhGamdrRUxHSXhFWTVmazJHTTZIdG5FSTBFTDJWMzlYODZBU052MVNMZ181a0hNVm9CVDZ0U2hJQWx4bjl5eWQ1ZXpXd0hsUmlQ&q=https%3A%2F%2Fwww.w3schools.com%2F&v=KGjFu_2OLhk)
 
-## Transcript
+موقع تحديد المسار التعليمي للبرمجة :
+[https://roadmap.sh/](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRUt3dXd6T1p6MEJOUkZZaGMyLVo3bnxBSTVJdTV2TjBOc1Awb1l5WVg3ckVHRndRdU5IbTR2OThBTW9TWjA2NWYzS21oRTBFSTVGMUJNb3V6d1VRX004b0VmYkItUDI1M3pWLWZNV3F1b0Z3R1RQOS1mYWw5R25wcWs2&q=https%3A%2F%2Froadmap.sh%2F&v=KGjFu_2OLhk)
 
-البرمجة او علشان تنفز مشاريع هيخليك تنسى نفسك وانت قاعد. وده
-الاسئلة اللي بتدور في بالك حوالين البرمجة. ولو عندك اي
-والرياضة باستمرار. لان الجلوس قدام بالساعات علشان تتعلم
-كتير منك في انك توصل للي انت عايزه منه بشكل دقيق. فالبرمجة
-فوتوشوب. عارفين الكلام ده كويس. فالموضوع مش جديد ولا حاجة.
-بقى غير مقتصر عليه. وحط في بالك انه خمسين في المية من اللي
-ومعلومات ما بيعرفوش للاسف انهم يكتبوا برنامج من الاخر. فالشغل
-وهو ده المطلوب. لانه في ناس كتير من خريجي هندسة وحاسبات
-على شخص متمكن او محترف في المجال وانه اختبار القبول بنجاح
-برمجة. لكن معزم الشركات يا صديقي بدأت تتجه الى المهارة
-مانوجر فهو اكواد جاهزة لعمل غرض ما جوة السيرفر. بدون ما تبرمجها
-تتعلم نزرا لسهولتها في التعلم مع المبتدئين. يبقى لو انت مبتدأ
-من الاول بنفسه. وبتحملها جاهزة من الانترنت وتضيفها للكود
-ولازم يتعلم التعامل والبرمجة مع وكذلك مع الباك اند. وبيقوم
-بايتون وافي جدا مع البشمهندس اسامة الزيرو على اليوتيوب اما
-الحبايب كلهم متجمعين هناك. وكمان سايب لك لينك الفيديو
-بيشرح لك الباك اند بالكامل باستخدام البايفون وملحقاته.
-الطريق بتفاصيله. ومنين تتعلم كل حاجة. وفيه مجالات تانية كتير
-وطبعا علشان وقت الحلقة ووقت حضرتك يا صديقي. تعال اعلمك ازاي
-فلحسن الحز تقدر تستخدمه في لكن بيستخدم هنا جوة اداة اسمها ودي
-الفين تلاتة وعشرين او السنة الحالية اللي انت فاتح فيها
-نبزة مختصرة عن المجال. وبعدين انزل تحت شوية هلاقي الموقع راسم
-تحميل اندرويد استوديو اللي هتبرمج عليه التطبيقات. تتعلم
-اساسيات برمجة وبعدين اساسيات الاو بي او. وتكمل في شجرة
-التعلم وصولا لعمل التطبيقات واحتراف المجال. ولو نزلت كمان
-شوية في الموقع هتلاقيه مقسم لك المسار بالتفصيل. ومعرفك كل جزء
-تتعلمها في المجال او اي مجال برمجي اخر. انا بعلمك هنا
-الاستقلالية وانك تعتمد على نفسك في الوصول للمعلومة. لانه حرفيا
-المرتبات. لان السوق عرض وطلب. فمسلا لو بحست على اكتر المجالات
-ومنين تتعلمها? في خطوتين بس. ببساطة هتدخل على موقع وهتختار
-لغاية هنا كده انا كفاية. مش مكمل. مع انه مش محسوبين لغاية
-هيمشي معك خطوة بخطوة في المجال من بدايته من بدايته من لغاية
-مسلا. كمان بتحتاج لغة او او الروبي في البداية. وانا برشحك
-بالنسبة للتعلم باللغة الانجليزية فعلى نفس الموقع اللي
-طبعا انا وضحت لك هنا مجال واحد من مجالات البرمجة. وعرفتك
-بالنسبة فيه كزا كورس الصراحة على اليوتيوب باللغة العربية
-تتعلم تطوير تطبيقات الاندرويد هتختار لك لغة من لغات البرمجة.
-ولو عايز تتعلم كله بفيديو واحد بس على اليوتيوب فعندك فيديو على
-انك تعلمهم البرمجة من المواقع دي. اما لو عايز مواقع باللغة
-البرمجة المتعلقة بالباك اند. وكمان موقع وهو موقع مشهور جدا
-وتكتب مسلا كورس لغة كوتلين. كورسات كتير بالعربي او هيطلع لك
-لو عايز تتعلم اي حاجة هتلاقيها متوفرة على الانترنت في كل مكان.
-البرمجة. السؤال اللي دايما بيحيرك ما هو افضل مجال.
-التوب مسلا. لكن في مجالات عليها طلب كتير لسوق العمل. لو كتبت
-هم الاعلى في المرتبات. لكن المرتبات برضو بتختلف من فبلاش
-هي علشان بس ما تتخضش من كترة المسميات. وما هي الا مكتبات
-تركز قوي مع حوار المرتبات ده. وركز اكتر على تطوير نفسك في
-اكتر من الشهادة. بمعنى انه الشركات اصبحت بتدور في الاساس
-البرمجة وتشتغل فيها. بدون اي خوف. تالت حاجة. هل الزكاء
-الاصطناعي هيقعد المبرمجين في بيوتهم. وخلاص قريب هنلاقي
-الزكاء الاصطناعي موجود من زمان. قبل ما يزهر التريند اللي بقى له
-ومجال او ما هو الا مجال من مجالات البرمجة. يعني تقدر
-اداء مساعدة تقدر تستشيره في جزء من الكود. وعلى فكرة بياخد وقت
-لن تموت لمئات السنين اللي جاية يا صديقي. فلا تقلق. اتعلم انت
-بايديك لغاية لما تتقنه. ونفز مشاريع كتير بايديك. واهتم بصحتك
-الزكاء الاصطناعي هيعمل كل حاجة. اللي عايز اعرفه لك يا صديقي انه
-فترة ده اللي بيحسسك ان الزكاء الاصطناعي ده حاجة جديدة. وكان
-الزكاء الاصطناعي باستخدام البرمجة وعن طريق المبرمجين.
-شغلك. اتمنى تكون الحلقة مفيدة وفيها اجابات لاكبر قدر من
-باستمرار. وكل فيديو تسمعه في اي كورس لازم تتمرن عليه كزا مرة
-بس ما لكش دعوة. اخر حاجة يا صديقي وبقولها لك للمرة التانية.
-تشتغل في البرمجة. بعض الشركات بتطلب انك تكون خريج كليات فيها
-بتاعك. وكل اللغة لها خاص بها. زي مع مع الروبي. مع اللي بيعمل
-الوظيفتين بيسموه. وده بيبقى مبرمج اخطبوط. شغال هنا وهناك.
-تانية متخصصة الاستخدام زي لغة او بيسموها فهي بتستخدم لعمل
-دلوقتي يا بروف. ابدأ اتعلم انهي لغة برمجة. والسؤال في سياقه ده
-تعرف الطريق بنفسك. لاي مجال في البرمجة. وايه الكورسات المطلوبة
-من فوق هيظهر لك اشهر مجالات البرمجة بالتحديس لغاية سنة
-تطبيقات الموبايل. هختار اندرويد هلاقيه في الاول بيديني فكرة او
-لي المسار التعليمي للمجال بالتفصيل. هنا بيقول لي علشان
-البرمجة واكسرهم استخداما. وده معناه يا صديقي ان المعروض كتير
-بيتطلب منك لغة او اكتر من لغات البرمجة. علشان كده قلت لك اسأل
-ادوات بتبسط وبتسهل عليك كتابة السطر البرمجي. اما الباكيدج
-في المسار معناه ايه. وبعد ما عرفت المسار التعليمي للمجال.
-تقدر تاخد اي مصطلح عايز تتعلمه. وتروح تبحس عنه على اليوتيوب.
-اتعلموا برمجة في العالم اتعلموها اونلاين. ولا هي من
-كل شيء في مزهر الموقع. اي موقع علشان يتعمل محتاج حاجتين.
-كليات ولا هي من معاهد. فمهما كان تخصصك او كليتك تقدر تتعلم
-بتتفاعل معاها مع الموقع والجزء ده من الموقع بيسموه او الجانب
-اللي بتشوفها كل يوم بعنيك في البنك. علشان تتعلم هتبدأ بتعلم
-بتزاكره. وزي ما قلت لك ده اللي بيفرق المبرمج المتميز من
-المبرمج العادي. بعد هتبدأ تتعلم. وهو بيسهل عليك جدا تنسيق
-الصفحة وترتيبها. وتعديل مزهرها بسهولة. تعلمهم سهل وبسيط. لكن
-اللي تمشي عليها في تعلم اي مجال. وكمان المصادر المجانية
-الحلقة يا صديقي. لكن في مجموعة نصايح بسيطة قبل ما تخوض في مجال
-وكمان بالمجان. فما تضيعش الفرصة. وبكده نكون وصلنا لنهاية
-برمجة. لغة البرمجة الوحيدة اللي زكرتها لغاية دلوقتي في المجال
-يقف عند اول مطب رجاء. بعد كده تتعلم او وبتختار زي لبناء
-اللي هتتعلم فيه تنسيق النصوص واستدعاء الصور والملفات واعداد
-كورسات بالانجلش. واعمل كده بالزبط في اي حاجة تانية عايز
-سواء او الجافا. تاني حاجة بيقول لي فيه اساسيات لازم تتعلمها. زي
-الموقع. على سبيل المسال عاوز اعرف المسار التعليمي لتطوير
-وادوات اضافية بتسهل عليك تنسيق وتصميم المواقع. طب يا بروف مننا
-برمجة اصلا. وبداية البرمجة الحقيقية كانت من فما تخليش شغفك
-جدا. منهم برضو برشح لك برمجة تطبيقات الموبايل. او الموبايل.
-هو لما تضغط على وتروح يمين شوية هتلاقي كورسات الباك اند هتلاقي
-وكلهم بكفاءة عالية وكل المصادر هتلاقي عندك في وصف الفيديو. اما
-المستخدم ويسمى وفيها بيتم برمجة قواعد البيانات والسيرفر. او
-والصور والفيديوهات واعداد المزهر والشكل النهائي للموقع
-اليوتيوب بمدته تقريبا واحد وعشرين ساعة مقدم من بيعلمك كل
-الانجليزية فافضلها موقع فيه حلو ومباشر جدا عن تجربتي الشخصية.
-من الموقعين. اما في برمجة الباك اند او الجزء الخاص بالسيرفر
-السي على الكيبورد. الكيبورد بيدخل حرف السي للكمبيوتر صفر
-عن شوية صفار ووحايد. وعلشان تكتب اوامر للكمبيوتر باللغة دي
-هيبدأوا يتعلموا البرمجة. تسعمية منهم هيزهقوا من اول الطريق مية
-شوية. لكن دي الحقيقة لازم تحطها في بالك. واسعى دايما للتميز يا
-صديقي في اي مجال تختاره في حياتك. بما ان لغات البرمجة كتير
-شوية برضو مجالات البرمجة متشعبة جدا. كل مجال من مجالات البرمجة
-ده اللي انا كلمتك عنه. ان معزم المبتدئين في تعلم بيلاقوا
-الدنيا حلوة قوي في البداية مع بعد كده يخبط في يقول لك شكرا
-بالعملين في نفس الوقت. لو هتتعلم الباك اند فانا سايب لك
-كورس باللغة العربية في وصف الفيديو. وطبعا انا زكرت ان انت
-تتعلمه لما كنت بتكلم عن ولو عايز تحترف البايفون هتلاقي كورس
-مستوى لغة البشر واللي بيطلق عليها يترجمها لمستوى لغة الالة
-هتتعلمها فهي في الاخر بتتحول لنفس اللغة اللي بتفهمها الالة.
-بنتكلم بها وصنع مترجم سواء او علشان يترجم لغة البرمجة اللي في
-البعبع اللي مستنيك هو. واللي منه هتبدأ البرمجة لفعلي. وللاسف
-سؤال او استفسار شرفني بها في الكومنتات. اشوفك الحلقة الجاية.
-هيأسر جدا على صحتك. فتأكد دايما انك تاخد جلسات راحة بين ساعات
-البرمجة مش سهلة. ولازم يوميا تمرن ايدك على كتابة الكود
-فقرة بتزاكرها. كمان في نهاية اتمامك للكورس بتحصل على من اي
-ولو ضغطت على هتلاقي شرح وكمان على الجنب التاني هتلاقي لغات
-هتلاقيني سايبهالك في وصف الفيديو ولو عايز مواقع مكتوبة
-نفس الجملة بس بلغة فهكتب كود برمجي طويل شوية. واعمل اسمه
-او صباح الخير بلغة. هاكتب بس السطر البرمجي ده. اما لو هاقول
-اللغة. ودي الطريقة اللي بينكتب بها اللغة. فمسلا لو عايز اقول
-تتعلمه وتشتغل فيه عادي جدا. سالسا الزكاء الاصطناعي ما هو
-سانيا الزكاء الاصطناعي مصنوع بالبرمجة في الاساس. بيتم تطوير
-منتشر جدا في المواقع زي جوجل والبرامج زي برامج ومستخدمين
-الروبي والاسبرين مع وزي ما قلت لك دي مش لغات برمجة. دي او
-برمجية كتير وللتبسيط لازم نستخدم حاجتين في هتلاقي مع مع
-وللاسف الاعتماد على لغة واحدة في برمجة السيرفر هياخد منك سطور
-واي لغة برمجة جديدة بتسمع عنها فهي معمولة علشان تسهل اكتر على
-بمسال بسيط جدا جدا. لما تقول لوالدتك او اخوك مسلا كل يوم
-ده. كود برمجي. كل يوم بترمز للتكرار او الريميتيشن او
-انك تصحيني ان الساعة تيجي خمسة. والشرط في المسمى العام هو
-لتعلم الاتش تي ام ال فاللغة العربية عندك موقع وموقع ادراك
-والموقعين بيبدأو معاك المجال من تحت الصفر ولو عندك اطفال فممكن
-لتعلم البرمجة. وشبيه شوية والموقعين عليهم تدريبات على كل
-والحقيقة يا صديقي انه مجال متفوق على الجميع او هو التوب
-بتمكنك انك تبرمج السيرفر للاوامر زي الشات على الفيس بوك
-خالص يكون اكتر المجالات المطلوبة. هو الافضل في
-عربية في المجال هي قناة الباشمهندس اسامة الزيرو. اللي
-متطلبات المجال من الصفر لغاية الاحتراف وقسم الواحد وعشرين
-ساعة دول زي ما تحب روابط اي مصادر او فيديوهات بتكلم عنها
-في البرمجة في المرتبات هتلاقي مجال
-المجال. وتكون متميز فيه قدر الامكان. وساعتها احلى مرتبات
-وعروض هتبقى قدامك يا صديقي. تاني حاجة. هل الشهادات الجامعية
-مطلوبة? يعني لازم تكون مهندس او خريج حاسبات ومعلومات علشان
-على جوجل هيطلع لك اكتر المجالات المطلوبة في البرمجة. ومش شرط
-عن المجال ما تسألش عن اللغة. انا جمعت لك افضل اربع مجالات
-الصراحة غلط تماما يا صديقي. لكن السؤال الصحيح ما هي مجالات
-كانت متشابهة قوي كده. الفرق يا صديقي بيكمن في حاجتين. او بناء
-تمشي عليه بنفس المنوال في اي لغة برمجة. وهتطلع في الاخر
-برمجة مطلوبة في الوطن العربي. وهتستمر معك لسنين كتير قدام.
-في اي مجال في الحياة. لكن المتميز قليل جدا. ولو افترضنا
-قواعد البيانات وبس. ما بتستخدمش في اي حاجة تانية. والسؤال
-الويندوز والالعاب وتطوير المواقع وتحليل البيانات. ولغات
-فهي صعبة ومعقدة جدا جدا. علشان كده عملوا لغات البرمجة. واللي
-هيكملوا تعليم في المجال خمسة بس هم اللي في المجال. معلش سرحت بك
-ان عشر الاف مشاهد هيتفرجوا على الفيديو ده. منهم الف واحد
-الكونديشن. وبيتعبر عنه باف او او. واللي معناها لو او عندما.
-وهزه القيمة المتغيرة تنتمي الى نوع من انواع البيانات او اللي
-من.
-لغات البرمجة القديمة والمعقدة في انها تموت او تختفي تدريجيا.
-وعشرين لغة برمجة بس هم اللي تربعوا على قمة افضل لغات
-في حاجات كتير. زي مسلا اللي بتستخدم في برمجة تطبيقات
-المبرمجين. وتكون اقرب ما يمكن الى لغات البشر. وبعدها تبدأ
-اللي تتعلم منها المجال اللي تحب تكمل فيه. وخلينا نبدأ بالمجال
-لازم تطلع باكبر كم من المعلومات والتطبيق العملي على اي كورس
-لازم تدي كل حاجة وقتها. وتتقنها على مهلك. ما حدش بيجري وراك.
-اتعلم كورسات. شف يا صديقي. بالنسبة لليوتيوب فافضل قناة
-الجداول والنمازج او لما تزاكرها بانتزام هتاخد معك من شهر
-واجهات المستخدم. وبتتعامل مع مكتبات زي وخلي بالك دول مش لغات
-وقواعد البيت والجدران وحديد التسليح. اما فهو الاساس اللي
-لشهرين. وممكن تتعلمها في عشر ايام. بس صدقني دي مش شطارة.
-جدا. انه عدد لغات البرمجة وصل تقريبا تمنتلاف تسعمية خمسة
-واربعين لغة برمجة. وعلى الرغم من انهم كتير الا انه خمسة
-تتعلم اي تاني في البرمجة وايه الخطوات او المسار التعليمي او
-جوة والدهان بتاع الجدران والديكور والتشطيبات الجمالية
-وكمان الانماط التفاعلية والمدخلات والمخرجات اللي
-ده اللي فيه بيتم برمجة وتهيئة صفحات الموقع من تنسيق النصوص
-الافضل والاشهر لاي مبتدأ في مجال البرمجة. وهو مجالوبنت او
-ومعالجة عمليات زي المدفوعات مسلا. يعني من الاخر هو العمدان
-كمبيوتر او من موبايل. اما الجانب التاني فهو ما لا يراه
-اللي بيزهر للمستخدم لما يتعامل مع الموقع سواء فاتح الموقع من
-تطوير مواقع الويب. وفيها بتقوم بتطوير المواقع وتصميمها. وتخصيص
-وبعد ما اكلمك عن مجال من المجالات دي بالتفصيل هعرفك منين
-البرمجة. التي يمكن ان اتعلمها. شف يا صديقي. لغات البرمجة كتير
-بتتعمل على الكمبيوتر. الصور والفيديوهات والمقاطع الصوتية
-والبرامج والملفات واي حاجة بتعملها على الكمبيوتر فهي عبارة
-واحد صفر صفر صفر صفر صفر واحد واحد. وقيس على زلك اي حاجة
-والتداول وغيرهم وعلى العموم انا احمد حسين ممكن تتابعنا على
-لو اول مرة تشوفنا في الفيديو ده من سلسلة فيديوهات بتعلمك ببساطة
-بالكامل بدون اي تعقيد او تشتيت وبشفافية كاملة. احب اقول لك ان
-انك تلاقي الفيديو اللي يلخص لك مجال البرمجة. ويوضح لك الصورة
-استخدامها. فهناك لغات برمجة متعددة الاستخدام. يعني بتستخدم
-اللغة. اما الفرق التاني من لغات البرمجة فيكمن في الهدف من
-باللغة العربية كلمة فاسقيناكم وبالانجلش. وده المقصود ببناء
-تعرفها عن البرمجة بكل وهاعرفك بكل بساطة يعني ايه البرمجة وايه
-وكل لغة برمجة تقريبا مبنية على نفس او البنية الاساسية المكونة
-سهلت الموضوع شوية. وخلت البرمجة قريبة الى حد ما من لغاتنا اللي
-تاخد اي قيمة متغيرة. الساعة او الساعة ستة او حتى الساعة عشرة.
-البشر ولغة الالة بتم بدون اي تدخل منك. ازا اي لغة برمجة
-ما تتخضش من اي حاجة خالص دي كلها مسميات بسيطة. وهوضحها لك
-وهي الاسبارو الوحايد وبيطلق عليها وعملية الترجمة بين لغة
-البرمجة. وزمانك مستغرب. ازاي باقول كده في فيديو زي ده? صديق
-حاولت فيها كزا مرة ولقيت انك مش عارف تسبت نفسك او وجودك فيها
-حس ابداعي. لكن على رأي المسل لو انا امير وانت امير امال مين
-بتتكون من حرفين بس. الصفر والواحد. فمسلا لما تضغط على حرف
-فهو يعرف لغة واحدة بس اسمها لغة النزام السنائي او البايدر. اللي
-الكومبيوتر او الموبايل او الالة عموما. لكن فيه مشكلة صغيرة. هزه
-باحبطك خالص والله. لكن دي الحقيقة اللي بيخبوها عليك. وانا
-التفاهات البرمجية دي. ولسه المشوار طويل عليك قوي. انا مش
-اتعلم اي مجال تاني. وليست البرمجة نهاية المطاف اطلاقا.
-والحقيقة انه اي مجال تتعلمه وتتقنه وتبدع فيه هتوصل فيه
-وهفتح قوسين تانيين اكتب ما بينهم. وده بالزبط لما تقول
-واللي بنسميها او برنامج صغير جوة البرنامج الكبير. اللي هو
-صحيني كل يوم الساعة خمسة. مش المبسط اللي كلمتك عنه وتقدر
-اول برنامج بنفسك اهو. شفت البرمجة سهلة ازاي. انت ما عملتش
-برنامج منبه. وبعدها اللي يشرح لك يقول لك برافو عليك. انت عملت
-الاتنين زي صح وغلط. ودي بنعتبرها ممكن تكون نص من حروف
-بنسميها لانه القيمة ممكن تكون رقم او ممكن تكون حاجة من
-اما كلمة الساعة في حد زاتها فتعتبر او متغير. لانها ممكن
-العادي والمبرمج المحترف ومنين وازاي اقدر اتعلم البرمجة باللغة
-وعلى عقلك. وقبل ما تخوض في مجال البرمجة لازم تحط في بالك كويس
-قهوة للاسف. امال ايه يا بروف الفرق بين لغات البرمجة? ازا
-برنامج منبه يصحيك لما الساعة تيجي خمسة. بس مش هيعرف يعمل لك
-وارقام وتسمى اما اعمل لي كوباية قهوة فتعتبر امر داخل الامر.
-زي فور ووايل. لعمل دوال تكرارية. لما تعتبر شرط. فشرط
-بنسميها في البرمجة لوب. ومعظم لغات البرمجة بتستخدم فيها دوال
-صحيني من النوم لما الساعة تيجي خمسة واعمل لي كوباية قهوة. اهو
-مجالات علمية كتير زي البرمجة والتسويق الرقمي وصناعة المحتوى
-مجال البرمجة سهل. سهل لو هتعمل برنامج الة حاسبة. سهل لو هتعمل
-فهو بيقول ان المفروض ان كل الناس تتعلم البرمجة علشان
-تصبحوا على خير يا صديقي البروف.
-سنين كتير بنسمع عن البرمجة. وقد ايه هي ضرورية ولا غنى عنها. فهل
-هتعلمك ازاي تفكر. ومن وجهة نظري المتواضعة هذا الكلام خطأ وغير
-منطقي تماما. وقبل ما تهاجمني يا صديقي البروف قليلا. ازا كانت
-وبدون برمجة خالص. وما فيش حاجة اسمها كل الناس تتعلم مجال ما.
-معناه قبلها ان الناس ما كانوش بيعرفوا يفكروا مسلا? بالعكس فيه
-الديزاين او الجرافيكس علشان يوسع مداركه وخياله ويبقى عنده
-عارف قد ايه انت لفيت في فيديوهات كتير قوي. في محاولة
-علاقة البرمجة بالتكنولوجيا وسوق العمل وايه الفرق ما بين المبرمج
-اللي هيسوق الحمير? انا عارف كويس قوي انك كل ما تقعد مع واحد
-اول لغات البرمجة نشأت في سنة تقريبا الف تسعمية وخمسين. هل ده
-والفلسفة كانت بتعلم اصحابها تدبر وحل المشاكل بشكل منطقي
-علوم تانية قديمة كتيرة جدا زي الرياضيات والهندسة والفيزياء
-صحته ويعرف يهتم صحيا بنفسه. وبرضه المفروض الجميع يتعلم
-الكلام الكتير اللي بنسمعه عن البرمجة ومميزاتها حقيقي ولا
-البروف افهمني كويس. انت مش محتاج تجبر نفسك على تعلم لو
-التنفيزي لشركة ابل سابقا قال كلمة حلوة قوي عن البرمجة.
-البرمجة باختصار يا صديقي هي كتابة اوامر كودية علشان ينفزها
-الالة لا تتحدس اللغة التي يتحدسها البشر. فلغات البشر زي
-اللغة العربية واللغة الانجليزية وغيرها من اللغات. اما الكمبيوتر
-لدرجة علمية ووزيفية ممتازة. وهيعود عليك بالنفع على شخصيتك
-قوي انه مجال البرمجة مش سهل اطلاقا. وكزا بكل من قال لك ان
-اي حاجة يا صديقي. والمجال في حقيقته بعيد كل البعد عن
-بيقول لك اتعلم برمجة. لأ خالص يا صديق انت مش المفروض تتعلم
-الفيديو ده هتلاقي فيه اجابات لكل الاسئلة اللي انت محتاج
-العربية خصوصا وكمان باللغة الانجليزية وكمان فرص العمل في
-البرمجة ومرتباتها وهل الزكاء الاصطناعي هيقضي على المبرمجين
-الفيسبوك وعلى اليوتيوب علشان يوصل لك كل فيديوهاتنا. يلا بنا.
-لانه لا يوجد اي علم دنيوي يجب على كل الناس انها تتعلمه. والا
-كان المفروض الجميع يتعلم طب وصيدلة. علشان يخلي باله على
-صاحبك يقول لك اتعلم برمجة. كل ما تتفرج على واحد على اليوتيوب
-الموضوع له حيسيات اكبر من كده. سطيف جوبز المؤسس والمدير
+قنوات يوتيوب :
+تعلم الـ Frontend فى فيديو واحد : [• Frontend Web Development Bootcamp Course (...](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+تعلم الـ Backend فى فيديو واحد : [• Python Backend Web Development Course (wit...](https://www.youtube.com/watch?v=jBzwzrDvZ18)
+
+تعلم الـ Node JS باللغة العربية : [• 1-★ What is Node.js مقدمة تعريفية عن التقن...](https://www.youtube.com/watch?v=Bw9N_1Wx6s4)
+تعلم الـ Django Python باللغة العربية : [• 1 Django tutorial \| كورس دجانجو \| ما هو ال...](https://www.youtube.com/watch?v=UPFKAG9rYOE)
+
+مصادر اضافية :
+تعلم اساسيات البرمجة فى ساعة : [• تعلم البرمجة \| شرح بايثون \| مقدمة كاملة في...](https://www.youtube.com/watch?v=XhQsG1YRvOg)
+المفاهيم البرمجية فى ساعتين : [• كورس مقدمة عن أساسيات البرمجة للمبتدئين \|...](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+تواصل معنا وتابعنا على :
+Facebook page: [/ mrprofx](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSGpXR3FBTmZxVlNiSHROUk93bDNEd3xBSTVJdTV2QXh6SmdUMGRpVnprU0JzNUlRWDVmRVlsdVZlWUEwVy1NMldqSlR4VldHZ0ZaUEtudkdwcS01V05mSFlNY1V3SFNXd1BydV9ZNFUzdkp6MlRuMEYzNmJUY2FVNHZB&q=https%3A%2F%2Fwww.facebook.com%2FMrProfX&v=KGjFu_2OLhk)
+Telegram Ch. : [https://t.me/popprofx4admin](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRnV4cTl3MGlKSnFXYU52dk5xTjlPUHxBSTVJdTVzaVk0ZnBVWnlUMVpLc0x5bVBUSlNBTENfcTFyZjJOZmtVNGF1MFg2anJGYUhOMXZtZ21EcF9JbU8wZl8wRFBTQWRMd3c5bGo2QVp1MU9yTmJ5bkJ3UFZWTEY5X3Fz&q=https%3A%2F%2Ft.me%2Fpopprofx4admin&v=KGjFu_2OLhk)
+Instagram: [/ popprofx](https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSFl4M2V0a2o3TlBnQ0lTUmZIeXlJeHxBSTVJdTVzcVdYM2k5dXZfR0U4S3pvZXo1TVowRF9ka2pSOTdxWDNrRmppUUF1aGtGbjlyX1FfLUk3R1NJN05COFRObDFROS1vd1E5bHJ4U0ZTUUwxMzZQWEd4WWh0Z2RXQXhM&q=https%3A%2F%2Fwww.instagram.com%2Fpopprofx%2F&v=KGjFu_2OLhk)
+Collaboration-Only E-Mail: profxcollab@gmail.com…...more
+
+...more
+Show less
+
+Follow along using the transcript.
+
+Show transcript
+
+[Videos](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/videos)[About](https://www.youtube.com/channel/UCQzsxeC1MpDAKkM3rt1BZ1A/about)[Facebook](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljR2hWdVNzTHQ0SjZiLXJJMElHaWpfcHxBSTVJdTVzcjY1X0s2Y1dxcVpfdnZFSjhTd3hEYmx4OHltQTAtTjFEeWdRVjVib3R0Q3FDaEVlRE9DRTF0OElZY2MyZlRMY1MtNUVOS1F1Q0VMb1JMV2p5RF85VmJXVmlpMUlu&q=https%3A%2F%2Fwww.facebook.com%2FPopProfX)[Instagram](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljSEtmUXNaNXZndGZkdFc4OHhUWThfbnxBSTVJdTV2LVZxV1EzNTRtbTVVY0Rpd3R5Yy1FNUNzRy1PX3hENUtoTG5MT2ZzNkltYkhha0drMGsxZnR4cC1RLU5kbHdVSjFUcUlGd3pUVWJkSkhxdHZPWjFtUWR6Z2IwbGZz&q=https%3A%2F%2Fwww.instagram.com%2FPopprofx%2F)[TikTok](https://www.youtube.com/redirect?event=Watch_SD_EP&redir_token=QUZZTVljRUZoN3Z1aHV2eGQ5TnQ5SDVxQTB2TnxBSTVJdTVzOHdYdjdBX1ZZRDNyTlRJeFpoa0tzNWstdXJ2S2tVbkdKd3NIUTQ5VHBEOUVzUXZ6U0JtM1gxc2tRVGF5VkgzZjZiMGxzVkNxV2ZsLTVXWXhNbmJMQkRWdHBwZTdf&q=https%3A%2F%2Fwww.tiktok.com%2F%40popprofx)
+
+[24:55\\
+\\
+24:55](https://www.youtube.com/watch?v=N7dmz435FxM)[بخطوات بسيطة كيف تغير حياتك بالكامل\\
+\\
+by Professor X البروفيسور](https://www.youtube.com/watch?v=N7dmz435FxM)
+
+## Video details
+
+Date
+
+Oct 1, 2023
+
+Views
+
+175,278
+
+Likes
+
+8,954
+
+[![](https://i.ytimg.com/vi/FwxbTGxTcVI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4CeBmYFWPiWiKKSuz4tkLCfSriw)\\
+\\
+3:27:40](https://www.youtube.com/watch?v=FwxbTGxTcVI)
+
+### [كورس لغة جافا من الصفر \| Java Course](https://www.youtube.com/watch?v=FwxbTGxTcVI)
+
+اتعلم ببساطة
+
+529K1y ago
+
+[![](https://i.ytimg.com/vi/Eonle3coX4I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrfyEv5nodtC0djh0XkGJtoinecg)\\
+\\
+21:09](https://www.youtube.com/watch?v=Eonle3coX4I)
+
+### [شرح كل مكونات اللابتوب وازاي تختار افضل لابتوب](https://www.youtube.com/watch?v=Eonle3coX4I)
+
+Professor X البروفيسور
+
+360K1y ago
+
+[![](https://i.ytimg.com/vi/JJT3NKqRHy0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8EUZhmkDjEc710-VMXQEKDZkKBg)\\
+\\
+9:15\\
+\\
+New](https://www.youtube.com/watch?v=JJT3NKqRHy0&pp=ugUHEgVlbi1VUw%3D%3D)
+
+### [How to Learn Any New Skill and Become a Pro](https://www.youtube.com/watch?v=JJT3NKqRHy0&pp=ugUHEgVlbi1VUw%3D%3D)
+
+Ifada bdarija \| إفادة بالدارجة
+
+1791d ago
+
+Auto-dubbed
+
+[![](https://i.ytimg.com/vi/nDsr8xnJilY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByq-jELvJNR9N0x5CibnoiSKtHkA)\\
+\\
+3:41:09](https://www.youtube.com/watch?v=nDsr8xnJilY)
+
+### [تعلم بايثون من الصفر للمبتدئين بالدارجة المغربية \| كورس البرمجة كامل 2026 \| أكاديمية الخبرة](https://www.youtube.com/watch?v=nDsr8xnJilY)
+
+Lkhibra Academy
+
+225K8mo ago
+
+[![](https://i.ytimg.com/vi/06h470AiBZ4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBcLQN0loeIpGe8xjQfDbtgxe0vfw)\\
+\\
+2:12:34](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+### [كورس مقدمة عن أساسيات البرمجة للمبتدئين \|\| محو الأمية البرمجية](https://www.youtube.com/watch?v=06h470AiBZ4)
+
+غريب الشيخ \|\| Ghareeb Elshaikh
+
+1.1M4y ago
+
+[![](https://i.ytimg.com/vi/vPvqySL1Y0s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQdNSgE4uAkYDl2L6vUTHF_UTWRQ)\\
+\\
+8:37](https://www.youtube.com/watch?v=vPvqySL1Y0s)
+
+### [البرمجة من الصفر الدرس 1️⃣ من كورس اساسيات البرمجة : يعني إيه برمجة](https://www.youtube.com/watch?v=vPvqySL1Y0s)
+
+CodeWay\_كود واي
+
+37K1y ago
+
+[![](https://i.ytimg.com/vi/ZT8DR9g9BmY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAEwmonPhK1FiTFFYuTqyCkzRkIJA)\\
+\\
+15:15](https://www.youtube.com/watch?v=ZT8DR9g9BmY&pp=0gcJCUcMAYcqIYzv)
+
+### [دليلك لشراء لابتوب للبرمجة \- مع توصيات البرمجة للمبتدئين](https://www.youtube.com/watch?v=ZT8DR9g9BmY&pp=0gcJCUcMAYcqIYzv)
+
+Professor X البروفيسور
+
+129K1y ago
+
+[![](https://i.ytimg.com/vi/Gfjrxwi4Vp0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCXNSpHWoVVaNf8cdEW_1gOu4P9Q)\\
+\\
+36:53](https://www.youtube.com/watch?v=Gfjrxwi4Vp0)
+
+### [أخطر طائرة سرية للغاية \- البروفيسور](https://www.youtube.com/watch?v=Gfjrxwi4Vp0)
+
+Professor X البروفيسور
+
+471K1y ago
+
+[![](https://i.ytimg.com/vi/SwDIU70exnA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTMKwtOepesgxJKUhECRxe_0_3Tw)\\
+\\
+36:48](https://www.youtube.com/watch?v=SwDIU70exnA)
+
+### [ازاى من شوية رمل نصنع معالج؟ \- البروفيسور](https://www.youtube.com/watch?v=SwDIU70exnA)
+
+Professor X البروفيسور
+
+250K1y ago
+
+[![](https://i.ytimg.com/vi/LfkBOKwsTc0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2jSC5XLq7NV9NN6462Vc1tb3HPg)\\
+\\
+37:07](https://www.youtube.com/watch?v=LfkBOKwsTc0)
+
+### [دليل تعلم البرمجة بالطريقة الصحيحة: خمس خطوات لتعلم البرمجة بالطريقة الصحيحه ستغير مجرى حياتك](https://www.youtube.com/watch?v=LfkBOKwsTc0)
+
+Programming Advices
+
+1.9M7y ago
+
+[![](https://i.ytimg.com/vi/9ndH9Qo05F4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB89068vdueIrAXdkx6Si8WD5REtQ)\\
+\\
+4:22](https://www.youtube.com/watch?v=9ndH9Qo05F4)
+
+### [What is programming and how to learn to code?](https://www.youtube.com/watch?v=9ndH9Qo05F4)
+
+OctuCode
+
+3.8M3y ago
+
+[![](https://i.ytimg.com/vi/FMSOoWQR92I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlNHELLfFn0mLfxIO_MjiZ8Eb1Ig)\\
+\\
+9:06](https://www.youtube.com/watch?v=FMSOoWQR92I&pp=0gcJCUcMAYcqIYzv)
+
+### [Programming languages and the difference between them: Learn programming for beginners 2](https://www.youtube.com/watch?v=FMSOoWQR92I&pp=0gcJCUcMAYcqIYzv)
+
+OctuCode
+
+2M3y ago
+
+[![](https://i.ytimg.com/vi/azy3_sBMYCM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2ht1Uoqbn1_4l36lipyKMZamf8A)\\
+\\
+46:10](https://www.youtube.com/watch?v=azy3_sBMYCM)
+
+### [كورس من الصفر \| Claude](https://www.youtube.com/watch?v=azy3_sBMYCM)
+
+اتعلم ببساطة
+
+408K6mo ago
+
+[![](https://i.ytimg.com/vi/7l7Es3ftHzY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCejYTkMcWbjfai_30vIFV5L9bRsA)\\
+\\
+21:13](https://www.youtube.com/watch?v=7l7Es3ftHzY)
+
+### [اختيار لغة البرمجة المناسبة (مقارنة بين لغات البرمجة المشهورة) \| How to choose programming language](https://www.youtube.com/watch?v=7l7Es3ftHzY)
+
+Yehia Tech يحيى تك
+
+199K3y ago
+
+[![](https://i.ytimg.com/vi/pjMY3AQyV_A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWdUAOxkE4L_kIXFXTDzHi6POZ0w)\\
+\\
+36:40](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+### [الناس دي مجنونة! \- البروفيسور](https://www.youtube.com/watch?v=pjMY3AQyV_A)
+
+Professor X البروفيسور
+
+142K3mo ago
+
+[![](https://i.ytimg.com/vi/V_7IIV4rXQU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfyVdyEen-gkgjEHkosDT__P1K6w)\\
+\\
+33:26](https://www.youtube.com/watch?v=V_7IIV4rXQU)
+
+### [من يتحكم فى البيتكوين؟ \- البروفيسور](https://www.youtube.com/watch?v=V_7IIV4rXQU)
+
+Professor X البروفيسور
+
+33K8mo ago
+
+[![](https://i.ytimg.com/vi/d1W5gK9sX6E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCovxU9ytV2MuT4iNm6opfaCKCaEg)\\
+\\
+2:27:40](https://www.youtube.com/watch?v=d1W5gK9sX6E)
+
+### [البرمجة ليست للجميع، والأخطاء التي يقع فيها المبتدئين \| أسامة الزيرو في بودكاست غريب](https://www.youtube.com/watch?v=d1W5gK9sX6E)
+
+غريب الشيخ \|\| Ghareeb Elshaikh
+
+245K10mo ago
+
+[![](https://i.ytimg.com/vi/k7TumDEPBNc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAw8NjdKjcLZ6L1yW_-DxOH4ceN_g)\\
+\\
+14:46](https://www.youtube.com/watch?v=k7TumDEPBNc)
+
+### [تعلم البرمجة و كيف تبدأ في البرمجة؟ يعني ايه برمجة؟ ابدأ بأي لغة برمجة؟ \| How to start programming](https://www.youtube.com/watch?v=k7TumDEPBNc)
+
+Codezilla
+
+490K3y ago
+
+[![](https://i.ytimg.com/vi/2gY8-kvyK3A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQwTlj1HdQZMM9-8RNMCHeueSUdw)\\
+\\
+18:05](https://www.youtube.com/watch?v=2gY8-kvyK3A)
+
+### [قبل ما تشتري لابتوب لازم تتفرج على الفيديو ده](https://www.youtube.com/watch?v=2gY8-kvyK3A)
+
+Professor X البروفيسور
+
+160K2y ago
+
+[![](https://i.ytimg.com/vi/M6Ofk6Ym9N0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTo6JOpGlfEZ0vJvJqvpdTTotYQg)\\
+\\
+7:12](https://www.youtube.com/watch?v=M6Ofk6Ym9N0)
+
+### [تعلم البرمجة من الصفر على الهاتف بالعربي \| غير الى مبغيتيش تعلم 📱🔥](https://www.youtube.com/watch?v=M6Ofk6Ym9N0)
+
+العالم الذكي
+
+105K3y ago
+
+Show more
+
+Show more
 
 ---
 
@@ -751,197 +925,87 @@ August 04, 2025
 ## 4. كيف أتعلم البرمجة من الصفر بخطوات بسيطة - دليل مبسط لتعلم البرمجة
 Source: https://www.youtube.com/watch?v=DzVuSTPTh30
 
-![Thumbnail (1920x1080)](https://i.ytimg.com/vi_webp/DzVuSTPTh30/maxresdefault.webp)
-# [كيف أتعلم البرمجة من الصفر بخطوات بسيطة - دليل مبسط لتعلم البرمجة](https://www.youtube.com/watch?v=DzVuSTPTh30)
+كيف أتعلم البرمجة من الصفر بخطوات بسيطة \- دليل مبسط لتعلم البرمجة
 
-**Visibility**: Public
-**Uploaded by**: [Dana Allan - دانه علان](https://www.youtube.com/@DrDanadol)
-**Uploaded at**: 2023-07-28
-**Published at**: 
-**Length**: 07:07
-**Views**: 286976
-**Likes**: 13900
-**Category**: Howto & Style
+Tap to unmute
 
-## Description
+2x
 
-```
-أكاديمية حسوب
-https://academy.hsoub.com/learn/python-application-development/?utm_source=youtube&utm_medium=referral&utm_campaign=dana-jul23&coupon=DANA100
+Copy link
 
-خمسات
-`https://khamsat.com/?utm_source=youtube&utm_medium=referral&utm_campaign=dana-k-jul23
+Info
 
-مستقل
-`https://mostaql.com/?utm_source=youtube&utm_medium=referral&utm_campaign=dana-m-jul23
+Shopping
 
-لو بدك تتعلمي البرمجة و محتاجة دورة تكون واضحة و باللغة العربية فأكاديمية حسوب رح تساعدك باذن الله، استخدمي كود الخصم DANA100 لخصم 100 دولار لأول 10 مشتركين في أكاديمية حسوب
+![](https://i.ytimg.com/an/axzdOiv4BMtkwuz2V9tn7A/featured_channel.jpg?v=6a8016a6)
 
-السلام عليكم أنا دانه علان ❤️
-دكتورة صيدلانية و بشارك معكم نصائح و أفكار ساعدتني في تحسين حياتي في سلسلة دانادول كبسولة التحسين 
+If playback doesn't begin shortly, try restarting your device.
 
-شكرا على دعمكم الدائم للقناة 💕 بإمكانكم دعم المحتوى أكثر من خلال الطرق التالية: 😉
-1. دعم القناة مادياً من خلال باي بال - PayPal
-paypal.me/danaallan
+•
 
-2. عن طريق الضغط على SuperLike الظاهرة أسفل أي فيديو (إذا مو ظاهرة بالجوال بتظهر باللابتوب أو الDesktop) 
+Up next
 
-3. الاشتراك بدورة عام التألق - ستُتاح لكم مدى الحياة 💗- عن طريق الرابط 
-https://jasisters.com/academy/
+Live
 
-4.  تعطوا الفيديو لايك و تشاركوه مع كل الناس 🌸
-دعمكم للمحتوى يساعد في استمراره و تطويره باذن الله 💎
+Upcoming
 
-📍For BUSINESS INQUIRIES ONLY: danaallanyt@gmail.com
+CancelPlay Now
 
-تواصلوا معي على
-عالم جمعة أخوات: https://jasisters.com/
+[Dana Allan - دانه علان](https://www.youtube.com/channel/UCaxzdOiv4BMtkwuz2V9tn7A)
 
-Instagram: https://www.instagram.com/drdanadol
+Subscribe
 
-TikTok: https://www.tiktok.com/@drdanadol
+Subscribed
 
-Snapchat: https://www.snapchat.com/add/drdanadol
-```
+دكتورة صيدلانية و محاضرة في كلية الصيدلة🎓 اشتركوا في القناة و شاركوني رحلة تحسين حياتي في سلسلة Danadol كبسولة التحسين 💊
 
-## Transcript
+للدعاية و الإعلان بالقناة الرجاء التواصل على الإيميل التالي:
+danaallanyt@gmail.com
 
-لما كنت بالمدرسه تعلمنا اشياء بسيطه
-بالبرمجه بتذكر عملت اله حاسبه وكمان صممت
-اول موقع بحياتي والاخير اعتقد كان اسمه
-دليل الفتيات المهم حبيت الموضوع كثير
-لدرجه انه لاول مره بحياتي بحب ماده
-الكمبيوتر مع انه وراي قدراته تحصيلي بس
-خلص وقعت في غرام البرمجه لحد ما دخلت
-صيدله وبطل عندي مجال اعمل شيء ثاني كنت
-عم بفكر اول ما اخلص ماستر شو في شيء جديد
-اتعلمه ويكون تحدي لنفسي وبما انه توجه
-العالم كله رايح للذكاء الاصطناعي
-والبرمجه قلت ليش ما ارجع اتعلم البرمجه
-واشوف شو بصير معي السلام عليكم جميعا ان
-شاء الله تكونوا بخير زي ما شفتوا قررت
-ابدا بتعلم البرمجه ولهيك بحثت وسمعت
-لمبرمجين بيحكوا عن تجربتهم بتعلمها لحد
-ما وصلت لمعلومات ممتازه ورتبتها بخطوات
-بسيطه عشان تكون دليل واضح ومبسط لي ولكل
-وحده بدها تبدا وشكرا لاكاديميه حسوب اللي
-اعطونا كود الخصم اللي بتشوفوه رح يخصم
-100$ من قيمه اي دوره بتشترك فيها لاول ع
-مشتركين فليش نتعلم البرمجه وكيف نبدا هذا
-رح يكون موضوعنا لليوم من دنا دول كبسوله
-[موسيقى]
-التحسين وخلينا نبدا من الاول اساسا شو هي
-البرمجه البرمجه بكل بساطه هي اللغه اللي
-بنتواصل فيها مع الكمبيوتر اذا بدنا نطلب
-منه انه يعمل مهمه معينه زي انه يحل لنا
-مسائل حسابيه بدنا نقسم هي المهمه الكبيره
-لمجموعه من المهام الصغيره ونرتبها بخطوات
-واضحه وندخلها على الكمبيوتر عشان ينفذها
-وبالطريقه بنعمل المواقع والتطبيقات
-والالعاب طبعا الموضوع مو بهالبساطة
-فيديو مهارات رح تغير حياتكم لها مستقبل
-كبير والطلب على المبرمجين كل ماله عم
-بزيد والرواتب عاليه واضافه لهيك بتقدروا
-تشتغلوا فيها شغل حر يعني الوظيفه مش
-الخيار الوحيد اللي متاح وهالشيء ممتاز
-للبنات بالذات اللي بفضل الشغل من البيت
-في وحده سمعت قصتها من دكتور بثق في قال
-لنا انه بيئه العمل المختلطه ما كانت
-مناسبه لها فقررت انها تشتغل من البيت
-وكان عندها خبره بتطوير التطبيقات فاشتغلت
-بهذا المجال ما شاء الله حاليا دخلها
-الشهري فوق ال 7000 دولار وهي قاعده
-بالبيت فشايح ممكن فعلا تفرق معكم بس طبعا
-لازم نعرف انه طريق البرمجه طويل مو قصير
-لكنه فعلا ممكن يكون ممتع فمهم تحددي
-لنفسك هدف واضح من تعلمك للبرمجه عشان
-مهما مريتي بصعوبات ومشاكل تقدري انك
-تتجاوزها وما تستسلمي تمام تحمست اتعلم
-البرمجه كيف ممكن ابدا وهون مجموعه
-الخطوات اللي راح تسه ههل علينا طريق
-البدايه ان شاء الله الخطوه الاولى اختيار
-لغه البرمجه اللي اتعلمها في كثير لغات
-برمجه موجوده بعضها بيكون متخصص بمجال
-معين فلو تعلمتي رح تقدري تعملي شيء واحد
-بس مثلا تصميم المواقع وبعضها بتشمل
-مجالات متنوعه تقدري تصممي مواقع تعملي
-تطبيقات وغيرها فلو بدك تبداي بتعلم
-البرمجه ولسا ما بتعرفي شو المجال اللي
-راح تحبيه اختاري لغه عامه بتقدري تعملي
-باستخدامها اكثر من شيء زي لغه بايثون
-لانها من اسهل لغات البرمجه واكثرها
-استخداما في تطوير تطبيقات الذكاء
-الاصطناعي زي التشات جي بي تي والروبوتات
-الصناعيه والسيارات ذاتيه القياده الخطوه
-الثانيه تحديد مصادر التعلم والمصادر
-كثيره دورات كتب فيديوهات وغيرها لكن اهم
-شيء ما تشتتوا حالكم بكثره المصادر لانه
-هذا الشيء راح يضيع وقتكم فممكن تختاروا
-دوره تدريبيه واحده تبداوا فيها والحلو
-بالدورات انها بتكون منظمه وتساعدكم
-تتعلموا المفاهيم الاساسيه وتطبقوها فلو
-كنت من الناس بده يتعلموا البرمجه
-بالانجليزي وما قدروا يكملوا او ل بدكم
-تبداوا ما تقلقوا هون بيجي دور اكاديميه
-حسوب لانها منصه عربيه وبقدم دورات بتغطي
-معظم مجالات البرمجه زي دوره بايث اللي
-بتحتوي على 67 ساعه مقسمه على فيديوهات
-تدريبيه قصيره وبتاخذ برحله من الصفر لحد
-ما تصيروا قادرين تشتغلوا من خلال التطبيق
-العملي وبناء مشاريع حقيقيه واللي بتضمن
-لكم تتعلموا وتثبتوا خبرتكم من خلال معرض
-اعمال او بورتفوليو بيكون جاهز للعرض باي
-مقابله هذا غير انه شهاده اكاديميه حسوب
-بتفتح لكم فرص كثيره بالعمل الحر لانها
-معتمده من شركه حسوب اللي عندها اكبر
-منصتين للعمل الحر بالوطن العربي خمسات
-ومستقل فاذا مهتمين ما تضيعوا عليكم
-الفرصه واشتركوا بدوره بايثون خصوصا انه
-في كود خصم دانا 100 رح يخصم لكم 100
-دولار من قيمه الدوره وبعد ما حددنا
-المصدر اللي رح نتعلم منه بننتقل للخطوه
-الثالثه الممارسه والتطبيق العملي اي
-مهاره بتتعلمها لو ما طبقتو رح تنسوها وكل
-ما طبقتو اكثر رح تطوروا فيها وعشان هيك
-مهم انكم تطبقوا كل شيء جديد او امر
-تتعلموه لانكم رح تلاقوا نتيجه تعبكم
-قدامكم مباشره فرح تتحمسوا تتعلموا اكثر
-والممارسه بتساعد تتعلموا اكثر كيف تحلوا
-المشكلات اللي بتصير معكم خلال الشغل فبت
-دروا تنتقلوا من الشغل على الافكار
-والمشاريع البسيطه للمشاريع الضخمه
-والمعقده الخطوه الرابعه الانضمام
-لمجتمعات البرمجه ابحثوا بجروبات على
-الفيسبوك او قنوات على التليجرام لمتخصصين
-بالبرمجه لانها رح تكون اماكن ممتازه
-لتبادل المعرفه طرح الاسئله والتواصل مع
-مبرمجين محترفين وكمان لو في مؤتمرات او
-فعاليات بتخص البرمجه ممتاز انكم تحضروها
-رح تكونوا علاقات رهيبه ممكن تعطيكم دعم
-والهام يحفزكم تتعلموا اكثر الخطوه
-الخامسه العمل على مشروع شخصي بعد ما نكون
-تعلمنا الاساسيات وبدينا نطبق بدنا نطلع
-بفكره مشروع صغير يعني بقدر انا لحالي
-اشتغل عليه بدون مساعده مثلا تطبيق بسيط
-او موقع الكتروني رح اكون عم بطبق
-المهارات اللي تعلمتها واشوف نتيجه اللي
-تعلمته وكمان بصير عندي نماذج لشغلي فبقدر
-اعرضها على العملاء بالمستقبل وهي كانت
-الخطوات اللي رح تساعدنا نبدا بالبرمجه
-باذن الله وتاكدوا انه مهما كان الطريق في
-تحديات باذن الله راح يسهل لما وكل على
-الله عز وجل وبعدين نحط لنفسنا هدف واضح
-ولا تنسوا تدخلوا على الرابط بصندوق الوصف
-وتشوفوا اكاديميه حسوب والخدمات الرهيبه
-اللي قدموها للمهتمين بالبرمجه والكود لو
-حبيتوا تشتركوا باي دوره وبالنهايه لو
-عجبكم الفيديو ما تنسوا اللايك والنشر
-والاشتراك بالقناه وسؤالي الكم لو كنتم
-هلا بتقدروا انكم تعملوا تطبيق او موقع شو
-الشي اللي بتتمنوا تعملوه شاركوني جوابكم
-بالتعليقات ونلتقي ان شاء الله بالفيديو
-الجاي مع
-السلامه ان
+[كيف تستفيدي من الإجازة و تتعلمي أي مهارة لوحدك من البيت \- دليل مبسط للتعليم الذاتي\\
+\\
+8:18](https://www.youtube.com/watch?v=_moJ8tMo6P8)
+
+[دانادول كبسولة التحسين 💊 Danadol\\
+\\
+53 videos](https://www.youtube.com/watch?v=CqXCfl5FP7g&list=PLX_227cDRp7JQBX4VS8prCDTYZC-IsP1M)
+
+You're signed out
+
+Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your computer.
+
+CancelConfirm
+
+Share
+
+Include playlist
+
+An error occurred while retrieving sharing information. Please try again later.
+
+0:00
+
+0:00 / 7:07
+
+Live
+
+•Watch full video
+
+•
+
+•
+
+Error 401 (Bad Request)!!1
+
+**401.** That’s an error.
+
+The server cannot process the request because it is malformed. It should not be retried. That’s all we know.
+
+Back
+
+
+[![](https://www.youtube.com/watch?v=DzVuSTPTh30)](https://www.youtube.com/)
+
+Search
 
 ---
 
