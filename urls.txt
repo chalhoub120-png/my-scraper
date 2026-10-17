@@ -1,3 +1,6 @@
 https://example.com
 search: أفضل طرق تعلم البرمجة
 crawl: https://example.com
+https://site.com
+search: كلمات البحث
+crawl: https://site.com
