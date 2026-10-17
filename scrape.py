@@ -1,9 +1,11 @@
 import os
 import re
+import time
 import requests
 
 os.makedirs("content", exist_ok=True)
 LOG = []
+API = "https://api.firecrawl.dev/v1"
 
 
 def log(msg):
@@ -23,7 +25,7 @@ def save(name, text):
 
 def post(path, body, key):
     r = requests.post(
-        "https://api.firecrawl.dev/v1" + path,
+        API + path,
         headers={"Authorization": "Bearer " + key},
         json=body,
         timeout=180,
@@ -32,6 +34,42 @@ def post(path, body, key):
         log(f"ERROR {r.status_code}: {r.text[:300]}")
         return None
     return r.json()
+
+
+def get(path, key):
+    r = requests.get(
+        API + path,
+        headers={"Authorization": "Bearer " + key},
+        timeout=180,
+    )
+    if not r.ok:
+        log(f"ERROR {r.status_code}: {r.text[:300]}")
+        return None
+    return r.json()
+
+
+def crawl(url, key, limit=10, max_wait=300):
+    d = post("/crawl", {"url": url, "limit": limit,
+             "scrapeOptions": {"formats": ["markdown"]}}, key)
+    if not d or not d.get("id"):
+        return None
+    job_id = d["id"]
+    log("Crawl started: " + job_id)
+    waited = 0
+    while waited < max_wait:
+        time.sleep(5)
+        waited += 5
+        s = get("/crawl/" + job_id, key)
+        if not s:
+            return None
+        status = s.get("status")
+        if status == "completed":
+            return s.get("data", [])
+        if status in ("failed", "cancelled"):
+            log("ERROR: crawl " + status)
+            return None
+    log("ERROR: crawl timed out")
+    return None
 
 
 def main():
@@ -61,6 +99,17 @@ def main():
                         for i, x in enumerate(d.get("data", []), 1)
                     ]
                     save("search-" + slug(q), "\n---\n\n".join(parts))
+            elif line.lower().startswith("crawl:"):
+                url = line[6:].strip()
+                pages = crawl(url, key)
+                if pages is not None:
+                    parts = [
+                        f"## {i}. {p.get('metadata', {}).get('title', '')}\n"
+                        f"Source: {p.get('metadata', {}).get('sourceURL', '')}\n\n"
+                        f"{p.get('markdown', '')}\n"
+                        for i, p in enumerate(pages, 1)
+                    ]
+                    save("crawl-" + slug(url), "\n---\n\n".join(parts))
             else:
                 d = post("/scrape", {"url": line, "formats": ["markdown"]}, key)
                 if d:
