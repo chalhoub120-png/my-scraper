@@ -3,5 +3,12 @@ OK saved: https-example-com
 Working on: search: أفضل طرق تعلم البرمجة
 OK saved: search-page
 Working on: crawl: https://example.com
-Crawl started: 01a147c8-7530-73eb-aba7-4ef34d1ed21f
+Crawl started: 01a147d0-d3a7-7231-80a0-b41ab2bfbe51
 OK saved: crawl-https-example-com
+Working on: https://site.com
+OK saved: https-site-com
+Working on: search: كلمات البحث
+OK saved: search-page
+Working on: crawl: https://site.com
+Crawl started: 01a147d1-1c9b-712c-a754-69d310d74c07
+OK saved: crawl-https-site-com
