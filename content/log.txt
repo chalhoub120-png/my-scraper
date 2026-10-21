@@ -1,137 +1,23 @@
 Working on: crawl: https://legiliban.ul.edu.lb | 50
-Crawl started: 01a14bd7-0054-72cb-a1ee-0db383b7cb30
-OK saved: crawl-https-legiliban-ul-edu-lb/0001-https-legiliban-ul-edu-lb
-OK saved: crawl-https-legiliban-ul-edu-lb/0002-https-legiliban-ul-edu-lb-Default-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0003-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0004-https-legiliban-ul-edu-lb-AdvancedRulingSearch-asp
-OK saved: crawl-https-legiliban-ul-edu-lb/0005-https-legiliban-ul-edu-lb-OpinionPage-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0006-https-legiliban-ul-edu-lb-AgreementPage-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0007-https-legiliban-ul-edu-lb-ReferencesPage-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0008-https-legiliban-ul-edu-lb-PeriodsListPage-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0009-https-legiliban-ul-edu-lb-ResearchesList-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0010-https-legiliban-ul-edu-lb-ReferenceRulings-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0011-https-legiliban-ul-edu-lb-SearchOfficialJournal-as
-OK saved: crawl-https-legiliban-ul-edu-lb/0012-https-legiliban-ul-edu-lb-Law-aspx-lawId-333606-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0013-https-legiliban-ul-edu-lb-Law-aspx-lawId-333455-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0014-https-legiliban-ul-edu-lb-Law-aspx-lawId-333977-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0015-https-legiliban-ul-edu-lb-Law-aspx-lawId-333451-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0016-https-legiliban-ul-edu-lb-Law-aspx-lawId-329374-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0017-https-legiliban-ul-edu-lb-Law-aspx-lawId-329354-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0018-https-legiliban-ul-edu-lb-Law-aspx-lawId-288693-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0019-https-legiliban-ul-edu-lb-Law-aspx-lawId-278573-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0020-https-legiliban-ul-edu-lb-ViewRulePage-aspx-ID-132
-OK saved: crawl-https-legiliban-ul-edu-lb/0021-https-legiliban-ul-edu-lb-ViewRulePage-aspx-ID-132
-OK saved: crawl-https-legiliban-ul-edu-lb/0022-https-legiliban-ul-edu-lb-ViewRulePage-aspx-ID-132
-OK saved: crawl-https-legiliban-ul-edu-lb/0023-https-legiliban-ul-edu-lb-ViewRulePage-aspx-ID-132
-OK saved: crawl-https-legiliban-ul-edu-lb/0024-http-legiliban-ul-edu-lb-Law-aspx-lawId-166998
-OK saved: crawl-https-legiliban-ul-edu-lb/0025-http-legiliban-ul-edu-lb-Law-aspx-lawId-244565
-OK saved: crawl-https-legiliban-ul-edu-lb/0026-https-legiliban-ul-edu-lb-NewsDetailPage-aspx-id-1
-OK saved: crawl-https-legiliban-ul-edu-lb/0027-https-legiliban-ul-edu-lb-CustomPage-aspx-id-4-lan
-OK saved: crawl-https-legiliban-ul-edu-lb/0028-https-legiliban-ul-edu-lb-CustomPage-aspx-id-25-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0029-https-legiliban-ul-edu-lb-CustomPage-aspx-id-18-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0030-https-legiliban-ul-edu-lb-CustomPage-aspx-id-24-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0031-https-legiliban-ul-edu-lb-CustomPage-aspx-id-16-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0032-https-legiliban-ul-edu-lb-CustomPage-aspx-id-17-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0033-https-legiliban-ul-edu-lb-CustomPage-aspx-id-3-lan
-OK saved: crawl-https-legiliban-ul-edu-lb/0034-https-legiliban-ul-edu-lb-CustomPage-aspx-id-1-lan
-OK saved: crawl-https-legiliban-ul-edu-lb/0035-https-legiliban-ul-edu-lb-Contact-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0036-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0037-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0038-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0039-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0040-https-legiliban-ul-edu-lb-CustomPage-aspx-id-27-la
-OK saved: crawl-https-legiliban-ul-edu-lb/0041-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0042-https-legiliban-ul-edu-lb-LawsBySubjects-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0043-https-legiliban-ul-edu-lb-LegislationsByTopics-asp
-OK saved: crawl-https-legiliban-ul-edu-lb/0044-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0045-https-legiliban-ul-edu-lb-LawsByKeywords-aspx
-OK saved: crawl-https-legiliban-ul-edu-lb/0046-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0047-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0048-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0049-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK saved: crawl-https-legiliban-ul-edu-lb/0050-https-legiliban-ul-edu-lb-LegisltaionSearch-aspx-s
-OK crawl pages: 50
+ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: crawl: https://www.lp.gov.lb | 30
-Crawl started: 01a14bd9-f658-7210-baa5-40cbda1f42cd
-ERROR: crawl timed out
+ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: crawl: https://www.justice.gov.lb | 30
-Crawl started: 01a14bde-aecf-735d-ac0b-627951cdc3d2
-OK saved: crawl-https-www-justice-gov-lb/0001-https-www-justice-gov-lb-index-php-rights-details-
-OK saved: crawl-https-www-justice-gov-lb/0002-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0003-https-www-justice-gov-lb-index-php-rights-details-
-OK saved: crawl-https-www-justice-gov-lb/0004-https-www-justice-gov-lb-index-php-news-details-13
-OK saved: crawl-https-www-justice-gov-lb/0005-https-www-justice-gov-lb-index-php-news-details-13
-OK saved: crawl-https-www-justice-gov-lb/0006-https-www-justice-gov-lb-index-php-law-details-12-
-OK saved: crawl-https-www-justice-gov-lb/0007-https-www-justice-gov-lb-index-php-law-details-12-
-OK saved: crawl-https-www-justice-gov-lb/0008-https-www-justice-gov-lb-index-php-law-details-9-1
-OK saved: crawl-https-www-justice-gov-lb/0009-https-www-justice-gov-lb
-OK saved: crawl-https-www-justice-gov-lb/0010-https-www-justice-gov-lb-index-php-suggestions-2
-OK saved: crawl-https-www-justice-gov-lb/0011-https-www-justice-gov-lb-index-php-laws-2
-OK saved: crawl-https-www-justice-gov-lb/0012-https-www-justice-gov-lb-index-php-suggestions-1
-OK saved: crawl-https-www-justice-gov-lb/0013-https-www-justice-gov-lb-index-php-law-details-6-2
-OK saved: crawl-https-www-justice-gov-lb/0014-https-www-justice-gov-lb-index-php-law-details-2-2
-OK saved: crawl-https-www-justice-gov-lb/0015-https-www-justice-gov-lb-index-php-suggestions-3
-OK saved: crawl-https-www-justice-gov-lb/0016-https-www-justice-gov-lb-index-php-laws-1
-OK saved: crawl-https-www-justice-gov-lb/0017-https-www-justice-gov-lb-index-php-law-details-2-1
-OK saved: crawl-https-www-justice-gov-lb/0018-https-www-justice-gov-lb-index-php-news-details-13
-OK saved: crawl-https-www-justice-gov-lb/0019-https-www-justice-gov-lb-index-php-department-deta
-OK saved: crawl-https-www-justice-gov-lb/0020-https-www-justice-gov-lb-index-php-department-deta
-OK saved: crawl-https-www-justice-gov-lb/0021-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0022-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0023-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0024-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0025-https-www-justice-gov-lb-index-php-news-details-13
-OK saved: crawl-https-www-justice-gov-lb/0026-https-www-justice-gov-lb-index-php-minister-2-tab-
-OK saved: crawl-https-www-justice-gov-lb/0027-https-www-justice-gov-lb-index-php-law-details-2-3
-OK saved: crawl-https-www-justice-gov-lb/0028-https-www-justice-gov-lb-index-php-department-deta
-OK saved: crawl-https-www-justice-gov-lb/0029-https-www-justice-gov-lb-index-php-news-details-13
-OK saved: crawl-https-www-justice-gov-lb/0030-https-www-justice-gov-lb-index-php-news-details-13
-OK crawl pages: 30
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 3, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 60s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":60}
 Working on: crawl: https://www.pcm.gov.lb | 30
-Crawl started: 01a14be1-4e51-71d9-aaf6-5791a8ae93b9
-OK saved: crawl-https-www-pcm-gov-lb/0001-https-www-pcm-gov-lb
-OK saved: crawl-https-www-pcm-gov-lb/0002-https-www-pcm-gov-lb-arabic-landing-aspx-pageid-6
-OK saved: crawl-https-www-pcm-gov-lb/0003-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0004-https-www-pcm-gov-lb-arabic-listingbydatewithdropd
-OK saved: crawl-https-www-pcm-gov-lb/0005-https-www-pcm-gov-lb-arabic-listingandpdf-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0006-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0007-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-2364
-OK saved: crawl-https-www-pcm-gov-lb/0008-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0009-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0010-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0011-https-www-pcm-gov-lb-arabic-landing-aspx-pageid-7
-OK saved: crawl-https-www-pcm-gov-lb/0012-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-1309
-OK saved: crawl-https-www-pcm-gov-lb/0013-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-4211
-OK saved: crawl-https-www-pcm-gov-lb/0014-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-18
-OK saved: crawl-https-www-pcm-gov-lb/0015-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-21
-OK saved: crawl-https-www-pcm-gov-lb/0016-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-22
-OK saved: crawl-https-www-pcm-gov-lb/0017-https-www-pcm-gov-lb-arabic-landing-aspx-pageid-8
-OK saved: crawl-https-www-pcm-gov-lb/0018-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-1358
-OK saved: crawl-https-www-pcm-gov-lb/0019-https-www-pcm-gov-lb-arabic-listingandcalendarnew-
-OK saved: crawl-https-www-pcm-gov-lb/0020-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-27
-OK saved: crawl-https-www-pcm-gov-lb/0021-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0022-https-www-pcm-gov-lb-arabic-listingnodate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0023-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-2743
-OK saved: crawl-https-www-pcm-gov-lb/0024-https-www-pcm-gov-lb-arabic-landing-aspx-pageid-9
-OK saved: crawl-https-www-pcm-gov-lb/0025-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-31
-OK saved: crawl-https-www-pcm-gov-lb/0026-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0027-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK saved: crawl-https-www-pcm-gov-lb/0028-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-2448
-OK saved: crawl-https-www-pcm-gov-lb/0029-https-www-pcm-gov-lb-arabic-subpg-aspx-pageid-1137
-OK saved: crawl-https-www-pcm-gov-lb/0030-https-www-pcm-gov-lb-arabic-listingbydate-aspx-pag
-OK crawl pages: 30
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 4, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 60s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":60}
 Working on: search: الجريدة الرسمية اللبنانية مراسيم وقرارات
-OK saved: search-q-1b82a4b6
+ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: search: قانون العقوبات اللبناني نص
-OK saved: search-q-50da22f2
+ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: search: قانون التجارة اللبناني نص
-OK saved: search-q-47347574
+ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: search: قانون الموجبات والعقود اللبناني نص
 ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: crawl: https://www.mehe.gov.lb | 30
-ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 5, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 59s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":59}
 Working on: crawl: https://www.crdp.org | 30
-ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 6, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 59s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":59}
 Working on: search: مرسوم تنظيم التعليم الرسمي لبنان وزارة التربية
 ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: search: قرارات وزارة التربية والتعليم العالي لبنان الجامعات
@@ -143,18 +29,18 @@ ERROR 402: {"success":false,"error":"Insufficient credits to perform this reques
 Working on: search: وزارة الاقتصاد لبنان حماية المستهلك قانون
 ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: crawl: https://www.yellowpages.com.lb | 50
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 3, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 59s, resets at Sat Oct 17 2026 22:04:07 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":59}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 7, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 57s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":57}
 Working on: search: متاجر في بيروت رقم الهاتف العنوان ساعات العمل
 ERROR 402: {"success":false,"error":"Insufficient credits to perform this request. For more credits, you can upgrade your plan at https://firecrawl.dev/pricing or try changing the request limit to a lower value."}
 Working on: search: مطاعم بيروت توصيل ساعات الدوام
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 11, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 58s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":58}
 Working on: search: محلات في طرابلس لبنان رقم الهاتف العنوان
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 12, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 38s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":38}
 Working on: search: محلات في صيدا لبنان رقم الهاتف العنوان
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 13, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 38s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":38}
 Working on: search: محلات في زحلة لبنان رقم الهاتف العنوان
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 14, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 38s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":38}
 Working on: search: تطبيقات توصيل الطلبات في لبنان مناطق التغطية
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 15, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 37s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":37}
 Working on: search: صيدليات في لبنان ساعات العمل رقم الهاتف
-ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 21s, resets at Sat Oct 17 2026 22:03:29 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":21}
+ERROR 429: {"success":false,"error":"Rate limit exceeded. Consumed (req/min): 16, Remaining (req/min): 0. Upgrade your plan at https://firecrawl.dev/pricing for increased rate limits or please retry after 37s, resets at Wed Oct 21 2026 21:25:45 GMT+0000 (Coordinated Universal Time)","retry_after_seconds":37}
