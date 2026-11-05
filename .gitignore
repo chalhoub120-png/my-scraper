@@ -1,0 +1,3 @@
+# Local Trader config contains your real SEC User-Agent (name + email).
+# Never commit it to this public repo.
+trader/config.json
